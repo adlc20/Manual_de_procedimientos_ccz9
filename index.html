@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Guía de Trámites — CCZ9 / Municipio F</title>
+  <title>Manual de Procedimientos CCZ9 | Municipio F</title>
   
   <!-- FontAwesome para iconos -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -315,8 +315,8 @@
   <header>
     <div class="header-container">
       <div class="brand">
-        <h1>Guía de Trámites CCZ 9</h1>
-        <p>Centro Comunal Zonal N.º 9 — Municipio F | Intendencia de Montevideo</p>
+        <h1>Manual de Procedimientos CCZ9 | Municipio F</h1>
+        <p>Intendencia de Montevideo</p>
       </div>
     </div>
   </header>
@@ -355,7 +355,14 @@
   </main>
 
   <script>
-    // Base de datos completa (21 trámites extraídos de la Guía CCZ 9)
+    // Remueve tildes y pasa todo a minúsculas para búsquedas más flexibles
+function normalizarTexto(texto) {
+  return texto
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+    // Base de datos de trámites
     const tramitesData = [
       {
         id: "rec-sur",
