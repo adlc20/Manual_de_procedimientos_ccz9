@@ -349,13 +349,12 @@
     <!-- Estado de búsqueda vacía -->
     <div class="no-results" id="noResults">
       <i class="fa-solid fa-folder-open"></i>
-      <p>No se encontraron trámites que coincidan con la búsqueda.</p>
+      <p>No se encontraron resultados que coincidan con la búsqueda.</p>
     </div>
 
   </main>
 
   <script>
-    // Base de datos completa (21 trámites extraídos de la Guía CCZ 9)
     
     // Remueve tildes y pasa todo a minúsculas para búsquedas más flexibles
 function normalizarTexto(texto) {
@@ -369,13 +368,14 @@ function normalizarTexto(texto) {
         id: "rec-sur",
         titulo: "Reclamos Generales (SUR)",
         categoria: "Reclamos",
-        via: "App SUR",
-        descripcion: "Ingreso de reclamos de Áreas Verdes (árboles, podas, picudo), Alumbrado Público, Cursos de Agua y Vialidad.",
+        via: "Ingresar por sistema SUR",
+        tags: ["arbol", "poda", "ramas", "palmera", "picudo", "raíz", "luz", "foco", "lampara", "alumbrado", "cañada", "cuneta", "curso", "caño", "rama", "caída", "reclamo"],
+        descripcion: "Ingreso de reclamos de Arbolado (árboles, podas, picudo), Alumbrado Público, Cursos de Agua y Vialidad.",
         requisitos: [
           "Verificar que la dirección ingresada en SUR sea exactamente donde está el problema (SIG)",
-          "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado o Ingeniero Agrónomo"
+          "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado"
         ],
-        observaciones: "Procedimiento notificado desde la Dirección del Servicio.",
+        observaciones: "Ver Anexo: Procedimiento notificado desde la Dirección del Servicio.",
         link: "https://drive.google.com/file/d/1to2FDSFV_LGr1cxYziAeqVyVC1Txs-L8/view"
       },
       {
@@ -383,28 +383,30 @@ function normalizarTexto(texto) {
         titulo: "Reclamos relacionados a Tarifa de Saneamiento",
         categoria: "Reclamos",
         via: "Buzón Ciudadano / EE",
-        descripcion: "Atención de reclamos e impugnaciones relacionadas con la Tarifa de Saneamiento.",
+        tags: ["ose", "tarifa", "saneamiento", "factura", "cobro", "deuda", "descuento", "tributo domiciliario", "perdida", "exoneración" "cedula"],
+        descripcion: "Ingreso de reclamos relacionadas con la Tarifa de Saneamiento.",
         requisitos: [
           "Cédula de Identidad del reclamante o número de RUT",
-          "Tributo Domiciliario con constancia de pago original o comprobante electrónico",
+          "Tributo Domiciliario con CONSTANCIA DE PAGO ORIGINAL o comprobante electrónico (PDF del banco)",
           "Recibo de OSE",
-          "Correo electrónico obligatorio (si no tiene, ingresar por Expediente Electrónico dejando constancia)"
+          "Correo electrónico obligatorio (si no tiene, se deberá ingresar por Expediente Electrónico dejando constancia)"
         ],
-        observaciones: "Para exoneración por ocupantes morosos o división de deudas, verificar requisitos específicos en la página.",
-        link: "https://montevideo.gub.uy/formularios/buzon_ciudadano"
+        observaciones: "Para exoneración por ocupantes morosos o división de deudas, verificar requisitos específicos en la WEB de la IM.",
+        link: "https://tramites.montevideo.gub.uy/categoria-tramite/tributos"
       },
       {
         id: "fact-gestion",
         titulo: "Gestión de Facturas",
         categoria: "Facturación",
         via: "GIC / Presencial",
+        tags: ["duplicado", "factura", "deuda", "estado de cuenta", "contribucion inmobiliaria", "tributos domiciliarios", "convenio", "agenda", "titulo", "propiedad", "informe de deuda", "pago", "saneamiento"],
         descripcion: "Emisión de duplicados, informes de deuda, estados de cuenta y reserva de agenda para convenios.",
         requisitos: [
           "Tributos Domiciliarios, Tarifa Saneamiento y Convenios: Presentar factura anterior (papel, foto o PDF)",
           "Contribución Inmobiliaria (últimos 12 meses): Presentar factura anterior",
           "Contribución Inmobiliaria (> 12 meses o total): Título de propiedad, promesa inscripta, certificado notarial o constancia BHU/ANV/MVOTMA actualizados"
         ],
-        observaciones: "Criterio ajustado con la unidad de Ingresos Inmobiliarios.",
+        observaciones: "Criterio ajustado con la unidad de Ingresos Inmobiliarios.: En caso de necesitar el número de cuenta corriente, pueden presentarse con agenda previa en el Servicio de Ingresos Inmobiliarios con su cédula vigente y un timbre profesional, y firmar una Declaración Jurada (la misma se firma en calidad de propietario u ocupante). Link a la agenda: https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=INMOB&recurso=atencionalpublico&pagina_retorno=http://www.montevideo.gub.uy&solo_cuerpo=false",
         link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=GCATPUB&recurso=TRAMITESVARIOSWEB&pagina_retorno=https://www.montevideo.gub.uy&solo_cuerpo=false"
       },
       {
