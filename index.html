@@ -3,12 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manual de Procedimientos — CCZ9 | Municipio F</title>
+  <title>Guía de Trámites — CCZ9 / Municipio F</title>
   
-  <!-- FontAwesome para iconos -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  
-  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -27,24 +24,13 @@
       --radius: 10px;
     }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: 'Inter', sans-serif;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Inter', sans-serif; }
+    body { background-color: var(--bg-color); color: var(--text-main); padding-bottom: 40px; }
 
-    body {
-      background-color: var(--bg-color);
-      color: var(--text-main);
-      padding-bottom: 40px;
-    }
-
-    /* Header & Branding */
     header {
       background-color: var(--primary);
       color: #fff;
-      padding: 24px 20px;
+      padding: 20px;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
     }
 
@@ -58,26 +44,26 @@
       gap: 15px;
     }
 
-    .brand h1 {
-      font-size: 1.5rem;
-      font-weight: 700;
-      letter-spacing: -0.5px;
-    }
+    .brand h1 { font-size: 1.4rem; font-weight: 700; }
+    .brand p { font-size: 0.85rem; opacity: 0.85; }
 
-    .brand p {
+    .header-actions { display: flex; gap: 10px; }
+
+    .btn-admin {
+      background: rgba(255, 255, 255, 0.15);
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      padding: 8px 14px;
+      border-radius: 6px;
       font-size: 0.85rem;
-      opacity: 0.85;
-      margin-top: 2px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.2s;
     }
+    .btn-admin:hover { background: rgba(255, 255, 255, 0.25); }
 
-    /* Contenedor Principal */
-    .container {
-      max-width: 1100px;
-      margin: 30px auto;
-      padding: 0 20px;
-    }
+    .container { max-width: 1100px; margin: 25px auto; padding: 0 20px; }
 
-    /* Sección de Búsqueda y Filtros */
     .controls-section {
       background: var(--card-bg);
       padding: 20px;
@@ -86,754 +72,339 @@
       margin-bottom: 25px;
     }
 
-    .search-box {
-      position: relative;
-      margin-bottom: 15px;
-    }
-
-    .search-box i {
-      position: absolute;
-      left: 15px;
-      top: 50%;
-      transform: translateY(-50%);
-      color: var(--text-muted);
-      font-size: 1.1rem;
-    }
-
+    .search-box { position: relative; margin-bottom: 15px; }
+    .search-box i { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: var(--text-muted); }
     .search-box input {
-      width: 100%;
-      padding: 12px 15px 12px 45px;
-      font-size: 1rem;
-      border: 1px solid var(--border-color);
-      border-radius: 8px;
-      outline: none;
-      transition: all 0.2s ease;
+      width: 100%; padding: 12px 15px 12px 45px; font-size: 1rem;
+      border: 1px solid var(--border-color); border-radius: 8px; outline: none;
     }
 
-    .search-box input:focus {
-      border-color: var(--primary);
-      box-shadow: 0 0 0 3px rgba(0, 86, 145, 0.15);
-    }
-
-    /* Badges de Categoría (Filtros) */
-    .categories-filter {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-    }
-
+    .categories-filter { display: flex; gap: 8px; flex-wrap: wrap; }
     .btn-filter {
-      background: #edf2f7;
-      border: none;
-      padding: 8px 16px;
-      border-radius: 20px;
-      font-size: 0.88rem;
-      font-weight: 500;
-      color: var(--text-main);
-      cursor: pointer;
-      transition: all 0.2s ease;
+      background: #edf2f7; border: none; padding: 8px 16px; border-radius: 20px;
+      font-size: 0.88rem; font-weight: 500; color: var(--text-main); cursor: pointer;
     }
+    .btn-filter.active { background: var(--primary); color: #ffffff; }
 
-    .btn-filter:hover {
-      background: #e2e8f0;
-    }
+    .tramites-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
 
-    .btn-filter.active {
-      background: var(--primary);
-      color: #ffffff;
-    }
-
-    /* Rejilla de Trámites */
-    .tramites-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 20px;
-    }
-
-    /* Tarjeta de Trámite */
     .card {
-      background: var(--card-bg);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      border: 1px solid var(--border-color);
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      background: var(--card-bg); border-radius: var(--radius); box-shadow: var(--shadow);
+      border: 1px solid var(--border-color); display: flex; flex-direction: column; overflow: hidden;
     }
+    .card-header { padding: 18px 20px 12px; }
+    .card-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .tag-category { font-size: 0.72rem; font-weight: 700; color: var(--primary); background: #ebf8ff; padding: 3px 8px; border-radius: 4px; }
+    .tag-via { font-size: 0.72rem; font-weight: 600; background: #f7fafc; border: 1px solid var(--border-color); color: var(--text-muted); padding: 3px 8px; border-radius: 4px; }
+    .card-title { font-size: 1.1rem; font-weight: 600; color: var(--text-main); }
+    .card-body { padding: 0 20px 15px; font-size: 0.9rem; color: var(--text-muted); flex-grow: 1; }
+    .card-footer { padding: 12px 20px; background: #fafafa; border-top: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; }
 
-    .card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-    }
+    .btn-toggle { background: none; border: none; color: var(--primary); font-weight: 600; font-size: 0.85rem; cursor: pointer; }
+    .btn-link { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.85rem; }
 
-    .card-header {
-      padding: 18px 20px 12px;
-    }
+    .card-details { display: none; padding: 15px 20px; background: #f8fafc; border-top: 1px dashed var(--border-color); font-size: 0.88rem; }
+    .card-details.open { display: block; }
+    .card-details ul { padding-left: 18px; margin-bottom: 8px; }
+    .alert-note { background: #fffaf0; border-left: 3px solid #dd6b20; padding: 8px 12px; font-size: 0.82rem; color: #9c4221; border-radius: 4px; margin-top: 8px; }
 
-    .card-meta {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 8px;
+    /* Modal / Panel de Edición */
+    .modal-overlay {
+      position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0,0,0,0.5); display: none; justify-content: center; align-items: center; z-index: 1000;
     }
+    .modal-overlay.active { display: flex; }
+    .modal-content {
+      background: #fff; padding: 25px; border-radius: var(--radius); width: 90%; max-width: 550px;
+      max-height: 90vh; overflow-y: auto;
+    }
+    .modal-content h2 { margin-bottom: 15px; font-size: 1.2rem; color: var(--primary); }
+    .form-group { margin-bottom: 12px; }
+    .form-group label { display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 4px; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; padding: 8px 10px; font-size: 0.9rem; border: 1px solid var(--border-color); border-radius: 6px;
+    }
+    .modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px; }
+    .btn-save { background: var(--accent); color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: 600; }
+    .btn-cancel { background: #e2e8f0; color: #333; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; }
 
-    .tag-category {
-      font-size: 0.72rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--primary);
-      background: #ebf8ff;
-      padding: 3px 8px;
-      border-radius: 4px;
+    .seed-box {
+      background: #eef6ff; border: 1px solid #bee3f8; padding: 15px; border-radius: var(--radius);
+      margin-bottom: 20px; text-align: center; display: none;
     }
-
-    .tag-via {
-      font-size: 0.72rem;
-      font-weight: 600;
-      background: #f7fafc;
-      border: 1px solid var(--border-color);
-      color: var(--text-muted);
-      padding: 3px 8px;
-      border-radius: 4px;
-    }
-
-    .card-title {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: var(--text-main);
-      line-height: 1.3;
-    }
-
-    .card-body {
-      padding: 0 20px 15px;
-      font-size: 0.9rem;
-      color: var(--text-muted);
-      flex-grow: 1;
-    }
-
-    .card-footer {
-      padding: 12px 20px;
-      background: #fafafa;
-      border-top: 1px solid var(--border-color);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .btn-toggle {
-      background: none;
-      border: none;
-      color: var(--primary);
-      font-weight: 600;
-      font-size: 0.85rem;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-    }
-
-    .btn-link {
-      color: var(--accent);
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 0.85rem;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-    }
-
-    .btn-link:hover {
-      text-decoration: underline;
-    }
-
-    /* Detalles Desplegables */
-    .card-details {
-      display: none;
-      padding: 15px 20px;
-      background: #f8fafc;
-      border-top: 1px dashed var(--border-color);
-      font-size: 0.88rem;
-    }
-
-    .card-details.open {
-      display: block;
-    }
-
-    .card-details h4 {
-      font-size: 0.82rem;
-      text-transform: uppercase;
-      color: var(--text-muted);
-      margin-bottom: 6px;
-      margin-top: 10px;
-    }
-
-    .card-details h4:first-child {
-      margin-top: 0;
-    }
-
-    .card-details ul {
-      list-style-type: disc;
-      padding-left: 18px;
-      margin-bottom: 8px;
-    }
-
-    .card-details li {
-      margin-bottom: 4px;
-    }
-
-    .alert-note {
-      background: #fffaf0;
-      border-left: 3px solid #dd6b20;
-      padding: 8px 12px;
-      font-size: 0.82rem;
-      color: #9c4221;
-      border-radius: 4px;
-      margin-top: 8px;
-    }
-
-    /* Sin Resultados */
-    .no-results {
-      text-align: center;
-      padding: 40px;
-      color: var(--text-muted);
-      grid-column: 1 / -1;
-      display: none;
-    }
-
-    .no-results i {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-      opacity: 0.5;
-    }
+    .btn-seed { background: var(--primary); color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; margin-top: 8px; }
   </style>
 </head>
 <body>
 
-  <!-- Cabecera -->
   <header>
     <div class="header-container">
       <div class="brand">
-        <h1>Manual de Procedimientos — CCZ9 | Municipio F</h1>
-        <p>Intendencia de Montevideo</p>
+        <h1>Guía de Trámites CCZ 9</h1>
+        <p>Centro Comunal Zonal N.º 9 — Municipio F | Base de Datos en Tiempo Real</p>
+      </div>
+      <div class="header-actions">
+        <button class="btn-admin" onclick="openModal()"><i class="fa-solid fa-plus"></i> Nuevo Trámites</button>
       </div>
     </div>
   </header>
 
-  <!-- Contenedor Principal -->
   <main class="container">
     
-    <!-- Sección Controles: Búsqueda y Filtros -->
+    <!-- Mensaje para sincronización inicial -->
+    <div class="seed-box" id="seedBox">
+      <p><strong>La base de datos de Firebase está vacía.</strong> Hacé clic abajo para cargar automáticamente los 21 trámites oficiales del CCZ 9 en Firestore.</p>
+      <button class="btn-seed" onclick="seedDatabase()"><i class="fa-solid fa-cloud-arrow-up"></i> Cargar Trámites Iniciales a la Nube</button>
+    </div>
+
     <section class="controls-section">
       <div class="search-box">
         <i class="fa-solid fa-magnifying-glass"></i>
-        <input type="text" id="searchInput" placeholder="Buscar por trámite, requisito, canal de ingreso (SUR, GIC, EE)...">
+        <input type="text" id="searchInput" placeholder="Buscar trámite, requisito, vía de ingreso (SUR, GIC, EE)...">
       </div>
-      <div class="categories-filter" id="categoryFilters">
+      <div class="categories-filter">
         <button class="btn-filter active" data-category="todos">Todos</button>
         <button class="btn-filter" data-category="Reclamos">Reclamos</button>
         <button class="btn-filter" data-category="Facturación">Facturación</button>
         <button class="btn-filter" data-category="Denuncias">Denuncias</button>
         <button class="btn-filter" data-category="Solicitudes">Solicitudes</button>
         <button class="btn-filter" data-category="Permisos">Permisos</button>
-        <button class="btn-filter" data-category="Eventos">Apoyo a Eventos</button>
+        <button class="btn-filter" data-category="Eventos">Eventos</button>
       </div>
     </section>
 
-    <!-- Listado de Trámites -->
-    <section class="tramites-grid" id="tramitesGrid">
-      <!-- Generado dinámicamente con JavaScript -->
-    </section>
-
-    <!-- Estado de búsqueda vacía -->
-    <div class="no-results" id="noResults">
-      <i class="fa-solid fa-folder-open"></i>
-      <p>No se encontraron resultados que coincidan con la búsqueda.</p>
-    </div>
-
+    <section class="tramites-grid" id="tramitesGrid"></section>
   </main>
 
-  <script>
-    
-    // Remueve tildes y pasa todo a minúsculas para búsquedas más flexibles
-function normalizarTexto(texto) {
-  return texto
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
-    const tramitesData = [
-      {
-        id: "rec-sur",
-        titulo: "Reclamos Generales (SUR)",
-        categoria: "Reclamos",
-        via: "Ingresar por sistema SUR",
-        tags: ["arbol", "poda", "ramas", "palmera", "picudo", "raíz", "luz", "foco", "lampara", "alumbrado", "cañada", "cuneta", "curso", "caño", "rama", "caída", "reclamo"],
-        descripcion: "Ingreso de reclamos de Arbolado (árboles, podas, picudo), Alumbrado Público, Cursos de Agua y Vialidad.",
-        requisitos: [
-          "Verificar que la dirección ingresada en SUR sea exactamente donde está el problema (SIG)",
-          "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado"
-        ],
-        observaciones: "Ver Anexo: Procedimiento notificado desde la Dirección del Servicio.",
-        link: "https://drive.google.com/file/d/1to2FDSFV_LGr1cxYziAeqVyVC1Txs-L8/view"
-      },
-      {
-        id: "rec-saneamiento",
-        titulo: "Reclamos relacionados a Tarifa de Saneamiento",
-        categoria: "Reclamos",
-        via: "Buzón Ciudadano / EE",
-        tags: ["ose", "tarifa", "saneamiento", "factura", "cobro", "deuda", "descuento", "tributo domiciliario", "perdida", "exoneración" "cedula"],
-        descripcion: "Ingreso de reclamos relacionadas con la Tarifa de Saneamiento.",
-        requisitos: [
-          "Cédula de Identidad del reclamante o número de RUT",
-          "Tributo Domiciliario con CONSTANCIA DE PAGO ORIGINAL o comprobante electrónico (PDF del banco)",
-          "Recibo de OSE",
-          "Correo electrónico obligatorio (si no tiene, se deberá ingresar por Expediente Electrónico dejando constancia)"
-        ],
-        observaciones: "Para exoneración por ocupantes morosos o división de deudas, verificar requisitos específicos en la WEB de la IM.",
-        link: "https://tramites.montevideo.gub.uy/categoria-tramite/tributos"
-      },
-      {
-        id: "fact-gestion",
-        titulo: "Gestión de Facturas",
-        categoria: "Facturación",
-        via: "GIC / Presencial",
-        tags: ["duplicado", "factura", "deuda", "estado de cuenta", "contribucion inmobiliaria", "tributos domiciliarios", "convenio", "agenda", "titulo", "propiedad", "informe de deuda", "pago", "saneamiento"],
-        descripcion: "Emisión de duplicados, informes de deuda, estados de cuenta y reserva de agenda para convenios.",
-        requisitos: [
-          "Tributos Domiciliarios, Tarifa Saneamiento y Convenios: Presentar factura anterior (papel, foto o PDF)",
-          "Contribución Inmobiliaria (últimos 12 meses): Presentar factura anterior",
-          "Contribución Inmobiliaria (> 12 meses o total): Título de propiedad, promesa inscripta, certificado notarial o constancia BHU/ANV/MVOTMA actualizados"
-        ],
-        observaciones: "Criterio ajustado con la unidad de Ingresos Inmobiliarios.: En caso de necesitar el número de cuenta corriente, pueden presentarse con agenda previa en el Servicio de Ingresos Inmobiliarios con su cédula vigente y un timbre profesional, y firmar una Declaración Jurada (la misma se firma en calidad de propietario u ocupante). Link a la agenda: https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=INMOB&recurso=atencionalpublico&pagina_retorno=http://www.montevideo.gub.uy&solo_cuerpo=false",
-        link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=GCATPUB&recurso=TRAMITESVARIOSWEB&pagina_retorno=https://www.montevideo.gub.uy&solo_cuerpo=false"
-      },
-      {
-        id: "den-2vias",
-        titulo: "Denuncias Generales (Dos Vías)",
-        categoria: "Denuncias",
-        via: "Expediente Electrónico (0640)",
-        descripcion: "Denuncias por terrenos baldíos sin cerco, cunetas tapadas, salida de aguas servidas, terrenos faltos de higiene, ocupación de vereda, etc.",
-        requisitos: [
-          "Formulario DENUNCIA DOS VIAS completo",
-          "Búsqueda previa en SEE para descartar expediente en curso por el mismo tema",
-          "Verificar dirección en SIG y adjuntar mapa si es posible"
-        ],
-        observaciones: "VÍA 1 (motivo) NO lleva datos personales. VÍA 2 (datos del denunciante) NUNCA SE DIGITALIZA (se guarda en bibliorato físico de despacho). No se reciben denuncias en asentamientos salvo locales comerciales de alimentos.",
-        link: "https://drive.google.com/file/d/1tWI_26ujcoWWxxVDdJpAlRyysN3QGfLa/view"
-      },
-      {
-        id: "den-obra",
-        titulo: "Denuncia de Obra sin permiso",
-        categoria: "Denuncias",
-        via: "Expediente Electrónico (Urgente)",
-        descripcion: "Denuncias de construcciones o modificaciones edilicias en ejecución sin el correspondiente permiso.",
-        requisitos: [
-          "Formulario 'Denuncia de obra sin permiso'",
-          "Factura paga de Tasa de Ingreso de Inspección Técnica (emitida en GIC)",
-          "Agenda previa con Arquitectura",
-          "Adjuntar mapa con ubicación del problema"
-        ],
-        observaciones: "Antes de digitalizar, cortar por la línea punteada para separar la denuncia de los datos personales (anonimato). Formulario guardado en carpeta del despacho.",
-        link: "https://drive.google.com/file/d/16jlhMVOt1OEQJ2x88V0GPZwuyUrFjaIA/view"
-      },
-      {
-        id: "den-molestias",
-        titulo: "Denuncia de molestias por ruidos, humo y olores",
-        categoria: "Denuncias",
-        via: "Formulario Web IM",
-        descripcion: "Recepción de denuncias por molestias generadas por locales comerciales u orígenes autorizados por la IM.",
-        requisitos: [
-          "Ingresar al portal web de trámites de la Intendencia de Montevideo",
-          "Completar datos de ubicación de la fuente generadora de molestia"
-        ],
-        observaciones: "Aplica para actividades comerciales o industriales sujetas a contralor departamental.",
-        link: "https://tramites.montevideo.gub.uy/tramites-y-tributos/denuncia/molestias-ruidos-molestos-humo-y-olores"
-      },
-      {
-        id: "den-ruidos-finca",
-        titulo: "Denuncia de ruidos molestos provenientes de una finca particular",
-        categoria: "Denuncias",
-        via: "Trámite Externo",
-        descripcion: "Atención y derivación de denuncias por ruidos entre vecinos en viviendas particulares.",
-        requisitos: [
-          "No es competencia de la Intendencia de Montevideo"
-        ],
-        observaciones: "Acciones recomendadas al vecino: 1) Radicar denuncia civil en Seccional Policial. 2) Asesorarse en Defensoría del Vecino (0800 1616). 3) Concurrir a un Centro de Mediación Vecinal.",
-        link: null
-      },
-      {
-        id: "sol-barometrica",
-        titulo: "Servicio de Barométrica",
-        categoria: "Solicitudes",
-        via: "App SUR",
-        descripcion: "Solicitud de desagote de pozos en viviendas ubicadas en zonas no saneadas.",
-        requisitos: [
-          "Chequear obligatoriamente en SIG que NO pase colector frente al padrón",
-          "Cédula de Identidad de todos los integrantes del núcleo familiar",
-          "Recibos de ingresos o negativo de BPS de mayores de edad",
-          "Recibos de egresos (OSE, UTE, ANTEL, tributos, gastos en salud)"
-        ],
-        observaciones: "Trámite exclusivo para padrones fuera de la red de alcantarillado.",
-        link: null
-      },
-      {
-        id: "sol-fondo-saneamiento",
-        titulo: "Fondo de Saneamiento",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico",
-        descripcion: "Programa de asistencia para facilidades de conexión a la red pública de saneamiento.",
-        requisitos: [
-          "Formulario Fondo de Saneamiento y Ficha del programa completas",
-          "Cédula del solicitante y números de cédula de todo el núcleo familiar",
-          "Recibos de ingreso de todos los integrantes o negativo BPS",
-          "Facturas de Impuestos (TGM, Contribución, Saneamiento - aunque no estén al día)",
-          "Recibo de OSE y declarar si se comparte medidor"
-        ],
-        observaciones: "Se inicia por EE en el CCZ, se eleva a Municipio F y se remite a División Saneamiento.",
-        link: "https://drive.google.com/file/d/154RfXEgntT8FbBkab4nUoEnGvYF3gNeO/view"
-      },
-      {
-        id: "sol-inspeccion",
-        titulo: "Solicitud de Inspección Técnica por problemas de humedades, sanitarios, estructurales",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico",
-        descripcion: "Revisión técnica de fincas por patologías edilicias, humedades o riesgos de estructura.",
-        requisitos: [
-          "Formulario de Inspección Técnica (con agenda previa con Arquitectura)",
-          "Pago de tasa de ingreso de inspección técnica en GIC",
-          "Recibos de Contribución Inmobiliaria (si es propietario) y Tributos Domiciliarios al día",
-          "Adjuntar mapa con ubicación obtenido de SIG"
-        ],
-        observaciones: "Si la inspección es de OFICIO requiere autorización del Director y presentación del Formulario de Inspección de Oficio con datos detallados de ingresos/egresos del hogar.",
-        link: "https://montevideo.gub.uy/tramites-y-tributos/solicitud/inspeccion-tecnica-por-problemas-de-humedades-sanitarios-estructurales"
-      },
-      {
-        id: "sol-exoneracion-contribucion",
-        titulo: "Solicitud de Exoneración de Contribución Inmobiliaria",
-        categoria: "Solicitudes",
-        via: "GIC",
-        descripcion: "Tramitación de exoneración parcial de Contribución para jubilados o casos sociales.",
-        requisitos: [
-          "Atención en meses de JUNIO, JULIO Y AGOSTO",
-          "Cédulas de Identidad de todo el núcleo familiar",
-          "Recibos de ingresos de todo el núcleo familiar (emisión ENERO del año corriente)",
-          "Recibo de BPS (emisión ENERO del año corriente) y factura de Contribución Inmobiliaria",
-          "Títulos de propiedad (si es por primera vez)",
-          "Timbre profesional (sticker o se abona en la cuota de Noviembre)"
-        ],
-        observaciones: "No se exonera el total (solo el rubro Contribución). El timbre y demás conceptos se pagan en noviembre. Retroactivo hasta 4 años.",
-        link: "https://drive.google.com/file/d/1I-xyqD91YwO3yuyV99xxuvcH-OcygToq/view"
-      },
-      {
-        id: "sol-plazo-habilitaciones",
-        titulo: "Solicitud de Plazo - Control de Habilitaciones",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico existente",
-        descripcion: "Prórroga para la regularización de trámites bajo el área de Control de Habilitaciones.",
-        requisitos: [
-          "Adjuntar en el Expediente Electrónico ya existente",
-          "Formulario de solicitud de plazo (aportar correo electrónico)",
-          "Factura paga de 'PAPEL TIMBRADO CCZ' (obtener desde GIC)",
-          "Nota de fundamentación presentada por el/la vecino/a"
-        ],
-        observaciones: "Antes de emitir la factura en GIC, consultar previamente con Dirección o Jefatura si corresponde otorgar la prórroga.",
-        link: "https://drive.google.com/file/d/1H7Z_pEDfuEM4_hliM24BCnMe2NlHGIN8/view"
-      },
-      {
-        id: "sol-plazo-otros",
-        titulo: "Solicitud de Plazo - Otros",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico existente",
-        descripcion: "Solicitud de prórrogas generales para procedimientos administrativos diversos.",
-        requisitos: [
-          "Adjuntar en Expediente Electrónico existente",
-          "Formulario 'Solicitud de Plazo Editable (EXPEDIENTES)' con e-mail",
-          "Nota explicativa firmada por el vecino/a solicitante"
-        ],
-        observaciones: "Aplica a expedientes generales no encuadrados en habilitaciones comerciales.",
-        link: "https://drive.google.com/file/d/1zXcze-CKtpMatFNwFTSaHB63Py5_B9s0/view"
-      },
-      {
-        id: "sol-partidas",
-        titulo: "Solicitud de Testimonio de Partidas",
-        categoria: "Solicitudes",
-        via: "Intranet / Web DGREC",
-        descripcion: "Emisión e información sobre partidas de Nacimiento, Matrimonio o Defunción.",
-        requisitos: [
-          "Manuscritas (1917 a 2012 inclusive): Tienen costo, se imprimen en CCZ9 en papel membretado desde aplicación Registro Civil en Intranet.",
-          "Digitales (2013 a la fecha): NO se emiten en CCZ. Se tramitan exclusivamente vía web en dgrec.gub.uy"
-        ],
-        observaciones: "Para partidas digitales o datos registrales indicar al ciudadano la web oficial dgrec.gub.uy.",
-        link: "https://www.gub.uy/tramites/solicitud-partidas"
-      },
-      {
-        id: "sol-testimonio-expediente",
-        titulo: "Solicitud de Testimonio de expediente",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico existente",
-        descripcion: "Solicitud de copia fotostática o testimonio fiel de las actuaciones de un expediente.",
-        requisitos: [
-          "Formulario 'Solicitud de Testimonio' adjunto al EE",
-          "Factura paga de 'Solicitud de testimonio / escritos' (en GIC)",
-          "Quien inició el expediente tiene derecho a 1 testimonio gratuito al finalizar el trámite administrativo"
-        ],
-        observaciones: "Al entregar: fotocopiar la primera hoja del testimonio y pedir firma, aclaración, C.I. y fecha al receptor. En expedientes de denuncia guardar el formulario junto a la vía 1 física.",
-        link: "https://drive.google.com/file/d/1nLPkiAWb1neWbR8wdZ9fXHj1dj2WTX-r/view"
-      },
-      {
-        id: "sol-acceso-informacion",
-        titulo: "Solicitud de Acceso a la información pública",
-        categoria: "Solicitudes",
-        via: "Formulario Web / Presencial / Mail",
-        descripcion: "Petición de acceso a la información amparada por la Ley de Acceso a la Información Pública.",
-        requisitos: [
-          "Web: Formulario oficial en línea",
-          "Presencial: Unidad de Acceso a la Información (Piso 2, Sector Ejido, Puerta 2084 - IM)",
-          "Mail: Enviar solicitud a derechoalainformacion@imm.gub.uy indicando nombre, documento, domicilio y teléfono"
-        ],
-        observaciones: "Garantiza la transparencia administrativa de acuerdo a la normativa vigente.",
-        link: "https://formularios.montevideo.gub.uy/solicitud-acceso-informacion-publica"
-      },
-      {
-        id: "sol-fumigacion",
-        titulo: "Solicitud de Fumigación (Usuarios ASSE)",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico",
-        descripcion: "Servicio de control de roedores y eliminación de insectos en viviendas de usuarios de ASSE.",
-        requisitos: [
-          "Formulario de Fumigación completo",
-          "Constancia de Salud Pública acreditando afiliación gratuita (padrón ASSE)",
-          "Constancia de domicilio (factura UTE, OSE, ANTEL a nombre del solicitante)",
-          "Fotocopia de Cédula de Identidad"
-        ],
-        observaciones: "Exclusivo para beneficiarios de salud pública con afiliación gratuita.",
-        link: "https://drive.google.com/file/d/1buaZrk7UzZgKqZ71RdHusDTlaYdNL7qq/view"
-      },
-      {
-        id: "sol-bolardos",
-        titulo: "Solicitud de colocación de Bolardos",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico",
-        descripcion: "Solicitud de colocación de mojones de madera o metálicos en la vía pública.",
-        requisitos: [
-          "Asesoramiento previo obligatorio con Ayudante Tecnológico",
-          "Formulario de Bolardos completo con croquis del lugar"
-        ],
-        observaciones: "Ingeniería de Tránsito evaluará el croquis e informará si requiere modificaciones según la normativa.",
-        link: "https://drive.google.com/file/d/17fcGS7xGuu4B1kVSLDS8nKXBS2tXxwWG/view"
-      },
-      {
-        id: "sol-barrera-proteccion",
-        titulo: "Solicitud de Instalación de barrera de protección frente a obras",
-        categoria: "Solicitudes",
-        via: "Expediente Electrónico",
-        descripcion: "Permiso para colocar vallas protectoras por construcción, remodelación, demolición o limpieza de fachadas.",
-        requisitos: [
-          "Formulario de barrera completo",
-          "Recibo de Contribución Inmobiliaria e impuestos municipales al día",
-          "Fotocopia de Cédula de Identidad",
-          "Factura paga de 'PERMISO DE BARRERAS' (obtenida en GIC según metraje lineal y tiempo en meses)"
-        ],
-        observaciones: "El cálculo en GIC se realiza multiplicando los metros lineales por la cantidad de meses previstos.",
-        link: "https://drive.google.com/file/d/1o5Mc-ZXMDSsAWrs1_Q8-KggW4cv5_V43/view"
-      },
-      {
-        id: "perm-demolicion",
-        titulo: "Permiso de Demolición",
-        categoria: "Permisos",
-        via: "GIP / Arquitectura",
-        descripcion: "Autorización para obras de demolición total o parcial de edificaciones.",
-        requisitos: [
-          "Contribución Inmobiliaria y Tributos Domiciliarios al día",
-          "Constancia Notarial y Cédula Catastral original (obtenida en Catastro)",
-          "Planos (original y copia) en PDF y fotografías de fachada/linderos (10x15 cm) en JPG",
-          "Solicitud, Memoria firmada por el propietario y Declaración de Responsabilidad",
-          "Registro en Catastro y MTSS; Certificados de Comisión de Patrimonio si corresponde",
-          "Agenda previa con Arquitectura"
-        ],
-        observaciones: "La presentación de la solicitud NO autoriza el inicio anticipado de obras (sujeto a sanciones).",
-        link: "https://drive.google.com/file/d/1wwF5MW5X6LQSjPgw_U3nufwtv1_A_bjl/view"
-      },
-      {
-        id: "perm-salientes",
-        titulo: "Permiso de Salientes desmontables",
-        categoria: "Permisos",
-        via: "Expediente Electrónico",
-        descripcion: "Autorización para colocación de estructuras o marquesinas desmontables.",
-        requisitos: [
-          "Recibo de pago de tasa de ingreso 'SALIENTE DESMONTABLE' (en GIC)",
-          "Contribución Inmobiliaria al día (exigible al propietario) y Tributos Domiciliarios del inmueble",
-          "Constancia Notarial propia y de autorización de copropietarios (si aplica)",
-          "Planos (original en papel calco y copia en papel común)",
-          "Formulario de solicitud completo"
-        ],
-        observaciones: "Corroborar el tipo de estructura conforme a la reglamentación de salientes.",
-        link: "https://drive.google.com/file/d/12NwSasAChY7JLGROGFMPpEMlYxZBq4Fg/view"
-      },
-      {
-        id: "perm-vereda",
-        titulo: "Permiso de Construcción o reconstrucción total o parcial de vereda",
-        categoria: "Permisos",
-        via: "Expediente Electrónico",
-        descripcion: "Autorización para obras o reparación de veredas en la vía pública.",
-        requisitos: [
-          "Asesoramiento previo obligatorio con Ayudante Tecnológico",
-          "Formulario de solicitud de permiso de veredas y formulario de contacto",
-          "Firma de la autorización correspondiente en el momento de la solicitud",
-          "Si surge de una denuncia previa, vincular el EE del permiso al EE de la denuncia"
-        ],
-        observaciones: "Las obras deben comenzar dentro de los 45 días de otorgado el permiso cumpliendo con la normativa departamental.",
-        link: "https://drive.google.com/file/d/1cjXNB-ykweph7nclIfQOZqu2TfYM3O2P/view"
-      },
-      {
-        id: "ev-apoyo",
-        titulo: "Eventos (Apoyo a Eventos Culturales / Comunitarios)",
-        categoria: "Eventos",
-        via: "Formulario Web",
-        descripcion: "Solicitud de apoyo logístico y equipamiento para actividades vecinales o culturales.",
-        requisitos: [
-          "Completar el formulario de Google oficial de eventos del Municipio F",
-          "El evento debe ser estricta y exclusivamente sin fines de lucro",
-          "No debe estar relacionado con fines políticos ni religiosos"
-        ],
-        observaciones: "Consultar el reglamento de préstamo dentro del mismo formulario web.",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdDqsyiH-2PQs0oon-V0Kw2NR-FT9-8v2mDWqWoVQGS3md9OA/viewform"
-      }
-    ];
+  <!-- Modal Formulario de Edición/Creación -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-content">
+      <h2 id="modalTitle">Agregar Nuevo Trámite</h2>
+      <form id="tramiteForm">
+        <input type="hidden" id="tramiteId">
+        <div class="form-group">
+          <label>Título del Trámite</label>
+          <input type="text" id="formTitulo" required>
+        </div>
+        <div class="form-group">
+          <label>Categoría</label>
+          <select id="formCategoria">
+            <option value="Reclamos">Reclamos</option>
+            <option value="Facturación">Facturación</option>
+            <option value="Denuncias">Denuncias</option>
+            <option value="Solicitudes">Solicitudes</option>
+            <option value="Permisos">Permisos</option>
+            <option value="Eventos">Eventos</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Vía / Canal de Ingreso (ej. App SUR, Expediente Electrónico, GIC)</label>
+          <input type="text" id="formVia" required>
+        </div>
+        <div class="form-group">
+          <label>Descripción breve</label>
+          <textarea id="formDescripcion" rows="2" required></textarea>
+        </div>
+        <div class="form-group">
+          <label>Requisitos (separados por guion o línea)</label>
+          <textarea id="formRequisitos" rows="3" placeholder="Requisito 1&#10;Requisito 2"></textarea>
+        </div>
+        <div class="form-group">
+          <label>Nota de procedimiento / Observaciones</label>
+          <input type="text" id="formObservaciones">
+        </div>
+        <div class="form-group">
+          <label>Enlace / Formulario PDF (URL)</label>
+          <input type="url" id="formLink">
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="btn-cancel" onclick="closeModal()">Cancelar</button>
+          <button type="submit" class="btn-save">Guardar en Firebase</button>
+        </div>
+      </form>
+    </div>
+  </div>
 
-    // Variables de Estado
+  <!-- Scripts de Firebase SDK v9 (Modular vía CDN) -->
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js";
+    import { getFirestore, collection, onSnapshot, addDoc, doc, updateDoc, deleteDoc, writeBatch } 
+      from "https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore.js";
+
+    // ⚠️ REEMPLAZÁ ESTOS DATOS CON TU PROPIA CONFIGURACIÓN DE FIREBASE (Paso 2)
+const firebaseConfig = {
+  apiKey: "AIzaSy...",            // Tu API Key real
+  authDomain: "tu-proyecto.firebaseapp.com",
+  projectId: "tu-proyecto-id",    // Tu Project ID real
+  storageBucket: "tu-proyecto.appspot.com",
+  messagingSenderId: "123456789",
+  appId: "1:123456789:web:abc123"
+};
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+    const tramitesRef = collection(db, "tramites");
+
+    let tramitesData = [];
     let currentCategory = "todos";
     let searchQuery = "";
 
-    // Elementos DOM
-    const gridContainer = document.getElementById("tramitesGrid");
-    const searchInput = document.getElementById("searchInput");
-    const filterButtons = document.querySelectorAll(".btn-filter");
-    const noResultsEl = document.getElementById("noResults");
+    // Suscripción en Tiempo Real a Firestore
+    onSnapshot(tramitesRef, (snapshot) => {
+      tramitesData = [];
+      snapshot.forEach((doc) => {
+        tramitesData.push({ id: doc.id, ...doc.data() });
+      });
+
+      if (tramitesData.length === 0) {
+        document.getElementById("seedBox").style.display = "block";
+      } else {
+        document.getElementById("seedBox").style.display = "none";
+      }
+
+      renderTramites();
+    });
 
     // Renderizar Tarjetas
     function renderTramites() {
-      gridContainer.innerHTML = "";
-      
-const filtered = tramitesData.filter(tramite => {
-  const matchesCategory = currentCategory === "todos" || tramite.categoria === currentCategory;
-  
-  const query = normalizarTexto(searchQuery);
+      const grid = document.getElementById("tramitesGrid");
+      grid.innerHTML = "";
 
-  // Normalizamos todos los campos del trámite para comparar
-  const titulo = normalizarTexto(tramite.titulo);
-  const descripcion = normalizarTexto(tramite.descripcion);
-  const via = normalizarTexto(tramite.via);
-  const observaciones = normalizarTexto(tramite.observaciones || "");
-  const requisitos = tramite.requisitos.some(r => normalizarTexto(r).includes(query));
-  
-  // Búsqueda en el nuevo array de tags
-  const tags = tramite.tags ? tramite.tags.some(t => normalizarTexto(t).includes(query)) : false;
+      const filtered = tramitesData.filter(t => {
+        const matchesCategory = currentCategory === "todos" || t.categoria === currentCategory;
+        const matchesSearch = 
+          (t.titulo && t.titulo.toLowerCase().includes(searchQuery)) ||
+          (t.descripcion && t.descripcion.toLowerCase().includes(searchQuery)) ||
+          (t.via && t.via.toLowerCase().includes(searchQuery));
+        return matchesCategory && matchesSearch;
+      });
 
-  const matchesSearch = 
-    titulo.includes(query) ||
-    descripcion.includes(query) ||
-    via.includes(query) ||
-    observaciones.includes(query) ||
-    requisitos ||
-    tags;
-
-  return matchesCategory && matchesSearch;
-});
-
-      if (filtered.length === 0) {
-        noResultsEl.style.display = "block";
-        return;
-      }
-
-      noResultsEl.style.display = "none";
-
-      filtered.forEach(tramite => {
+      filtered.forEach(t => {
         const card = document.createElement("article");
         card.className = "card";
-        
-        const reqListHtml = tramite.requisitos.map(r => `<li>${r}</li>`).join("");
-        const linkHtml = tramite.link 
-          ? `<a href="${tramite.link}" target="_blank" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Abrir Enlace</a>`
-          : `<span></span>`;
+        const reqs = Array.isArray(t.requisitos) ? t.requisitos : (t.requisitos ? t.requisitos.split('\n') : []);
+        const reqListHtml = reqs.map(r => `<li>${r}</li>`).join("");
 
         card.innerHTML = `
           <div class="card-header">
             <div class="card-meta">
-              <span class="tag-category">${tramite.categoria}</span>
-              <span class="tag-via"><i class="fa-solid fa-diagram-project"></i> ${tramite.via}</span>
+              <span class="tag-category">${t.categoria}</span>
+              <span class="tag-via">${t.via}</span>
             </div>
-            <h3 class="card-title">${tramite.titulo}</h3>
+            <h3 class="card-title">${t.titulo}</h3>
           </div>
           <div class="card-body">
-            <p>${tramite.descripcion}</p>
+            <p>${t.descripcion}</p>
           </div>
           <div class="card-footer">
-            <button class="btn-toggle" onclick="toggleDetails('${tramite.id}')">
-              <i class="fa-solid fa-circle-info"></i> Ver Detalles
-            </button>
-            ${linkHtml}
+            <button class="btn-toggle" onclick="toggleDetails('${t.id}')"><i class="fa-solid fa-circle-info"></i> Detalles</button>
+            ${t.link ? `<a href="${t.link}" target="_blank" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Formulario</a>` : ''}
+            <button style="background:none;border:none;color:#e53e3e;cursor:pointer;margin-left:8px;" onclick="deleteTramite('${t.id}')"><i class="fa-solid fa-trash"></i></button>
           </div>
-          <div class="card-details" id="details-${tramite.id}">
-            <h4>Requisitos y Documentación:</h4>
+          <div class="card-details" id="details-${t.id}">
+            <h4>Requisitos:</h4>
             <ul>${reqListHtml}</ul>
-            ${tramite.observaciones ? `<div class="alert-note"><strong>Nota de procedimiento:</strong> ${tramite.observaciones}</div>` : ''}
+            ${t.observaciones ? `<div class="alert-note"><strong>Nota:</strong> ${t.observaciones}</div>` : ''}
           </div>
         `;
-
-        gridContainer.appendChild(card);
+        grid.appendChild(card);
       });
     }
 
-    // Toggle de Acordión de Detalles
-    function toggleDetails(id) {
-      const detailsEl = document.getElementById(`details-${id}`);
-      if (detailsEl) {
-        detailsEl.classList.toggle("open");
-      }
-    }
+    // Funciones globales vinculadas a eventos
+    window.toggleDetails = (id) => {
+      document.getElementById(`details-${id}`).classList.toggle("open");
+    };
 
-    // Event Listener - Buscador en Tiempo Real
-    searchInput.addEventListener("input", (e) => {
+    window.openModal = () => {
+      document.getElementById("tramiteForm").reset();
+      document.getElementById("tramiteId").value = "";
+      document.getElementById("modalTitle").innerText = "Agregar Nuevo Trámite";
+      document.getElementById("modalOverlay").classList.add("active");
+    };
+
+    window.closeModal = () => {
+      document.getElementById("modalOverlay").classList.remove("active");
+    };
+
+    window.deleteTramite = async (id) => {
+      if (confirm("¿Estás seguro de eliminar este trámite de Firebase?")) {
+        await deleteDoc(doc(db, "tramites", id));
+      }
+    };
+
+    // Guardar o Editar en Firestore
+    document.getElementById("tramiteForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const id = document.getElementById("tramiteId").value;
+      const data = {
+        titulo: document.getElementById("formTitulo").value,
+        categoria: document.getElementById("formCategoria").value,
+        via: document.getElementById("formVia").value,
+        descripcion: document.getElementById("formDescripcion").value,
+        requisitos: document.getElementById("formRequisitos").value.split('\n').filter(r => r.trim() !== ""),
+        observaciones: document.getElementById("formObservaciones").value,
+        link: document.getElementById("formLink").value
+      };
+
+      if (id) {
+        await updateDoc(doc(db, "tramites", id), data);
+      } else {
+        await addDoc(tramitesRef, data);
+      }
+      closeModal();
+    });
+
+    // Filtros y Búsqueda
+    document.getElementById("searchInput").addEventListener("input", (e) => {
       searchQuery = e.target.value.toLowerCase().trim();
       renderTramites();
     });
 
-    // Event Listener - Filtro de Categorías
-    filterButtons.forEach(btn => {
+    document.querySelectorAll(".btn-filter").forEach(btn => {
       btn.addEventListener("click", () => {
-        filterButtons.forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".btn-filter").forEach(b => b.classList.remove("active"));
         btn.classList.add("active");
         currentCategory = btn.getAttribute("data-category");
         renderTramites();
       });
     });
 
-    // Render Inicial
-    renderTramites();
+    // Carga de trámites por defecto a la nube
+    window.seedDatabase = async () => {
+      const initialData = [
+        { titulo: "Reclamos Generales (SUR)", categoria: "Reclamos", via: "App SUR", descripcion: "Ingreso de reclamos de Áreas Verdes, Limpieza, Alumbrado, Vialidad y Saneamiento.", requisitos: ["Verificar dirección en SIG", "Para picudo avisar a Arbolado"], observaciones: "Procedimiento notificado por Dirección.", link: "https://drive.google.com/file/d/1to2FDSFV_LGr1cxYziAeqVyVC1Txs-L8/view" },
+        { titulo: "Reclamos relacionados a Tarifa de Saneamiento", categoria: "Reclamos", via: "Buzón Ciudadano / EE", descripcion: "Atención de reclamos e impugnaciones por Tarifa de Saneamiento.", requisitos: ["Cédula o RUT", "Tributo Domiciliario pago", "Recibo OSE", "E-mail obligatorio"], observaciones: "Si no tiene mail, constar en EE.", link: "https://montevideo.gub.uy/formularios/buzon_ciudadano" },
+        { titulo: "Gestión de facturas", categoria: "Facturación", via: "GIC / Presencial", descripcion: "Duplicados, informes de deuda y convenios.", requisitos: ["Factura anterior para Tributos/Saneamiento", "Título/Certificado Notarial para Contribución > 12 meses"], observaciones: "Ajustado con Ingresos Inmobiliarios.", link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=GCATPUB&recurso=TRAMITESVARIOSWEB" },
+        { titulo: "Denuncia de Obra sin permiso", categoria: "Denuncias", via: "Expediente Electrónico", descripcion: "Obras edilicias sin autorización previa.", requisitos: ["Formulario de obra sin permiso", "Tasa de inspección técnica en GIC", "Agenda previa Arquitectura"], observaciones: "Cortar formulario para mantener anonimato.", link: "https://drive.google.com/file/d/16jlhMVOt1OEQJ2x88V0GPZwuyUrFjaIA/view" },
+        { titulo: "Denuncia de molestias por ruidos, humo y olores", categoria: "Denuncias", via: "Formulario Web", descripcion: "Molestias generadas por comercios o fuentes reguladas.", requisitos: ["Ingresar al portal IM"], observaciones: "Aplica a actividades comerciales.", link: "https://tramites.montevideo.gub.uy/tramites-y-tributos/denuncia/molestias-ruidos-molestos-humo-y-olores" },
+        { titulo: "Denuncia de ruidos molestos provenientes de una finca particular.", categoria: "Denuncias", via: "Trámite Externo", descripcion: "Conflictos entre vecinos particulares.", requisitos: ["No es competencia IM"], observaciones: "Derivar a Seccional Policial o Defensoría del Vecino (0800 1616).", link: "" },
+        { titulo: "Servicio de Barométrica.", categoria: "Solicitudes", via: "App SUR", descripcion: "Desagote en zonas no saneadas.", requisitos: ["Verificar que no pase colector en SIG", "Cédulas de la familia", "Ingresos/BPS", "Recibos egresos"], observaciones: "Exclusivo zonas sin red.", link: "" },
+        { titulo: "Fondo de Saneamiento", categoria: "Solicitudes", via: "Expediente Electrónico", descripcion: "Ayuda para conexión a red pública.", requisitos: ["Ficha y Formulario Fondo Saneamiento", "Ingresos del hogar", "Recibo OSE"], observaciones: "Elevar a Municipio F.", link: "https://drive.google.com/file/d/154RfXEgntT8FbBkab4nUoEnGvYF3gNeO/view" },
+        { titulo: "Solicitud de Inspección Técnica por problemas de humedades, sanitarios, estructurales.", categoria: "Solicitudes", via: "Expediente Electrónico", descripcion: "Revisión técnica de edificaciones.", requisitos: ["Formulario Inspección", "Tasa paga en GIC", "Tributos al día"], observaciones: "Agenda previa con Arquitectura.", link: "https://montevideo.gub.uy/tramites-y-tributos/solicitud/inspeccion-tecnica-por-problemas-de-humedades-sanitarios-estructurales" },
+        { titulo: "Solicitud de Exoneración de Contribución Inmobiliaria", categoria: "Solicitudes", via: "GIC", descripcion: "Tramitación de exoneración parcial.", requisitos: ["Trámite en Junio, Julio y Agosto", "Cédulas e ingresos de Enero", "Título propiedad"], observaciones: "Descuento en rubro Contribución.", link: "https://drive.google.com/file/d/1I-xyqD91YwO3yuyV99xxuvcH-OcygToq/view" },
+        { titulo: "Solicitud de Plazo - Control de Habilitaciones", categoria: "Solicitudes", via: "EE Existente", descripcion: "Prórroga para habilitaciones.", requisitos: ["Papel timbrado CCZ en GIC", "Nota explicativa"], observaciones: "Consultar previamente con Jefatura.", link: "https://drive.google.com/file/d/1H7Z_pEDfuEM4_hliM24BCnMe2NlHGIN8/view" },
+        { titulo: "Solicitud de Plazo - Otros", categoria: "Solicitudes", via: "EE Existente", descripcion: "Prórroga para expedientes generales.", requisitos: ["Formulario plazo con mail", "Nota explicativa"], observaciones: "Adjuntar a expediente en curso.", link: "https://drive.google.com/file/d/1zXcze-CKtpMatFNwFTSaHB63Py5_B9s0/view" },
+        { titulo: "Solicitud de Testimonio de Partidas", categoria: "Solicitudes", via: "Intranet / Web", descripcion: "Partidas de nacimiento, matrimonio, defunción.", requisitos: ["1917-2012: En CCZ9 vía Intranet", "2013-Fecha: Vía dgrec.gub.uy"], observaciones: "Partidas digitales no se emiten presencial.", link: "https://www.gub.uy/tramites/solicitud-partidas" },
+        { titulo: "Solicitud de Testimonio de expediente.", categoria: "Solicitudes", via: "EE Existente", descripcion: "Copia fotostática de actuaciones.", requisitos: ["Formulario Testimonio", "Factura paga en GIC (primer testimonio al finalizar trámite es gratis)"], observaciones: "Fotocopia de 1ra hoja firmada por quien recibe.", link: "https://drive.google.com/file/d/1nLPkiAWb1neWbR8wdZ9fXHj1dj2WTX-r/view" },
+        { titulo: "Solicitud de Acceso a la información pública", categoria: "Solicitudes", via: "Formulario Web / Mail", descripcion: "Solicitud amparada en Ley de Acceso.", requisitos: ["Formulario web o mail a derechoalainformacion@imm.gub.uy"], observaciones: "Garantiza transparencia.", link: "https://formularios.montevideo.gub.uy/solicitud-acceso-informacion-publica" },
+        { titulo: "Solicitud de Fumigación (Usuarios ASSE)", categoria: "Solicitudes", via: "Expediente Electrónico", descripcion: "Control de plagas y roedores.", requisitos: ["Formulario fumigación", "Padrón gratuito ASSE", "Constancia domicilio"], observaciones: "Exclusivo usuarios ASSE.", link: "https://drive.google.com/file/d/1buaZrk7UzZgKqZ71RdHusDTlaYdNL7qq/view" },
+        { titulo: "Solicitud de colocación de Bolardos", categoria: "Solicitudes", via: "Expediente Electrónico", descripcion: "Instalación de mojones en vía pública.", requisitos: ["Asesoramiento Ayudante Tecnológico", "Croquis del lugar"], observaciones: "Sujeto a Ingeniería de Tránsito.", link: "https://drive.google.com/file/d/17fcGS7xGuu4B1kVSLDS8nKXBS2tXxwWG/view" },
+        { titulo: "Solicitud de Instalación de barrera de protección", categoria: "Solicitudes", via: "Expediente Electrónico", descripcion: "Protección frente a obras edilicias.", requisitos: ["Permiso de barreras en GIC", "Contribución al día"], observaciones: "Cálculo por metros y meses.", link: "https://drive.google.com/file/d/1o5Mc-ZXMDSsAWrs1_Q8-KggW4cv5_V43/view" },
+        { titulo: "Permiso de Demolición.", categoria: "Permisos", via: "GIP / Arquitectura", descripcion: "Autorización de obras de demolición.", requisitos: ["Tributos al día", "Constancia Notarial", "Planos PDF y Fotos JPG", "Registros MTSS y Catastro"], observaciones: "No iniciar obras sin aprobación.", link: "https://drive.google.com/file/d/1wwF5MW5X6LQSjPgw_U3nufwtv1_A_bjl/view" },
+        { titulo: "Permiso de Salientes desmontables.", categoria: "Permisos", via: "Expediente Electrónico", descripcion: "Instalación de marquesinas.", requisitos: ["Tasa de ingreso en GIC", "Planos en calco/común", "Constancia notarial"], observaciones: "Verificar tipo de estructura.", link: "https://drive.google.com/file/d/12NwSasAChY7JLGROGFMPpEMlYxZBq4Fg/view" },
+        { titulo: "Permiso de Construcción o reconstrucción de vereda.", categoria: "Permisos", via: "Expediente Electrónico", descripcion: "Obras en aceras.", requisitos: ["Asesoramiento Ayudante Tecnológico", "Formulario veredas"], observaciones: "Comenzar obras dentro de los 45 días.", link: "https://drive.google.com/file/d/1cjXNB-ykweph7nclIfQOZqu2TfYM3O2P/view" },
+        { titulo: "Eventos", categoria: "Eventos", via: "Formulario Web", descripcion: "Apoyo a actividades comunitarias.", requisitos: ["Formulario web oficial", "Sin fines de lucro", "Sin carácter político ni religioso"], observaciones: "Sujeto a disponibilidad del Municipio F.", link: "https://docs.google.com/forms/d/e/1FAIpQLSdDqsyiH-2PQs0oon-V0Kw2NR-FT9-8v2mDWqWoVQGS3md9OA/viewform" }
+      ];
+
+      const batch = writeBatch(db);
+      initialData.forEach(t => {
+        const newDocRef = doc(tramitesRef);
+        batch.set(newDocRef, t);
+      });
+      await batch.commit();
+      alert("¡Todos los trámites iniciales fueron cargados con éxito en Firebase!");
+    };
   </script>
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.16.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.16.0/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "TU_PROJECT_ID.firebaseapp.com",
-  projectId: "TU_PROJECT_ID",
-  storageBucket: "TU_PROJECT_ID.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abcdef"
-};
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-</script>
 </body>
 </html>
