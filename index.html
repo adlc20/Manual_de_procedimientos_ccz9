@@ -337,7 +337,7 @@
         <button class="btn-filter" data-category="Denuncias">Denuncias</button>
         <button class="btn-filter" data-category="Solicitudes">Solicitudes</button>
         <button class="btn-filter" data-category="Permisos">Permisos</button>
-        <button class="btn-filter" data-category="Eventos">Eventos</button>
+        <button class="btn-filter" data-category="Eventos">Apoyo a Eventos</button>
       </div>
     </section>
 
@@ -356,15 +356,23 @@
 
   <script>
     // Base de datos completa (21 trámites extraídos de la Guía CCZ 9)
+    
+    // Remueve tildes y pasa todo a minúsculas para búsquedas más flexibles
+function normalizarTexto(texto) {
+  return texto
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
     const tramitesData = [
       {
         id: "rec-sur",
         titulo: "Reclamos Generales (SUR)",
         categoria: "Reclamos",
         via: "App SUR",
-        descripcion: "Ingreso de reclamos de Áreas Verdes (árboles, podas, picudo), Limpieza (artículos grandes, contenedores, barrido), Alumbrado, Vialidad y Saneamiento.",
+        descripcion: "Ingreso de reclamos de Áreas Verdes (árboles, podas, picudo), Alumbrado Público, Cursos de Agua y Vialidad.",
         requisitos: [
-          "Verificar que la dirección ingresada en la app sea exactamente donde está el problema (SIG)",
+          "Verificar que la dirección ingresada en SUR sea exactamente donde está el problema (SIG)",
           "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado o Ingeniero Agrónomo"
         ],
         observaciones: "Procedimiento notificado desde la Dirección del Servicio.",
@@ -707,16 +715,31 @@
     function renderTramites() {
       gridContainer.innerHTML = "";
       
-      const filtered = tramitesData.filter(tramite => {
-        const matchesCategory = currentCategory === "todos" || tramite.categoria === currentCategory;
-        const matchesSearch = 
-          tramite.titulo.toLowerCase().includes(searchQuery) ||
-          tramite.descripcion.toLowerCase().includes(searchQuery) ||
-          tramite.via.toLowerCase().includes(searchQuery) ||
-          tramite.requisitos.some(r => r.toLowerCase().includes(searchQuery));
-        
-        return matchesCategory && matchesSearch;
-      });
+const filtered = tramitesData.filter(tramite => {
+  const matchesCategory = currentCategory === "todos" || tramite.categoria === currentCategory;
+  
+  const query = normalizarTexto(searchQuery);
+
+  // Normalizamos todos los campos del trámite para comparar
+  const titulo = normalizarTexto(tramite.titulo);
+  const descripcion = normalizarTexto(tramite.descripcion);
+  const via = normalizarTexto(tramite.via);
+  const observaciones = normalizarTexto(tramite.observaciones || "");
+  const requisitos = tramite.requisitos.some(r => normalizarTexto(r).includes(query));
+  
+  // Búsqueda en el nuevo array de tags
+  const tags = tramite.tags ? tramite.tags.some(t => normalizarTexto(t).includes(query)) : false;
+
+  const matchesSearch = 
+    titulo.includes(query) ||
+    descripcion.includes(query) ||
+    via.includes(query) ||
+    observaciones.includes(query) ||
+    requisitos ||
+    tags;
+
+  return matchesCategory && matchesSearch;
+});
 
       if (filtered.length === 0) {
         noResultsEl.style.display = "block";
