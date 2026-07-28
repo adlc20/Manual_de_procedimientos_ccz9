@@ -315,8 +315,8 @@
   <header>
     <div class="header-container">
       <div class="brand">
-        <h1>Manual de Procedimientos CCZ9 | Municipio F</h1>
-        <p>Intendencia de Montevideo</p>
+        <h1>Manual de Procedimientos | Centro Comunal Zonal N.º9 F</h1>
+        <p>Municipio F | Intendencia de Montevideo</p>
       </div>
     </div>
   </header>
@@ -349,32 +349,26 @@
     <!-- Estado de búsqueda vacía -->
     <div class="no-results" id="noResults">
       <i class="fa-solid fa-folder-open"></i>
-      <p>No se encontraron trámites que coincidan con la búsqueda.</p>
+      <p>No se encontraron resultados que coincidan con la búsqueda.</p>
     </div>
 
   </main>
 
   <script>
-    // Remueve tildes y pasa todo a minúsculas para búsquedas más flexibles
-function normalizarTexto(texto) {
-  return texto
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-}
+
     // Base de datos de trámites
     const tramitesData = [
       {
         id: "rec-sur",
-        titulo: "Reclamos Generales (SUR)",
+        titulo: "Reclamos SUR",
         categoria: "Reclamos",
-        via: "App SUR",
-        descripcion: "Ingreso de reclamos de Áreas Verdes (árboles, podas, picudo), Limpieza (artículos grandes, contenedores, barrido), Alumbrado, Vialidad y Saneamiento.",
+        via: "Sistema SUR",
+        descripcion: "Ingreso de reclamos de Arbolado (árboles, podas, picudo), Alumbrado Público, Cursos de Agua, vialidad.",
         requisitos: [
-          "Verificar que la dirección ingresada en la app sea exactamente donde está el problema (SIG)",
-          "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado o Ingeniero Agrónomo"
+          "> Verificar que la dirección ingresada en SUR sea exactamente donde está el problema (usar dirección del SIG)",
+          "> En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado o Ingeniero Agrónomo"
         ],
-        observaciones: "Procedimiento notificado desde la Dirección del Servicio.",
+        observaciones: "Ver procedimiento notificado desde la Dirección del Servicio.",
         link: "https://drive.google.com/file/d/1to2FDSFV_LGr1cxYziAeqVyVC1Txs-L8/view"
       },
       {
@@ -382,15 +376,15 @@ function normalizarTexto(texto) {
         titulo: "Reclamos relacionados a Tarifa de Saneamiento",
         categoria: "Reclamos",
         via: "Buzón Ciudadano / EE",
-        descripcion: "Atención de reclamos e impugnaciones relacionadas con la Tarifa de Saneamiento.",
+        descripcion: "Gestión de reclamos relacionadas a la Tarifa de Saneamiento.",
         requisitos: [
-          "Cédula de Identidad del reclamante o número de RUT",
-          "Tributo Domiciliario con constancia de pago original o comprobante electrónico",
+          "Cédula de Identidad del ciudadano",
+          "Tributo Domiciliario con constancia de pago original, o comprobante electrónico (PDF del banco)",
           "Recibo de OSE",
-          "Correo electrónico obligatorio (si no tiene, ingresar por Expediente Electrónico dejando constancia)"
+          "Cuenta de Correo electrónico"
         ],
-        observaciones: "Para exoneración por ocupantes morosos o división de deudas, verificar requisitos específicos en la página.",
-        link: "https://montevideo.gub.uy/formularios/buzon_ciudadano"
+        observaciones: "Siempre que no tengan correo electrónico, se deberá ingresar por expediente.",
+        link: "https://tramites.montevideo.gub.uy/categoria-tramite/tributos"
       },
       {
         id: "fact-gestion",
@@ -403,8 +397,8 @@ function normalizarTexto(texto) {
           "Contribución Inmobiliaria (últimos 12 meses): Presentar factura anterior",
           "Contribución Inmobiliaria (> 12 meses o total): Título de propiedad, promesa inscripta, certificado notarial o constancia BHU/ANV/MVOTMA actualizados"
         ],
-        observaciones: "Criterio ajustado con la unidad de Ingresos Inmobiliarios.",
-        link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=GCATPUB&recurso=TRAMITESVARIOSWEB&pagina_retorno=https://www.montevideo.gub.uy&solo_cuerpo=false"
+        observaciones: "En caso de necesitar el número de cuenta corriente, pueden presentarse con agenda previa en el Servicio de Ingresos Inmobiliarios con su cédula vigente, un timbre profesional, y firmar una Declaración Jurada (la misma se firma en calidad de propietario u ocupante)",
+        link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=INMOB&recurso=atencionalpublico&pagina_retorno=http://www.montevideo.gub.uy&solo_cuerpo=false"
       },
       {
         id: "den-2vias",
