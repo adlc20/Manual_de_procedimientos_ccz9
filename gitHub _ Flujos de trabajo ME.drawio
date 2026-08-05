@@ -1,214 +1,214 @@
-<mxfile host="app.diagrams.net" pages="47">
+<mxfile host="app.diagrams.net" pages="46">
   <diagram name="ÍNDICE" id="sxRLs8XCGEbKpNFPyENx">
-    <mxGraphModel dx="1661" dy="2320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
+    <mxGraphModel dx="468" dy="1627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CuBN301GwX5NJLbEvgnB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;dashed=1;dashPattern=1 4;fillStyle=auto;opacity=50;" value="" vertex="1">
-          <mxGeometry height="1727" width="1010" x="3570" y="1475" as="geometry" />
+          <mxGeometry height="1727" width="1010" x="3594" y="1445" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=3;dashed=1;dashPattern=1 4;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 50px; font-family: Georgia; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flujos de trabajo en&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MESA DE ENTRADA&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="176" width="2294" x="2362" y="44" as="geometry" />
+          <mxGeometry height="176" width="2294" x="2362" y="31" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;FACTURAS DE BAROMÉTRICA, tipo &quot;B&quot; y &quot;C&quot;&lt;/font&gt;" link="data:page/id,8dGxzun9XLNphgis8Fy5" id="CuBN301GwX5NJLbEvgnB-4">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#000000;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="82" width="743" x="3708.5" y="2075.5" as="geometry" />
+            <mxGeometry height="82" width="743" x="3732.5" y="2045.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;BUSQUEDA DE DIRECCIÓN EN SIG&lt;/span&gt;" link="data:page/id,-dYjk8lclFo1sLhbwl1_" id="CuBN301GwX5NJLbEvgnB-5">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#000000;strokeWidth=2;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="83" width="753" x="3703.5" y="1720.5" as="geometry" />
+            <mxGeometry height="83" width="753" x="3727.5" y="1690.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;1- EXONERACIÓN DE CONTRIBUCIÓN INMOBILIARIA:&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="945" x="2430" y="563.5" as="geometry" />
+          <mxGeometry height="60" width="945" x="2454" y="533.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;i&gt;2- CONEXIÓN AL SANEAMIENTO :&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="760" x="2465" y="933.5" as="geometry" />
+          <mxGeometry height="60" width="760" x="2489" y="903.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;font style=&quot;&quot;&gt;1&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;IMPLEMENTACIÓN Y ALCANCE DE INFORMACIÓN GEOGRÁFICA:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="122" width="940" x="3586" y="1572.5" as="geometry" />
+          <mxGeometry height="122" width="940" x="3610" y="1542.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;FACTURAS PARA PARTIDAS&lt;/font&gt;" link="data:page/id,Jn7v1jUjXWHAw2CSDoI6" id="CuBN301GwX5NJLbEvgnB-9">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#000000;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="740" x="3707.5" y="2195.5" as="geometry" />
+            <mxGeometry height="80" width="740" x="3731.5" y="2165.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;INTRUCTIVO, DIRECCIÓN EXACTA SIG&lt;/font&gt;" link="data:page/id,FRHP16tb4vCBQFUhF1DF" id="CuBN301GwX5NJLbEvgnB-10">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;strokeColor=#000000;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="82" width="747" x="3713.5" y="1846.5" as="geometry" />
+            <mxGeometry height="82" width="747" x="3737.5" y="1816.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;i&gt;3- DENUNCIAS :&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="760" x="2471" y="1182.5" as="geometry" />
+          <mxGeometry height="60" width="760" x="2495" y="1152.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Una solicitud se iniciará por expediente cuando ésta no corresponda iniciarla por otra plataforma&lt;/font&gt;" vertex="1">
-          <mxGeometry height="95" width="1000" x="2450" y="436" as="geometry" />
+          <mxGeometry height="95" width="1000" x="2474" y="406" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;AGENDA ELECTRÓNICA&lt;/font&gt;" link="data:page/id,6a9shBwcToHKHBvjiNz8" id="CuBN301GwX5NJLbEvgnB-13">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#000000;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="733" x="3735.5" y="2899.5" as="geometry" />
+            <mxGeometry height="80" width="733" x="3759.5" y="2869.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;i&gt;4- INSPECCIONES TÉCNICAS :&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="760" x="2475" y="1707.5" as="geometry" />
+          <mxGeometry height="60" width="760" x="2499" y="1677.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;i&gt;5- SOLICITUDES POR EXPEDIENTE:&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="760" x="2475" y="1973.5" as="geometry" />
+          <mxGeometry height="60" width="760" x="2499" y="1943.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Tahoma&quot;&gt;2&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 40px; font-family: Tahoma; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;) Expedición de partidas dentro del departamento de Montevideo (Registro Civil):&lt;/span&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="90" width="1020" x="3520" y="361.5" as="geometry" />
+          <mxGeometry height="90" width="1020" x="3544" y="331.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;CONSULTA Y EXPEDICIÓN DE PARTIDAS&lt;/font&gt;" link="data:page/id,8jn0QHEeTwUsqskRyuDI" id="CuBN301GwX5NJLbEvgnB-17">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;shadow=1;fillStyle=solid;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3743" y="499.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3767" y="469.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Tahoma&quot;&gt;3) Consulta e ingreso de solicitudes (SUR):&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="90" width="960" x="3520" y="626.5" as="geometry" />
+          <mxGeometry height="90" width="960" x="3544" y="596.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Tahoma&quot;&gt;4) Gestión de facturas por pedido del ciudadano (GIC):&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="90" width="1040" x="3540" y="1124.5" as="geometry" />
+          <mxGeometry height="90" width="1040" x="3564" y="1094.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;REVISIÓN DE ANTECEDENTES&lt;/font&gt;" link="data:page/id,uo1xVLGQVjtrRovGX8i5" id="CuBN301GwX5NJLbEvgnB-20">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;rounded=1;shadow=1;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3738" y="733.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3762" y="703.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;NUEVOS INGRESOS&lt;/font&gt;" link="data:page/id,-G1rJS7G444w-4LYZgaZ" id="CuBN301GwX5NJLbEvgnB-21">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;shadow=1;fillStyle=solid;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3738" y="853.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3762" y="823.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;BAROMÉTRICA&lt;/font&gt;" link="data:page/id,zyrBSdskUWfEzzAvj-S3" id="CuBN301GwX5NJLbEvgnB-22">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;shadow=1;fillStyle=solid;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3738" y="973.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3762" y="943.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Tahoma&quot;&gt;1) Generación de expedientes :&lt;/font&gt;&lt;/span&gt;&lt;/blockquote&gt;" vertex="1">
-          <mxGeometry height="90" width="960" x="2390" y="346" as="geometry" />
+          <mxGeometry height="90" width="960" x="2414" y="316" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;INFORME DE DEUDA&lt;/font&gt;" link="data:page/id,csOOBjcIr2DZAv-pvxSg" id="CuBN301GwX5NJLbEvgnB-24">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;shadow=1;fillStyle=solid;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3767" y="1234.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3791" y="1204.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;EMISIÓN DE UNA FACTURA&lt;/font&gt;" link="data:page/id,shh_8wxMhYhoC0BlMQLE" id="CuBN301GwX5NJLbEvgnB-25">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;shadow=1;fillStyle=solid;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="80" width="660" x="3767" y="1354.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="3791" y="1324.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-26" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=50;fontColor=#ffffff;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="2294" x="2362" y="221" as="geometry" />
+          <mxGeometry height="80" width="2294" x="2362" y="207" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;ÍNDICE&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="600" x="3219" y="246" as="geometry" />
+          <mxGeometry height="30" width="600" x="3219" y="232" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;POR PRIMERA VEZ O RETROACTIVO&lt;/span&gt;" link="data:page/id,dCnvQoYtM71Gpjm7Jix1" id="CuBN301GwX5NJLbEvgnB-29">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;shadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d0cee2;strokeColor=#56517e;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2612.01" y="663.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2636.01" y="633.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;RENOVACIÓN&lt;/span&gt;" link="data:page/id,oqStplYxUGnqp0a5Cqzf" id="CuBN301GwX5NJLbEvgnB-30">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2612.01" y="793.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2636.01" y="763.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;FONDO DE SANEAMIENTO&lt;/span&gt;" link="data:page/id,X2Qi9S5u7s2i0y2iWv66" id="CuBN301GwX5NJLbEvgnB-31">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2612.01" y="1037.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2636.01" y="1007.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;DENUNCIAS CORRIENTES&lt;/span&gt;" link="data:page/id,RXAfjOLXVXekWHurk5uI" id="CuBN301GwX5NJLbEvgnB-32">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2623" y="1283.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2647" y="1253.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;DENUNCIAS por RUIDOS, OLORES y HUMO&lt;/span&gt;" link="data:page/id,nmC9eplPr-DQGe9cjGJp" id="CuBN301GwX5NJLbEvgnB-33">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2621" y="1413.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2645" y="1383.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;DENUNCIAS por OBRAS SIN PERMISO&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;(trámite con costo)&lt;/span&gt;&lt;/div&gt;" link="data:page/id,_3OulOy6QCW8cE2UrHnX" id="CuBN301GwX5NJLbEvgnB-34">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2621" y="1543.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2645" y="1513.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;INSPECCIÓN TÉCNICA, problemas de HUMEDADES, SANITARIOS, ESTRUCTURALES (Y DE OFICIO)&lt;/font&gt;&lt;/span&gt;" link="data:page/id,Zgh7UlOwyakp_RQjX8A1" id="CuBN301GwX5NJLbEvgnB-35">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="110" width="693" x="2603.5" y="1803.5" as="geometry" />
+            <mxGeometry height="110" width="693" x="2627.5" y="1773.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;SOLICITUDES VARIAS&lt;/font&gt;&lt;/span&gt;" link="data:page/id,RJuJ8_RCVYjoiNCGyV0M" id="CuBN301GwX5NJLbEvgnB-36">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2600" y="2075.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2624" y="2045.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;SOLICITUD DE FUMIGACIÓN&lt;/font&gt;&lt;/span&gt;" link="data:page/id,AOFItm7QlDPA8zg71-b-" id="CuBN301GwX5NJLbEvgnB-37">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;gradientColor=none;" vertex="1">
-            <mxGeometry height="80" width="660" x="2600.5" y="2207.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2624.5" y="2177.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="CuBN301GwX5NJLbEvgnB-38" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;FLUJOGRAMAS ANEXOS&lt;/font&gt;:&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="550" x="3782.5" y="1522.5" as="geometry" />
+          <mxGeometry height="30" width="550" x="3806.5" y="1492.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2) GESTIÓN DE FACTURAS (GIC):&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="940" x="3598.5" y="1966.5" as="geometry" />
+          <mxGeometry height="85" width="940" x="3622.5" y="1936.5" as="geometry" />
         </mxCell>
         <mxCell id="CuBN301GwX5NJLbEvgnB-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3) INICIAR LLAMADOR O GENERAR RESERVAS CON ÁREAS ESPECIALES:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="940" x="3623" y="2760.5" as="geometry" />
+          <mxGeometry height="100" width="940" x="3647" y="2730.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 30px; color: rgb(0, 0, 0);&quot;&gt;SOLICITUD DE BOLARDOS&lt;/span&gt;" link="data:page/id,8gNsWQznoxcu-ZpUe97u" id="CuBN301GwX5NJLbEvgnB-41">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2607" y="2337.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2631" y="2307.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px; color: rgb(0, 0, 0);&quot;&gt;SOLICITUD DE TESTIMONIOS DE EXPEDIENTES&lt;/span&gt;" link="data:page/id,2zNWKqyI85JLoCvGeGwB" id="CuBN301GwX5NJLbEvgnB-42">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2607" y="2470.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2631" y="2440.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;FACTURAS Y CONFIRMACIÓN DE PAGOS DE TESTIMONIOS&lt;/span&gt;" link="data:page/id,38uyCmdZsLP6wMK-i_rU" id="CuBN301GwX5NJLbEvgnB-43">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#000000;strokeWidth=2;glass=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="100" width="740" x="3707.5" y="2310.5" as="geometry" />
+            <mxGeometry height="100" width="740" x="3731.5" y="2280.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;FACTURAS Y CONFIRMACIÓN DE PAGOS PARA HABILITACIONES COMERCIALES&lt;/font&gt;" link="data:page/id,0DiVumnRuYksCDRa3gPl" id="CuBN301GwX5NJLbEvgnB-44">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#000000;strokeWidth=2;shadow=1;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="120" width="740" x="3712.5" y="2447.5" as="geometry" />
+            <mxGeometry height="120" width="740" x="3736.5" y="2417.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;CONTROL Y SOLICITUD DE PLAZOS PARA HABILITACIONES COMERCIALES&lt;/span&gt;" link="data:page/id,FDe5-jGyiD56SH6gmUgw" id="CuBN301GwX5NJLbEvgnB-49">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2603.5" y="2618.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2627.5" y="2588.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE PLAZOS DE EXPEDIENTES POR MOTIVOS VARIOS&lt;/span&gt;" link="data:page/id,7e7HCjY-EDvEPzsh5Dga" id="CuBN301GwX5NJLbEvgnB-50">
           <mxCell parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;shadow=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" vertex="1">
-            <mxGeometry height="80" width="660" x="2603.5" y="2760.5" as="geometry" />
+            <mxGeometry height="80" width="660" x="2627.5" y="2730.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;FACTURAS Y CONFIRMACIÓN DE PAGOS PARA SOLICITUD DE PLAZOS&lt;/font&gt;" link="data:page/id,yR2id_jMBbahCYsxzxyT" id="CuBN301GwX5NJLbEvgnB-65">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#000000;strokeWidth=2;shadow=1;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
-            <mxGeometry height="120" width="740" x="3716.5" y="2597.5" as="geometry" />
+            <mxGeometry height="120" width="740" x="3740.5" y="2567.5" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="XjxiD0HA6rfe5A-4MQ2I-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=30;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="65" width="1010" x="3570" y="1503" as="geometry" />
+          <mxGeometry height="65" width="1010" x="3594" y="1473" as="geometry" />
         </mxCell>
         <mxCell id="kvCF411R-SFAaTvFFwHl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;4) CÁLCULO DE DÍAS DE PLAZO:&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="68" width="940" x="3610" y="3003.5" as="geometry" />
+          <mxGeometry height="68" width="940" x="3634" y="2973.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px; color: rgb(0, 0, 0);&quot;&gt;DÍAS CALENDARIO / HÁBILES&lt;/font&gt;" link="data:page/id,TXC2mGaa9lcU3DWdPd8q" id="kvCF411R-SFAaTvFFwHl-3">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;fontColor=#333333;" vertex="1">
-            <mxGeometry height="80" width="733" x="3741" y="3095.5" as="geometry" />
+            <mxGeometry height="80" width="733" x="3765" y="3065.5" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8jn0QHEeTwUsqskRyuDI" name="PARTIDAS">
-    <mxGraphModel dx="5656" dy="3304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,7 +564,7 @@
           <mxGeometry height="60" width="279.92" x="1033.29" y="438" as="geometry" />
         </mxCell>
         <mxCell id="5jZuU8SSvASwlGRNMlQ2-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeWidth=5;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=1 4;" value="" vertex="1">
-          <mxGeometry height="140" width="2300" x="20" y="40" as="geometry" />
+          <mxGeometry height="140" width="2300" x="20" y="30" as="geometry" />
         </mxCell>
         <mxCell id="HhtHiTmB1ieRjw8qgt5c-1" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;NO&lt;/font&gt;" vertex="1">
           <mxGeometry x="1748.5" y="1902" as="geometry">
@@ -572,10 +572,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IakVtiTcjqhs2R84c6Ub-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=50;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="80" width="2300" x="20" y="180" as="geometry" />
+          <mxGeometry height="80" width="2300" x="20" y="173" as="geometry" />
         </mxCell>
         <mxCell id="IakVtiTcjqhs2R84c6Ub-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;CONSULTA Y EXPEDICIÓN DE PARTIDAS dentro del departamento de MONTEVIDEO&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="1320" x="543" y="205" as="geometry" />
+          <mxGeometry height="30" width="1320" x="509" y="198" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;ÍNDICE&lt;/font&gt;" link="data:page/id,sxRLs8XCGEbKpNFPyENx" id="4K0I1RwGZbhssEHekPx--1">
           <mxCell parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;textShadow=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1">
@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uo1xVLGQVjtrRovGX8i5" name="REVISIÓN DE ANTECEDENTES ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2853" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -955,7 +955,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-G1rJS7G444w-4LYZgaZ" name="NUEVO INGRESO DE SOLICITUD ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1134,7 +1134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="csOOBjcIr2DZAv-pvxSg" name="INFORME DE DEUDA ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1511,7 +1511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="shh_8wxMhYhoC0BlMQLE" name="EMITIR FACTURAS ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2038,7 +2038,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dCnvQoYtM71Gpjm7Jix1" name="EXON. CONT.  1era vez o retroactiva">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2429,7 +2429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oqStplYxUGnqp0a5Cqzf" name="EXON. CONT. renovación ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2651,7 +2651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X2Qi9S5u7s2i0y2iWv66" name="CONEXION SANEAMIENTO">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2811,7 +2811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. CONEXION SANEAMIENTO" id="qMDTKbNn9FyOryGrd5gf">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="75OgsYFTUHejcBnOwEzV-0" />
         <mxCell id="75OgsYFTUHejcBnOwEzV-1" parent="75OgsYFTUHejcBnOwEzV-0" />
@@ -2978,7 +2978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RXAfjOLXVXekWHurk5uI" name="DENUNCIAS CORRIENTES">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3226,7 +3226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmC9eplPr-DQGe9cjGJp" name="DENUNCIA OLORES">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3517,7 +3517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_3OulOy6QCW8cE2UrHnX" name="DENUNCIA OBRA SIN PERMISO">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3802,7 +3802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zyrBSdskUWfEzzAvj-S3" name="BAROMÉTRICA">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4337,7 +4337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zgh7UlOwyakp_RQjX8A1" name="INSPECCIONES TÉCNICAS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4688,7 +4688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AOFItm7QlDPA8zg71-b-" name="SOLICITUD DE FUMIGACIÓN ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4819,7 +4819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RJuJ8_RCVYjoiNCGyV0M" name="SOLICITUDES">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4993,7 +4993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8gNsWQznoxcu-ZpUe97u" name="SOLICITUD DE BOLARDOS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5163,7 +5163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2zNWKqyI85JLoCvGeGwB" name="TESTIMONIO DE EXPEDIENTE">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5508,7 +5508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FDe5-jGyiD56SH6gmUgw" name="HABILITACIÓN COMERCIAL ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#E6E6E6,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5794,7 +5794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7e7HCjY-EDvEPzsh5Dga" name="PLAZO MOTIVOS VARIOS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#E6E6E6,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5954,7 +5954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. DIRECCIÓN SIG INICIO" id="-dYjk8lclFo1sLhbwl1_">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="G6JhO4O3sB0y6MwTLO5e-0" />
         <mxCell id="G6JhO4O3sB0y6MwTLO5e-1" parent="G6JhO4O3sB0y6MwTLO5e-0" />
@@ -6050,7 +6050,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1TiCICgT8poLJocKJ04O" name=" A. DIRECCIÓN SIG ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6151,7 +6151,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Ud8a7sPkNgkJItIJN9E" name="A. DIRECCIÓN SIG 2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6253,7 +6253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6UFzfrn8EA3GhJpH7qF3" name="A. DIRECCIÓN SIG 3">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6355,7 +6355,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DIRECCIÓN SIG 4" id="it110Zsk0canQm6uE8sc">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="h84Ybm117xuyHlfsdQAq-0" />
         <mxCell id="h84Ybm117xuyHlfsdQAq-1" parent="h84Ybm117xuyHlfsdQAq-0" />
@@ -6462,7 +6462,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name=" A. DIRECCIÓN SIG 5" id="YF9p5rDBEi1h19ogAXsA">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="niDwsa8_xRfTwvBL8Lgx-0" />
         <mxCell id="niDwsa8_xRfTwvBL8Lgx-1" parent="niDwsa8_xRfTwvBL8Lgx-0" />
@@ -6565,7 +6565,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. BAROM. &quot;B&quot; o &quot;C&quot; INICIO" id="8dGxzun9XLNphgis8Fy5">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="lse04afYczbKfO5NflHp-0" />
         <mxCell id="lse04afYczbKfO5NflHp-1" parent="lse04afYczbKfO5NflHp-0" />
@@ -6677,7 +6677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KLyl1rAcaTg9RXjFscTn" name="A. BAROM. &quot;B&quot; o &quot;C&quot; ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6792,7 +6792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name=" A. BAROM. &quot;B&quot; o &quot;C&quot; 2" id="64yx1xUggubrpJv5TTDn">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="gde5mE4dDbULFDpvHIzJ-0" />
         <mxCell id="gde5mE4dDbULFDpvHIzJ-1" parent="gde5mE4dDbULFDpvHIzJ-0" />
@@ -6915,7 +6915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. FACTURA DE PARTIDAS INICIO" id="Jn7v1jUjXWHAw2CSDoI6">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="HjBBTKZnZ2LiCYS28qo9-0" />
         <mxCell id="HjBBTKZnZ2LiCYS28qo9-1" parent="HjBBTKZnZ2LiCYS28qo9-0" />
@@ -6983,7 +6983,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="prgMu-EKaKskSbkIzUub" name="A. FACTURA DE PARTIDAS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7056,7 +7056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name=" A. AGÉNDA ELECTRONICA INICIO" id="6a9shBwcToHKHBvjiNz8">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="03vulYiiegz5cgAUxnY4-0" />
         <mxCell id="03vulYiiegz5cgAUxnY4-1" parent="03vulYiiegz5cgAUxnY4-0" />
@@ -7293,7 +7293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8pa5Ea7rBC78k-Mhthj4" name="A. AGÉNDA ELECTRONICA">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7535,7 +7535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name=" A. AGÉNDA ELECTRONICA 4" id="Yui3sv5MiCTGUGmpOYgx">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="jdOnQTLiHQlfZqXBlHBg-0" />
         <mxCell id="jdOnQTLiHQlfZqXBlHBg-1" parent="jdOnQTLiHQlfZqXBlHBg-0" />
@@ -7777,7 +7777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. AGÉNDA ELECTRONICA 2" id="uPrkVreyMQ7jlozLjiiq">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="uW39tENKX3ECFMMUXWNu-0" />
         <mxCell id="uW39tENKX3ECFMMUXWNu-1" parent="uW39tENKX3ECFMMUXWNu-0" />
@@ -8019,7 +8019,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. FACTURAS TESTIMONIOS 2" id="38uyCmdZsLP6wMK-i_rU">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="yRdBU-4ILIr-w20MsfdQ-0" />
         <mxCell id="yRdBU-4ILIr-w20MsfdQ-1" parent="yRdBU-4ILIr-w20MsfdQ-0" />
@@ -8090,7 +8090,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OvkWmZVc3m37454fs9zj" name="A. FACTURAS TESTIMONIOS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8115,19 +8115,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2b0FWR3WqWiYa9OueVR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="480" x="874.25" y="640" as="geometry" />
+          <mxGeometry height="260" width="480" x="918.75" y="620" as="geometry" />
         </mxCell>
         <mxCell id="T2b0FWR3WqWiYa9OueVR-9" edge="1" parent="1" source="T2b0FWR3WqWiYa9OueVR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="T2b0FWR3WqWiYa9OueVR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2b0FWR3WqWiYa9OueVR-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="320" x="424.25" y="717.5" as="geometry" />
+          <mxGeometry height="105" width="320" x="468.75" y="697.5" as="geometry" />
         </mxCell>
         <mxCell id="T2b0FWR3WqWiYa9OueVR-11" edge="1" parent="1" source="T2b0FWR3WqWiYa9OueVR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T2b0FWR3WqWiYa9OueVR-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1786.25" y="584.25" />
-              <mxPoint x="584.25" y="584.25" />
+              <mxPoint x="1786.29" y="584.29" />
+              <mxPoint x="628.86" y="584.29" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -8135,7 +8135,7 @@
           <mxGeometry height="217.5" width="470" x="1551.25" y="330" as="geometry" />
         </mxCell>
         <mxCell id="T2b0FWR3WqWiYa9OueVR-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="69" width="120" x="1484.25" y="735.5" as="geometry" />
+          <mxGeometry height="69" width="120" x="1528.75" y="715.5" as="geometry" />
         </mxCell>
         <mxCell id="oBqGsPLH4g5-Lzp6RiTA-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#D5E8D4;strokeWidth=5;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=1 4;" value="" vertex="1">
           <mxGeometry height="140" width="2300" x="20" y="40" as="geometry" />
@@ -8166,7 +8166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name=" A. FACTURAS DE HABILITACIÓN 2" id="0DiVumnRuYksCDRa3gPl">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="ppVbdZfhwcJUwELfc8pM-0" />
         <mxCell id="ppVbdZfhwcJUwELfc8pM-1" parent="ppVbdZfhwcJUwELfc8pM-0" />
@@ -8217,22 +8217,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppVbdZfhwcJUwELfc8pM-21" parent="ppVbdZfhwcJUwELfc8pM-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="320" x="380" y="642" as="geometry" />
+          <mxGeometry height="105" width="320" x="494" y="642" as="geometry" />
         </mxCell>
         <mxCell id="ppVbdZfhwcJUwELfc8pM-22" edge="1" parent="ppVbdZfhwcJUwELfc8pM-1" source="ppVbdZfhwcJUwELfc8pM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="ppVbdZfhwcJUwELfc8pM-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppVbdZfhwcJUwELfc8pM-23" parent="ppVbdZfhwcJUwELfc8pM-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="480" x="810" y="630" as="geometry" />
+          <mxGeometry height="260" width="480" x="924" y="630" as="geometry" />
         </mxCell>
         <mxCell id="ppVbdZfhwcJUwELfc8pM-24" parent="ppVbdZfhwcJUwELfc8pM-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1390" y="654.5" as="geometry" />
+          <mxGeometry height="80" width="120" x="1504" y="654.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="A. FACTURAS DE HABILITACIÓN" id="diqo7xnYNKoD1LdHud_i">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="R2QYL247koL12LjvVR3a-0" />
         <mxCell id="R2QYL247koL12LjvVR3a-1" parent="R2QYL247koL12LjvVR3a-0" />
@@ -8283,16 +8283,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VxTCz6FO3dHbQxpUn2KZ-0" parent="R2QYL247koL12LjvVR3a-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="320" x="360" y="662" as="geometry" />
+          <mxGeometry height="105" width="320" x="469" y="673" as="geometry" />
         </mxCell>
         <mxCell id="OIwITlDCEycZE07r2wTL-1" edge="1" parent="R2QYL247koL12LjvVR3a-1" source="pi9uD-0Mt94dliG-iwoZ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="OIwITlDCEycZE07r2wTL-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pi9uD-0Mt94dliG-iwoZ-0" parent="R2QYL247koL12LjvVR3a-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="480" x="790" y="650" as="geometry" />
+          <mxGeometry height="260" width="480" x="899" y="661" as="geometry" />
         </mxCell>
         <mxCell id="OIwITlDCEycZE07r2wTL-0" parent="R2QYL247koL12LjvVR3a-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1370" y="674.5" as="geometry" />
+          <mxGeometry height="80" width="120" x="1479" y="685.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;HABILITACIONES&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;COMERCIALES&lt;/span&gt;" link="data:page/id,FDe5-jGyiD56SH6gmUgw" id="OIwITlDCEycZE07r2wTL-4">
           <mxCell parent="R2QYL247koL12LjvVR3a-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=24;direction=west;fillColor=#bac8d3;strokeColor=#23445d;align=center;sketch=1;curveFitting=1;jiggle=2;shadow=1;gradientColor=#BAC8D3;" vertex="1">
@@ -8303,7 +8303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. FACTURA POR PLAZOS 2" id="yR2id_jMBbahCYsxzxyT">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#E6E6E6,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="7_UPviWHxIoxhGUTKf_7-0" />
         <mxCell id="7_UPviWHxIoxhGUTKf_7-1" parent="7_UPviWHxIoxhGUTKf_7-0" />
@@ -8357,22 +8357,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_UPviWHxIoxhGUTKf_7-16" parent="7_UPviWHxIoxhGUTKf_7-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="320" x="353.5" y="650" as="geometry" />
+          <mxGeometry height="105" width="320" x="505" y="659" as="geometry" />
         </mxCell>
         <mxCell id="7_UPviWHxIoxhGUTKf_7-17" edge="1" parent="7_UPviWHxIoxhGUTKf_7-1" source="7_UPviWHxIoxhGUTKf_7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="7_UPviWHxIoxhGUTKf_7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_UPviWHxIoxhGUTKf_7-18" parent="7_UPviWHxIoxhGUTKf_7-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="480" x="776.5" y="636" as="geometry" />
+          <mxGeometry height="260" width="480" x="928" y="645" as="geometry" />
         </mxCell>
         <mxCell id="7_UPviWHxIoxhGUTKf_7-19" parent="7_UPviWHxIoxhGUTKf_7-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1359" y="660" as="geometry" />
+          <mxGeometry height="80" width="120" x="1510.5" y="669" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rYZVv-1rLypz3z4x8rsG" name="A. FACTURA POR PLAZOS">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#E6E6E6,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8426,16 +8426,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EEAOwL_JzhHBpNqU_UD-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="320" x="320" y="670" as="geometry" />
+          <mxGeometry height="105" width="320" x="471" y="670" as="geometry" />
         </mxCell>
         <mxCell id="6EEAOwL_JzhHBpNqU_UD-11" edge="1" parent="1" source="6EEAOwL_JzhHBpNqU_UD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="6EEAOwL_JzhHBpNqU_UD-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EEAOwL_JzhHBpNqU_UD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 20px; background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="260" width="480" x="743" y="656" as="geometry" />
+          <mxGeometry height="260" width="480" x="894" y="656" as="geometry" />
         </mxCell>
         <mxCell id="6EEAOwL_JzhHBpNqU_UD-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1325.5" y="680" as="geometry" />
+          <mxGeometry height="80" width="120" x="1476.5" y="680" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;PLAZO POR MOTIVOS VARIOS&lt;/font&gt;" link="data:page/id,7e7HCjY-EDvEPzsh5Dga" id="W1ZfJQS6XJD4OWi8uZoL-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=30;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#bac8d3;strokeColor=#23445d;gradientColor=#BAC8D3;direction=west;" vertex="1">
@@ -8446,15 +8446,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FRHP16tb4vCBQFUhF1DF" name="A. INTRUCTIVO ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xRxsppJbPE9ZqPzAAvyr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="330" width="1225" x="675" y="380" as="geometry" />
+          <mxGeometry height="330" width="1225" x="557" y="446" as="geometry" />
         </mxCell>
         <mxCell id="xRxsppJbPE9ZqPzAAvyr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INSTRUCTIVO:&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="280" x="290" y="440" as="geometry" />
+          <mxGeometry height="60" width="280" x="1030" y="348" as="geometry" />
         </mxCell>
         <mxCell id="ee9TNclURDbglCg_z3Td-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#D5E8D4;strokeWidth=5;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=1 4;" value="" vertex="1">
           <mxGeometry height="140" width="2280" x="40" y="50" as="geometry" />
@@ -8473,16 +8473,16 @@
           </mxCell>
         </UserObject>
         <mxCell id="wPTREtuYMTymEqRxMIom-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma&lt;/i&gt;&lt;/font&gt;:&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="360" x="315" y="220.5" as="geometry" />
+          <mxGeometry height="30" width="360" x="275" y="220.5" as="geometry" />
         </mxCell>
         <mxCell id="bleJN-vVUreLWnhlIiai-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;INSTRUCTIVO PARA UBICACIONES SIN NÚMERO DE PUERTA&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="1030" x="675" y="205.5" as="geometry" />
+          <mxGeometry height="60" width="1030" x="655" y="205.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name=" A. DÍAS DE PLAZO 1" id="TXC2mGaa9lcU3DWdPd8q">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="eM_ul1vQ6lzAb3E1tJ6S-0" />
         <mxCell id="eM_ul1vQ6lzAb3E1tJ6S-1" parent="eM_ul1vQ6lzAb3E1tJ6S-0" />
@@ -8540,7 +8540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. DÍAS DE PLAZO 2" id="2jZLMMqSvurQrqf1zVkx">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="FzCAJ6Hksm8LslAoT4TA-0" />
         <mxCell id="FzCAJ6Hksm8LslAoT4TA-1" parent="FzCAJ6Hksm8LslAoT4TA-0" />
@@ -8603,7 +8603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="A. DÍAS DE PLAZO 3" id="GGnpm_BeXN8lHvA0byLg">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#E6E6E6" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="DuzZAQjITWcwvndPd8T2-0" />
         <mxCell id="DuzZAQjITWcwvndPd8T2-1" parent="DuzZAQjITWcwvndPd8T2-0" />
@@ -8662,70 +8662,6 @@
             <mxGeometry height="80" width="191.91" x="2030" y="80" as="geometry" />
           </mxCell>
         </UserObject>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="v2J2F8pX3toQa0_aWV3S" name="Apuntes ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#E6E6E6,#E6E6E6)" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ccmwRB3zMoy_Z45-DhBd-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#D5E8D4;strokeWidth=5;strokeColor=#82b366;opacity=50;dashed=1;dashPattern=1 4;" value="" vertex="1">
-          <mxGeometry height="140" width="2290" x="30" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qTAlC3e90eJx32yxX9wr-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=50;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="91" width="2290" x="30" y="200" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;ÍNDICE&lt;/font&gt;" link="data:page/id,sxRLs8XCGEbKpNFPyENx" id="w5iVZzDW7J6GyPoW0iSH-1">
-          <mxCell parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=0;legacyAnchorPoints=0;" vertex="1">
-            <mxGeometry height="70" width="250" x="110" y="95" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="w5iVZzDW7J6GyPoW0iSH-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Flujograma&lt;/font&gt;:&amp;nbsp;&lt;/i&gt;" vertex="1">
-          <mxGeometry height="40" width="350" x="340" y="225.5" as="geometry" />
-        </mxCell>
-        <mxCell id="YbQxM2uJ0LmcwVOlWKxk-3" edge="1" parent="1" source="1OByLlt79OOLfq92MhkU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" target="YbQxM2uJ0LmcwVOlWKxk-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1OByLlt79OOLfq92MhkU-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B266FF;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;INSTALACIÓN DE BARRERAS&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="460" x="140" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTXzicuFM0CLo_cqhqM-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B266FF;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;FONDO DE MATERIALES&lt;/span&gt;" vertex="1">
-          <mxGeometry height="91" width="560" x="340" y="401" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-4" edge="1" parent="1" source="YqTXzicuFM0CLo_cqhqM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qn7NF1IxqMwJkrUGBxmv-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTXzicuFM0CLo_cqhqM-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B266FF;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;PERMISO DE DEMOLICIÓN&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="460" x="150" y="860" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-6" edge="1" parent="1" source="YqTXzicuFM0CLo_cqhqM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" target="qn7NF1IxqMwJkrUGBxmv-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTXzicuFM0CLo_cqhqM-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B266FF;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;PERMISO DE SALIENTES DESMONTABLES&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="660" x="1190" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-8" edge="1" parent="1" source="YqTXzicuFM0CLo_cqhqM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" target="qn7NF1IxqMwJkrUGBxmv-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTXzicuFM0CLo_cqhqM-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#B266FF;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;PERMISO DE CONSTRUCCIÓN O RECONSTRUCCIÓN TOTAL O PARCIAL DE VEREDA&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="470" x="1190" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="YqTXzicuFM0CLo_cqhqM-8" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;strokeColor=#B266FF;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE TESTIMONIO DE PARTIDAS&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="560" x="1400" y="401" as="geometry" />
-        </mxCell>
-        <mxCell id="YbQxM2uJ0LmcwVOlWKxk-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SEE&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="710" y="596" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIA ARQUITECTURA&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="730" y="860" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SEE&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="1930" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="qn7NF1IxqMwJkrUGBxmv-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SEE&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="270" x="1890" y="815" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
