@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" pages="46">
   <diagram name="ÍNDICE" id="sxRLs8XCGEbKpNFPyENx">
-    <mxGraphModel dx="468" dy="1627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
+    <mxGraphModel dx="395" dy="1624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CuBN301GwX5NJLbEvgnB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;dashed=1;dashPattern=1 4;fillStyle=auto;opacity=50;" value="" vertex="1">
+        <mxCell id="CuBN301GwX5NJLbEvgnB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=none;dashed=1;dashPattern=1 4;fillStyle=auto;opacity=50;glass=1;shadow=0;" value="" vertex="1">
           <mxGeometry height="1727" width="1010" x="3594" y="1445" as="geometry" />
         </mxCell>
-        <mxCell id="CuBN301GwX5NJLbEvgnB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=3;dashed=1;dashPattern=1 4;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 50px; font-family: Georgia; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flujos de trabajo en&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MESA DE ENTRADA&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CuBN301GwX5NJLbEvgnB-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=none;strokeWidth=0;dashed=1;dashPattern=1 4;align=center;fontColor=#2D3748;" value="&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 50px; font-family: Georgia; background-color: transparent;&quot;&gt;Flujos de trabajo en&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;MESA DE ENTRADA&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="176" width="2294" x="2362" y="31" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;FACTURAS DE BAROMÉTRICA, tipo &quot;B&quot; y &quot;C&quot;&lt;/font&gt;" link="data:page/id,8dGxzun9XLNphgis8Fy5" id="CuBN301GwX5NJLbEvgnB-4">
@@ -26,7 +26,7 @@
         <mxCell id="CuBN301GwX5NJLbEvgnB-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;i&gt;2- CONEXIÓN AL SANEAMIENTO :&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="760" x="2489" y="903.5" as="geometry" />
         </mxCell>
-        <mxCell id="CuBN301GwX5NJLbEvgnB-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;font style=&quot;&quot;&gt;1&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;IMPLEMENTACIÓN Y ALCANCE DE INFORMACIÓN GEOGRÁFICA:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CuBN301GwX5NJLbEvgnB-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#2D3748;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;font style=&quot;&quot;&gt;1&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;IMPLEMENTACIÓN Y ALCANCE DE INFORMACIÓN GEOGRÁFICA:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="122" width="940" x="3610" y="1542.5" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;FACTURAS PARA PARTIDAS&lt;/font&gt;" link="data:page/id,Jn7v1jUjXWHAw2CSDoI6" id="CuBN301GwX5NJLbEvgnB-9">
@@ -98,10 +98,10 @@
             <mxGeometry height="80" width="660" x="3791" y="1324.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="CuBN301GwX5NJLbEvgnB-26" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=50;fontColor=#ffffff;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="CuBN301GwX5NJLbEvgnB-26" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;strokeColor=none;opacity=50;fontColor=#ffffff;shadow=0;gradientColor=none;comic=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="2294" x="2362" y="207" as="geometry" />
         </mxCell>
-        <mxCell id="CuBN301GwX5NJLbEvgnB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;ÍNDICE&lt;/font&gt;" vertex="1">
+        <mxCell id="CuBN301GwX5NJLbEvgnB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#2D3748;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;ÍNDICE&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="600" x="3219" y="232" as="geometry" />
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 30px;&quot;&gt;POR PRIMERA VEZ O RETROACTIVO&lt;/span&gt;" link="data:page/id,dCnvQoYtM71Gpjm7Jix1" id="CuBN301GwX5NJLbEvgnB-29">
@@ -193,7 +193,7 @@
             <mxGeometry height="120" width="740" x="3740.5" y="2567.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XjxiD0HA6rfe5A-4MQ2I-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#6d8764;strokeWidth=5;strokeColor=#3A5431;opacity=30;fontColor=#ffffff;" value="" vertex="1">
+        <mxCell id="XjxiD0HA6rfe5A-4MQ2I-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#BABFC4;strokeWidth=0;strokeColor=none;opacity=30;fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="65" width="1010" x="3594" y="1473" as="geometry" />
         </mxCell>
         <mxCell id="kvCF411R-SFAaTvFFwHl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;4) CÁLCULO DE DÍAS DE PLAZO:&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uo1xVLGQVjtrRovGX8i5" name="REVISIÓN DE ANTECEDENTES ">
-    <mxGraphModel dx="2853" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="3038" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
