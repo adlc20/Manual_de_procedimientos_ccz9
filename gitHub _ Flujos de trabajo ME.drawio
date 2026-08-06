@@ -194,7 +194,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="XjxiD0HA6rfe5A-4MQ2I-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#BABFC4;strokeWidth=0;strokeColor=none;opacity=30;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="65" width="1010" x="3594" y="1473" as="geometry" />
+          <mxGeometry height="65" width="1004" x="3600" y="1473" as="geometry" />
         </mxCell>
         <mxCell id="kvCF411R-SFAaTvFFwHl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;4) CÁLCULO DE DÍAS DE PLAZO:&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="68" width="940" x="3634" y="2973.5" as="geometry" />
