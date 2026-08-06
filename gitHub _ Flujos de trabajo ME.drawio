@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="46">
   <diagram name="ÍNDICE" id="sxRLs8XCGEbKpNFPyENx">
-    <mxGraphModel dx="67" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6978,74 +6978,74 @@
     </mxGraphModel>
   </diagram>
   <diagram id="prgMu-EKaKskSbkIzUub" name="A. FACTURA DE PARTIDAS">
-    <mxGraphModel dx="2278" dy="1353" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="2807" dy="1627" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OVgp0FHm5bYZVAv8PMGL-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
-          <mxGeometry height="140" width="2270" x="30" y="20" as="geometry" />
+          <mxGeometry height="140" width="2270" x="25" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-1" edge="1" parent="1" source="bAV2kgxiYx0GU560cqwV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="WHVQtLHd5Dkfjq3QCe9y-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="365" as="sourcePoint" />
+            <mxPoint x="655" y="1550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5zR1b6bX6Us-qgH12ldA-1" edge="1" parent="1" source="WHVQtLHd5Dkfjq3QCe9y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="WHVQtLHd5Dkfjq3QCe9y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresar&lt;/b&gt; al ítem &lt;b&gt;&quot;facturación&quot;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="235" x="1070" y="335" as="geometry" />
+          <mxGeometry height="60" width="235" x="1065" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-5" edge="1" parent="1" source="WHVQtLHd5Dkfjq3QCe9y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WHVQtLHd5Dkfjq3QCe9y-8" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1530" y="620" as="sourcePoint" />
+            <mxPoint x="1525" y="1805" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Hacer clic&lt;/b&gt; en:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;cobro de trámites (partidas de registro civil)&quot;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(cliquear &quot;linterna&quot;)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="451" x="1449" y="320" as="geometry" />
+          <mxGeometry height="90" width="451" x="1444" y="1505" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-7" edge="1" parent="1" source="WHVQtLHd5Dkfjq3QCe9y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WHVQtLHd5Dkfjq3QCe9y-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Completar&lt;/b&gt; los siguientes ítems:&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;CCZ&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;Cantidad a generar&lt;/b&gt; (&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1, 5, 10 o 20&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="370.25" x="500" y="550" as="geometry" />
+          <mxGeometry height="100" width="370.25" x="495" y="1735" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-9" edge="1" parent="1" source="WHVQtLHd5Dkfjq3QCe9y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" target="WHVQtLHd5Dkfjq3QCe9y-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Por último,&lt;b&gt; cliquear&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;generar débito&quot;&lt;/b&gt; &lt;b&gt;para imprimir&lt;/b&gt; las facturas&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="395.75" x="960.12" y="560" as="geometry" />
+          <mxGeometry height="80" width="395.75" x="955.12" y="1745" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="1460.12" y="570" as="geometry" />
+          <mxGeometry height="60" width="140" x="1455.12" y="1755" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-13" edge="1" parent="1" source="WHVQtLHd5Dkfjq3QCe9y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="WHVQtLHd5Dkfjq3QCe9y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WHVQtLHd5Dkfjq3QCe9y-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INGRESAR AL SISTEMA:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;GIC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="300" x="640.0000000000001" y="335" as="geometry" />
+          <mxGeometry height="60" width="300" x="635.0000000000001" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="NxPR_pkRS90yEzldetkK-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;strokeColor=default;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
-          <mxGeometry height="91" width="2270" x="30" y="160" as="geometry" />
+          <mxGeometry height="91" width="2270" x="25" y="1345" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;ÍNDICE&lt;/font&gt;" link="data:page/id,sxRLs8XCGEbKpNFPyENx" id="Q0CMzUxxkG-MPXKXtVEz-1">
           <mxCell parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1">
-            <mxGeometry height="60" width="240" x="120" y="70" as="geometry" />
+            <mxGeometry height="60" width="240" x="115" y="1255" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Q0CMzUxxkG-MPXKXtVEz-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma:&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="290" y="190" as="geometry" />
+          <mxGeometry height="30" width="280" x="285" y="1375" as="geometry" />
         </mxCell>
         <mxCell id="Q0CMzUxxkG-MPXKXtVEz-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;GENERACIÓN DE FACTURAS PARA PARTIDAS&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="750" x="780" y="190" as="geometry" />
+          <mxGeometry height="30" width="750" x="775" y="1375" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;PARTIDAS&lt;/font&gt;" link="data:page/id,8jn0QHEeTwUsqskRyuDI" id="peY4noT1uG4KhmVvINXN-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=25;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=1;legacyAnchorPoints=0;fillColor=#bac8d3;strokeColor=#23445d;direction=east;gradientColor=#BAC8D3;" vertex="1">
-            <mxGeometry height="76" width="193" x="2010" y="50" as="geometry" />
+            <mxGeometry height="76" width="193" x="2005" y="1235" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="bAV2kgxiYx0GU560cqwV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="400" y="310" as="geometry" />
+          <mxGeometry height="110" width="110" x="395" y="1495" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
