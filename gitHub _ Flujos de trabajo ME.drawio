@@ -2033,7 +2033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dCnvQoYtM71Gpjm7Jix1" name="EXON. CONT.  1era vez o retroactiva">
-    <mxGraphModel dx="5468" dy="3248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="3368" dy="1952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2399,7 +2399,7 @@
           <mxGeometry height="30" width="326.56" x="227.16000000000003" y="165" as="geometry" />
         </mxCell>
         <mxCell id="L1GPQSi1CUY4l5Yk9YnI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE EXONERACIÓN DE CONTRIBUCIÓN INMOBILIARIA&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;(1era VEZ o RETROACTIVO)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="1116.81" x="595.4399999999999" y="165" as="geometry" />
+          <mxGeometry height="80" width="1116.81" x="595.44" y="141" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;ÍNDICE&lt;/font&gt;" link="data:page/id,sxRLs8XCGEbKpNFPyENx" id="ayObYep_ZMJ0WWCdotG1-1">
           <mxCell parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;textShadow=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1">
@@ -2424,7 +2424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oqStplYxUGnqp0a5Cqzf" name="EXON. CONT. renovación ">
-    <mxGraphModel dx="3418" dy="2030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2618,7 +2618,7 @@
           <mxGeometry height="30" width="360.5" x="213" y="165" as="geometry" />
         </mxCell>
         <mxCell id="rWausYEZn-r2qf4dKRM6-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE EXONERACIÓN DE CONTRIBUCIÓN INMOBILIARIA (RENOVACIÓN)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="1000" x="638.5" y="165" as="geometry" />
+          <mxGeometry height="87" width="1000" x="638.5" y="140" as="geometry" />
         </mxCell>
         <mxCell id="TK2Uy5G9APQqN5IsB7m7-1" edge="1" parent="1" source="rWausYEZn-r2qf4dKRM6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="rWausYEZn-r2qf4dKRM6-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2646,7 +2646,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X2Qi9S5u7s2i0y2iWv66" name="CONEXION SANEAMIENTO">
-    <mxGraphModel dx="3038" dy="1804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4988,7 +4988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8gNsWQznoxcu-ZpUe97u" name="SOLICITUD DE BOLARDOS">
-    <mxGraphModel dx="2485" dy="1476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5071,7 +5071,7 @@
           <mxGeometry height="77.5" width="339.25" x="1934" y="620.25" as="geometry" />
         </mxCell>
         <mxCell id="DIaYi_8m5RJ_BWpHFwLv-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE COLOCACIÓN DE BOLARDOS&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="800" x="770" y="210.5" as="geometry" />
+          <mxGeometry height="57.5" width="800" x="770" y="201.75" as="geometry" />
         </mxCell>
         <mxCell id="NvYs9W5p4JSuL18o8Sif-9" edge="1" parent="1" source="shsfazKo42mqt-smQkzt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" target="NvYs9W5p4JSuL18o8Sif-2">
           <mxGeometry relative="1" as="geometry" />
