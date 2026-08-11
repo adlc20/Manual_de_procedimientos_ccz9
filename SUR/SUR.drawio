@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9bBf8bo0HqtNO-JzyZly" name="Nuevo ingreso de solicitud">
-    <mxGraphModel dx="2807" dy="1627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,7 +527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nb2Vaf4LjS44qfDwGuas" name="Dirección SIG">
-    <mxGraphModel dx="2406" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2434" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
