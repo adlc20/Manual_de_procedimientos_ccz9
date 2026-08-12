@@ -5,4 +5,6 @@ Futuras implementaciones:
 * Guia de teléfonos - (planilla Drive incrustada o similar)
 * Solicitudes varias (mosaicos)
 * Información INBA (otras denuncias?)
-* Incluir bocetos de Bolardos 
+* Incluir bocetos de Bolardos
+* Pie de página
+* Planos .PDF del territorio (Arquitectura)
