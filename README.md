@@ -2,4 +2,7 @@
 Alojamiento del Manual de trámites del CCZ 9 y vínculo a Flujogramas
 
 Futuras implementaciones:
-* Guia de teléfonos - Drive
+* Guia de teléfonos - (planilla Drive incrustada o similar)
+* Solicitudes varias (mosaicos)
+* Información INBA (otras denuncias?)
+* Incluir bocetos de Bolardos 
