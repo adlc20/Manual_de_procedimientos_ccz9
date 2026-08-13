@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Solicitud de fumigación" id="qRJOalRI-54L0LNCdZ28">
+    <mxGraphModel dx="2546" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="140" width="2290" x="25" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;strokeColor=default;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="91" width="2290" x="25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;&lt;font style=&quot;&quot;&gt;Flujograma&lt;/font&gt;&lt;/i&gt;:&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="375" y="200.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ciudadanos usuarios de ASSE&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="798" y="477.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-6" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;¿&lt;b&gt;Quiénes&lt;/b&gt; &lt;b&gt;pueden acceder&lt;/b&gt; a este beneficio?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="101" width="270" x="455" y="457" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-8" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;align=center;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;¿Qué &lt;b&gt;documentación &lt;/b&gt;deben presentar?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="96" width="270" x="1222" y="461.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-10" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1871" y="660" />
+              <mxPoint x="200" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Cédula de identidad&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Carnet o constancia de afiliación de atención gratuita en ASSE&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Constancia de domicilio&lt;/b&gt; (UTE, OSE, ANTEL)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;&lt;u&gt;IMPORTANTE:&lt;/u&gt; &lt;b&gt;verificar&lt;/b&gt; que en todos los&lt;b&gt; documentos coincida la dirección&lt;/b&gt; a la cual se solicita el servicio &lt;b&gt;y el nombre del solicitante&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="195" width="540" x="1601" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-12" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;align=center;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Qué formulario debe completar el solicitante?&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="96" width="270" x="65" y="766" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-14" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;Completar el &quot;formulario de fumigación&quot;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;S&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;e debe fir&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;mar por el solicitante y funcionario&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="127" width="400" x="425" y="750.5" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 20px; color: rgb(51, 51, 255);&quot;&gt;&lt;u&gt;FORMULARIO&lt;/u&gt;&lt;/font&gt;" link="https://drive.google.com/file/d/1buaZrk7UzZgKqZ71RdHusDTlaYdNL7qq/view?usp=sharing" id="H3oA-jNBHai7Srm6Yzeu-16">
+          <mxCell parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=1;strokeWidth=2;fillStyle=solid;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
+            <mxGeometry height="28" width="260" x="495" y="790" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-17" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="1150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SEE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="296" x="895" y="784" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-19" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;b style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Ingresar a &quot;bandeja&quot;:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Desde &quot;oficina&quot;: CCZ9 - 3310&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&quot;crear nuevo expediente&quot;:&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="330" x="1275" y="763" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-21" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1991" y="1100" />
+              <mxPoint x="335" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;En &quot;caratula&quot;:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Tipo&quot;&lt;/b&gt; de expediente:&lt;b&gt; &quot;DESRATIZACIÓN - SOLICITUD DE&quot;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;El ítem &lt;b&gt;&quot;categoría&quot; se autocompleta&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Llenar&lt;/b&gt; los campos de &lt;b&gt;identificación y contacto&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Clasificación de información&quot;: &quot;pública&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;En &quot;Asunto&quot;:&lt;/b&gt;&amp;nbsp;Solicitud de fumigación sito en y dirección exacta tal cual figura en el SIG (calle, número de puerta y esquina) y N° de padrón.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En caso&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de que el&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;número de puerta&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del ciudadano&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; no coincida&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;con el del SIG&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, escriturar el aportado&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &quot;(&quot;In situ xxxx&quot;)&quot; junto con el del SIG&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="560" x="1711" y="733" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-23" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;textShadow=1;" value="&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;En&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&quot;carátula&quot; - &quot;editar actuación&quot;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;Escanear y adjuntar:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Cédula de identidad&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Carnet o constancia de afiliación de atención gratuita en ASSE&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Constancia de domicilio&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Formulario de fumigación completo y firmado&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;PDF de la dirección en el SIG (no excluyente)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="520" x="645" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-25" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Cliquear&lt;b&gt; &quot;guardar&quot;&lt;/b&gt; e&lt;b&gt; &quot;imprimir carátula&quot; &lt;/b&gt;para el solicitante&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95" width="320" x="175" y="1237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-27" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cliquear &lt;b&gt;&quot;guardar&quot;&lt;/b&gt; y &lt;b&gt;&quot;firmar y dar pase&quot;&lt;/b&gt; a Despacho a decretar - 7651&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Motivo&quot;&lt;/b&gt;: &quot;diligencias y actuaciones&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="386" x="1315" y="1237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="1825" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE FUMIGACIÓN PARA USUARIOS DE ASSE&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="820" x="721" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-31" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="245" y="452.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-33" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="79" width="2290" x="25" y="261" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Objetivo:&amp;nbsp; Proporcionar una fumigación gratuita en domicilios para controlar la presencia de roedores e insectos&lt;/i&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74.5" width="1670" x="305" y="265.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H3oA-jNBHai7Srm6Yzeu-35" edge="1" parent="1" source="H3oA-jNBHai7Srm6Yzeu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.052;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="H3oA-jNBHai7Srm6Yzeu-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
