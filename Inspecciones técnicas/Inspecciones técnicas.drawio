@@ -573,7 +573,7 @@
         </mxCell>
         <UserObject label="&lt;span style=&quot;font-size: 20px; white-space: normal;&quot;&gt;INSPECCIONES&amp;nbsp; TÉCNICAS&amp;nbsp;&lt;/span&gt;" link="data:page/id,L32goOnVM1yFUe4jCo6v" id="pnQylaS44LglfhLV4P7H-60">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=24;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=1;legacyAnchorPoints=0;fillColor=#bac8d3;strokeColor=#23445d;direction=east;gradientColor=#BAC8D3;" vertex="1">
-            <mxGeometry height="60" width="180" x="2027" y="65" as="geometry" />
+            <mxGeometry height="60" width="180" x="2027" y="62" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="pnQylaS44LglfhLV4P7H-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
