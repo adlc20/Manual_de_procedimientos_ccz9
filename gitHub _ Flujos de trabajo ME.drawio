@@ -8374,7 +8374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rYZVv-1rLypz3z4x8rsG" name="A. FACTURA POR PLAZOS">
-    <mxGraphModel dx="2546" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#E6E6E6)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
