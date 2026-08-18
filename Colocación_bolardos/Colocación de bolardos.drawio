@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Colocación de bolardods" id="B7_DZ935Ip9uf4DU5aUL">
-    <mxGraphModel dx="2228" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="Colocación de bolardods" id="q3NTfXMAGx1Owr7_Ya9y">
+    <mxGraphModel dx="2546" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="P6DX08goIpJUj_Xjhk1D-21" edge="1" parent="1" source="P6DX08goIpJUj_Xjhk1D-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;" target="P6DX08goIpJUj_Xjhk1D-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 20px;&quot;&gt;¿Cómo sacar fecha y hora para un área en especial?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;(ver procedimiento)&lt;/span&gt;&lt;/div&gt;" link="data:page/id,iNd_qCPwW3Jk-jA86U6g" id="P6DX08goIpJUj_Xjhk1D-22">
+        <UserObject label="&lt;span style=&quot;font-size: 20px;&quot;&gt;¿Cómo sacar fecha y hora para un área en especial?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;(ver procedimiento)&lt;/span&gt;&lt;/div&gt;" link="data:page/id,nG9dYvBiQend6BnGu8zL" id="P6DX08goIpJUj_Xjhk1D-22">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1">
             <mxGeometry height="124" width="253.25" x="1983.75" y="302" as="geometry" />
           </mxCell>
@@ -164,8 +164,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="iNd_qCPwW3Jk-jA86U6g" name="Agenda electrónica ">
-    <mxGraphModel dx="2546" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="Agenda electrónica " id="nG9dYvBiQend6BnGu8zL">
+    <mxGraphModel dx="2970" dy="1673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,31 +176,28 @@
           <mxGeometry height="91" width="2290" x="25" y="162" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Flujograma:&lt;/font&gt;&lt;/i&gt;" vertex="1">
-          <mxGeometry height="30" width="310" x="262" y="192.5" as="geometry" />
-        </mxCell>
-        <mxCell id="3E8aqVK4VCi5x16fmRu--2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;IMPLEMENTACIÓN Y ACANCE DE LA&amp;nbsp; AGENDA ELECTRÓNICA&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="932" x="702" y="193" as="geometry" />
+          <mxGeometry height="30" width="310" x="184" y="192.5" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--3" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1171" y="426" as="sourcePoint" />
+            <mxPoint x="1194" y="426" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--4" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;En el ítem &lt;b&gt;&quot;recursos&quot; &lt;/b&gt;cliqueamos &lt;b&gt;&quot;seleccionar&quot;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="420" x="950" y="576" as="geometry" />
+          <mxGeometry height="60" width="420" x="973" y="576" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--6" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INGRESAR AL SISTEMA:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Sistema de agenda electrónica&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="325" x="997" y="466" as="geometry" />
+          <mxGeometry height="60" width="325" x="1020" y="466" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--8" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3E8aqVK4VCi5x16fmRu--18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="811" as="targetPoint" />
+            <mxPoint x="918" y="811" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--9" connectable="0" parent="3E8aqVK4VCi5x16fmRu--8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;" value="&lt;font style=&quot;font-size: 21px; color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;" vertex="1">
@@ -217,25 +214,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--12" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿&lt;/b&gt;Queremos &lt;b&gt;ingresar a la agenda convencional&lt;/b&gt; para &lt;b&gt;llamar al ciudadano?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="240" x="1040" y="686" as="geometry" />
+          <mxGeometry height="110" width="240" x="1063" y="686" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--13" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Se desea agendar al ciudadano con área en especial?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="1476" y="846" as="geometry" />
+          <mxGeometry height="115" width="280" x="1499" y="846" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--15" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ver la agenda en tiempo real y aquellos ciudadanos ya atendidos:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;En &quot;Mostrando&quot; elegimos la opción de &quot;Reservadas y Utilizadas&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="380" x="298" y="1244" as="geometry" />
+          <mxGeometry height="140" width="380" x="321" y="1244" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--17" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Ítem superior &lt;b&gt;&quot;recursos&quot;&lt;/b&gt;:&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; Cliqueamos &lt;b&gt;&quot;seleccionar&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; En la lista cliqueamos &lt;b&gt;&quot;Numerados-trámites-varios&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; En la parte inferior de la agenda, cliqueamos &lt;b&gt;&quot;llamador&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;De los ítem que aparecen elegimos &lt;b&gt;&quot;lista de espera&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="220" width="410" x="518" y="844" as="geometry" />
+          <mxGeometry height="220" width="410" x="541" y="844" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--19" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--16">
           <mxGeometry relative="1" as="geometry" />
@@ -254,54 +251,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--23" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;¿Queremos &lt;b&gt;ver la lista de ciudadanos ya atendidos&lt;/b&gt;?&lt;/font&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="583" y="1114" as="geometry" />
+          <mxGeometry height="115" width="280" x="606" y="1114" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--24" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Ver la agenda en tiempo real:&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;En &quot;Mostrando&quot; elegimos la opción de &quot;Reservadas&quot;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="380" x="768" y="1244" as="geometry" />
+          <mxGeometry height="140" width="380" x="791" y="1244" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--26" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Ítem superior&lt;b&gt; &quot;recursos&quot;&lt;/b&gt;:&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; Cliqueamos&lt;b&gt; &quot;seleccionar&quot; o &quot;tramites varios&quot; (según la pestaña)&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; En la lista &lt;b&gt;cliqueamos el área&lt;/b&gt; que necesitemos: ejemplo &quot;arquitectura&quot;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;De la lista a la izquierda cliqueamos &lt;b&gt;&quot;reservas&quot;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;De los ítem&lt;/b&gt; que aparecen elegimos &lt;b&gt;&quot;reservar&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="262" width="402.5" x="1416" y="1005" as="geometry" />
+          <mxGeometry height="262" width="402.5" x="1439" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--28" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Con el ciudadano elegimos la fecha y hora disponible&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="380" x="1427" y="1314" as="geometry" />
+          <mxGeometry height="80" width="380" x="1450" y="1314" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--30" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Completamos los datos del solicitante&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Número de cédula (excluyente)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Nombre (excluyente)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Apellido (excluyente)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Número de teléfono&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Correo&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Motivo del trámite&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="380" x="1428" y="1453" as="geometry" />
+          <mxGeometry height="210" width="380" x="1451" y="1453" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--32" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.98;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" target="3E8aqVK4VCi5x16fmRu--49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1618" y="2165" />
+              <mxPoint x="1641" y="2165" />
             </Array>
-            <mxPoint x="1619" y="1836" as="targetPoint" />
+            <mxPoint x="1642" y="1836" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Confirmamos la reserva y la imprimimos para el ciudadano&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="380" x="1428" y="1710" as="geometry" />
+          <mxGeometry height="80" width="380" x="1451" y="1710" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--34" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Se &lt;b&gt;llama al ciudadano&lt;/b&gt; correspondiente según la lista y se &lt;b&gt;cliquea sobre su número de espera&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="380" x="768" y="1604" as="geometry" />
+          <mxGeometry height="80" width="380" x="791" y="1604" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--36" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--37" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Cómo se cierra la visualización del perfil del ciudadano?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="818" y="1434" as="geometry" />
+          <mxGeometry height="115" width="280" x="841" y="1434" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--38" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--44">
           <mxGeometry relative="1" as="geometry" />
@@ -320,42 +317,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--42" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿El ciudadano esta presente?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="115" width="250" x="833" y="1729" as="geometry" />
+          <mxGeometry height="115" width="250" x="856" y="1729" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--43" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cliqueamos&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Inicio de atención&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="190" x="643" y="1874" as="geometry" />
+          <mxGeometry height="80" width="190" x="666" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--45" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1163" y="2128" />
+              <mxPoint x="1186" y="2128" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cliqueamos&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Faltó&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="190" x="1068" y="1874" as="geometry" />
+          <mxGeometry height="80" width="190" x="1091" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--47" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.08;entryY=0.255;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryPerimeter=0;" target="3E8aqVK4VCi5x16fmRu--49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="738" y="2136" />
+              <mxPoint x="761" y="2136" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cliqueamos&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&quot;Fin de atención&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="190" x="643" y="2026" as="geometry" />
+          <mxGeometry height="80" width="190" x="666" y="2026" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--49" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="888" y="2116" as="geometry" />
+          <mxGeometry height="80" width="140" x="911" y="2116" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--50" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3E8aqVK4VCi5x16fmRu--35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="1504" />
-              <mxPoint x="630" y="1644" />
+              <mxPoint x="653" y="1504" />
+              <mxPoint x="653" y="1644" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -364,10 +361,11 @@
             <mxPoint x="-6" y="-85" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3E8aqVK4VCi5x16fmRu--52" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3E8aqVK4VCi5x16fmRu--56">
+        <mxCell id="3E8aqVK4VCi5x16fmRu--52" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3E8aqVK4VCi5x16fmRu--56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="1604" />
+              <mxPoint x="511" y="1687.5" />
+              <mxPoint x="511" y="1687.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -377,27 +375,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--54" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿Se desea volver a llamar al ciudadano?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="348" y="1446" as="geometry" />
+          <mxGeometry height="115" width="280" x="371" y="1446" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--55" edge="1" parent="1" source="3E8aqVK4VCi5x16fmRu--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.046;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" target="3E8aqVK4VCi5x16fmRu--49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="348" y="2171" />
+              <mxPoint x="505" y="1763" />
+              <mxPoint x="505" y="2171.25" />
             </Array>
-            <mxPoint x="347" y="1724.9999999999995" as="targetPoint" />
+            <mxPoint x="370" y="1724.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Tomamos los datos necesarios&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="190" x="253" y="1605" as="geometry" />
+          <mxGeometry height="80" width="190" x="416" y="1701" as="geometry" />
         </mxCell>
         <mxCell id="3E8aqVK4VCi5x16fmRu--57" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="1104.5" y="306" as="geometry" />
+          <mxGeometry height="110" width="110" x="1127.5" y="306" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;BOLARDOS&lt;/font&gt;" link="data:page/id,B7_DZ935Ip9uf4DU5aUL" id="2AR1kdlvCMI04tKxSYfM-1">
+        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;BOLARDOS&lt;/font&gt;" link="data:page/id,q3NTfXMAGx1Owr7_Ya9y" id="2AR1kdlvCMI04tKxSYfM-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=22.86;direction=west;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#bac8d3;strokeColor=#23445d;fillStyle=solid;" vertex="1">
             <mxGeometry height="76.5" width="179" x="2045" y="49.75" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="BpzQQri3p84vpl4evOwO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;VISUALIZAR LLAMADOR O GENERAR RESERVAS CON ÁREAS ESPECIALES&lt;/font&gt;" vertex="1">
+          <mxGeometry height="73" width="1182" x="584" y="171" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
