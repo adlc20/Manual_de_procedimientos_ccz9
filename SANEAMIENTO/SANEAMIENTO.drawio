@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="CONEXIÓN SANEAMIENTO" id="Yhz4qRLsrUf03Z1J1rSw">
-    <mxGraphModel dx="3408" dy="1872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="CONEXIÓN SANEAMIENTO" id="qlc953NAofMKyTNfyRjc">
+    <mxGraphModel dx="2546" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
         <mxCell id="-LToqVf03H2u-xkYIx0B-31" edge="1" parent="1" source="-LToqVf03H2u-xkYIx0B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=#bac8d3;strokeColor=#23445d;" target="-LToqVf03H2u-xkYIx0B-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;¿Cómo verificar que es una zona saneada?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,F2je4ekD1SHHIGrbv-J2" id="-LToqVf03H2u-xkYIx0B-32">
+        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;¿Cómo verificar que es una zona saneada?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,63cvCBnO4_GR4WXsty83" id="-LToqVf03H2u-xkYIx0B-32">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1">
             <mxGeometry height="170" width="200" x="65" y="616.75" as="geometry" />
           </mxCell>
@@ -154,8 +154,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="F2je4ekD1SHHIGrbv-J2" name="SIG">
-    <mxGraphModel dx="2434" dy="1337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="SIG" id="63cvCBnO4_GR4WXsty83">
+    <mxGraphModel dx="2546" dy="1434" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,7 +243,7 @@
         <mxCell id="7JOWapOlDXvFcBFI23B2-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="110" x="345" y="300" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;FONDO DE CONEXIONES&lt;/font&gt;" link="data:page/id,Yhz4qRLsrUf03Z1J1rSw" id="Rmpt4YbUTgVxIzVyOjBz-1">
+        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;FONDO DE CONEXIONES&lt;/font&gt;" link="data:page/id,qlc953NAofMKyTNfyRjc" id="Rmpt4YbUTgVxIzVyOjBz-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=34.11;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=1;legacyAnchorPoints=0;fillColor=#bac8d3;strokeColor=#23445d;direction=east;gradientColor=#BAC8D3;" vertex="1">
             <mxGeometry height="70" width="220" x="1996" y="56" as="geometry" />
           </mxCell>
