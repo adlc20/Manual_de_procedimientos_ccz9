@@ -8,3 +8,4 @@ Futuras implementaciones:
 * Incluir bocetos de Bolardos
 * Pie de página
 * Planos .PDF del territorio (Arquitectura)
+* Inspección Técnica de OFICIO (tarjeta)
