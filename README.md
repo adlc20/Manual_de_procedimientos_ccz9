@@ -6,7 +6,6 @@ Futuras implementaciones:
 * Solicitudes varias (mosaicos)
 * Información INBA (otras denuncias?)
 * Incluir bocetos de Bolardos
-* Pie de página
 * Planos .PDF del territorio (Arquitectura)
 * Inspección Técnica de OFICIO (tarjeta)
 * SUR - NO PIDE NOTA CUANDO NO TIENEN INGRESOS
