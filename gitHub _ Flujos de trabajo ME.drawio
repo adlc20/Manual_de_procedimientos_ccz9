@@ -3797,7 +3797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zyrBSdskUWfEzzAvj-S3" name="BAROMÉTRICA">
-    <mxGraphModel dx="5468" dy="3248" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
+    <mxGraphModel dx="2462" dy="1322" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#F4F6F9" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3975,7 +3975,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="46OtWuRIpbb9irLMa8NX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Registrar ingresos del grupo familiar:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Documentos&lt;/b&gt; de&lt;b&gt; cada integrante&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Nombre&lt;/b&gt; de cada integrante (se completa automáticamente)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Parentesco&lt;/b&gt; del integrante familiar&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Ingresos&lt;/b&gt; que obtiene &lt;b&gt;y observaciones&lt;/b&gt; si es necesario&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="195" width="442.82" x="1338.8300000000002" y="1973" as="geometry" />
+          <mxGeometry height="195" width="442.82" x="1338.8300000000002" y="1971" as="geometry" />
         </mxCell>
         <mxCell id="D5Ig1XG1NwYwAS3tXxNH-39" edge="1" parent="1" source="BRgTsojIAVvBWj4RdGr1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="snH6G8d_56UrLwe5YlsO-1">
           <mxGeometry relative="1" as="geometry">
@@ -4297,7 +4297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D5Ig1XG1NwYwAS3tXxNH-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿El ciudadano presenta correctamente los documentos?&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="95" width="228.38" x="936" y="1824" as="geometry" />
+          <mxGeometry height="95" width="228.38" x="934" y="1824" as="geometry" />
         </mxCell>
         <mxCell id="D5Ig1XG1NwYwAS3tXxNH-32" edge="1" parent="1" source="D5Ig1XG1NwYwAS3tXxNH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="D5Ig1XG1NwYwAS3tXxNH-31">
           <mxGeometry relative="1" as="geometry" />
@@ -4311,7 +4311,7 @@
         <mxCell id="D5Ig1XG1NwYwAS3tXxNH-35" edge="1" parent="1" source="D5Ig1XG1NwYwAS3tXxNH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="OaHEVmKVU-2sKgtejUiq-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D5Ig1XG1NwYwAS3tXxNH-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Continuar con la solicitud de barométrica, SUR&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="D5Ig1XG1NwYwAS3tXxNH-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Continuar con la Declaración Jurada en SUR&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="77.5" width="302" x="81.65" y="2030" as="geometry" />
         </mxCell>
         <mxCell id="D5Ig1XG1NwYwAS3tXxNH-41" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;¿El ciudadano acepta el tipo de barométrica?&lt;/b&gt;&lt;/span&gt;" vertex="1">
