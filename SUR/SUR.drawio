@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" pages="3">
-  <diagram name="Antecedentes solicitudes" id="0JCOagmTDIjc5bWxrD72">
+  <diagram name="Antecedentes solicitudes" id="YCUndxvzd5cAhE7URQfv">
     <mxGraphModel dx="3473" dy="1910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -233,7 +233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,6h6ySbZG2SH74mthN2wR" id="OXfrE0Bb186Qj_y5XHf9-57">
+        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ZznRBZQFIT4CqyXCpLBu" id="OXfrE0Bb186Qj_y5XHf9-57">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
             <mxGeometry height="113.5" width="274.96" x="2133" y="1507" as="geometry" />
           </mxCell>
@@ -293,7 +293,7 @@
             <mxPoint x="1784.264953203991" y="1999.8624795267456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,6h6ySbZG2SH74mthN2wR" id="OXfrE0Bb186Qj_y5XHf9-70">
+        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ZznRBZQFIT4CqyXCpLBu" id="OXfrE0Bb186Qj_y5XHf9-70">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
             <mxGeometry height="109.25" width="291.5" x="2720.03" y="1823" as="geometry" />
           </mxCell>
@@ -307,7 +307,7 @@
             <mxPoint x="1412.44" y="2127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,6h6ySbZG2SH74mthN2wR" id="OXfrE0Bb186Qj_y5XHf9-72">
+        <UserObject label="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR NUEVA SOLICITUD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,ZznRBZQFIT4CqyXCpLBu" id="OXfrE0Bb186Qj_y5XHf9-72">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
             <mxGeometry height="109.25" width="294" x="240" y="1568" as="geometry" />
           </mxCell>
@@ -329,7 +329,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Nuevo ingreso de solicitud" id="6h6ySbZG2SH74mthN2wR">
+  <diagram name="Nuevo ingreso de solicitud" id="ZznRBZQFIT4CqyXCpLBu">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -446,7 +446,7 @@
         <mxCell id="3yOm4pdM4VRySM_ASvgs-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;fontSize=25;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;Adjuntar&lt;/b&gt; el material complementario:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;PDF del mapa&lt;/b&gt; de ubicación&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;Fotos del problema&lt;/b&gt;, si el ciudadano las presenta&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span&gt;Clic en &quot;adujuntar&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="194.75" width="600.5" x="1160" y="1607.74" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font&gt;¿Cómo puedo buscar la dirección en el mapa?&lt;/font&gt;&lt;div&gt;&lt;font&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,9GrGsYMofcWT0KNJJEn_" id="3yOm4pdM4VRySM_ASvgs-28">
+        <UserObject label="&lt;font&gt;¿Cómo puedo buscar la dirección en el mapa?&lt;/font&gt;&lt;div&gt;&lt;font&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" link="data:page/id,jzOkTbM8t0BS5jCOcdw8" id="3yOm4pdM4VRySM_ASvgs-28">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;dashed=1;dashPattern=8 8;fontSize=25;" vertex="1">
             <mxGeometry height="118" width="356" x="1156" y="1348.25" as="geometry" />
           </mxCell>
@@ -499,7 +499,7 @@
         <mxCell id="3yOm4pdM4VRySM_ASvgs-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=25;" value="&lt;span&gt;&lt;b&gt;&quot;Guardar la solicitud del servicio&quot;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;(copiar el número de solicitud generado)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="103.5" width="510.5" x="2463.5" y="1118.25" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;REVISIÓN DE&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ANTECEDENTES&lt;/font&gt;&lt;/div&gt;" link="data:page/id,0JCOagmTDIjc5bWxrD72" id="XxsU0MNfCE8GR8QfkRBb-1">
+        <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;REVISIÓN DE&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ANTECEDENTES&lt;/font&gt;&lt;/div&gt;" link="data:page/id,YCUndxvzd5cAhE7URQfv" id="XxsU0MNfCE8GR8QfkRBb-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=19.29;direction=west;fillColor=#bac8d3;strokeColor=#23445d;fillStyle=solid;shadow=1;sketch=1;curveFitting=1;jiggle=2;align=center;" vertex="1">
             <mxGeometry height="70" width="173" x="2974" y="44" as="geometry" />
           </mxCell>
@@ -507,8 +507,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Dirección SIG" id="9GrGsYMofcWT0KNJJEn_">
-    <mxGraphModel dx="4168" dy="2292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="Dirección SIG" id="jzOkTbM8t0BS5jCOcdw8">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,7 +603,7 @@
         <mxCell id="FdaY2QI7uJeubiOoLnsQ-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="150" width="150" x="344" y="1294" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;NUEVO INGRESO&lt;/font&gt;" link="data:page/id,6h6ySbZG2SH74mthN2wR" id="xKbeUNavJumF_s4AjITV-1">
+        <UserObject label="&lt;font style=&quot;font-size: 20px;&quot;&gt;NUEVO INGRESO&lt;/font&gt;" link="data:page/id,ZznRBZQFIT4CqyXCpLBu" id="xKbeUNavJumF_s4AjITV-1">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=27.86;direction=west;fillColor=#bac8d3;strokeColor=#23445d;fillStyle=solid;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1">
             <mxGeometry height="80" width="183" x="2977" y="976" as="geometry" />
           </mxCell>
