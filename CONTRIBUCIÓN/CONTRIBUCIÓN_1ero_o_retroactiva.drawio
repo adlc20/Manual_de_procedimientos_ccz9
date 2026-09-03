@@ -1,0 +1,399 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="1era VEZ o RETROACTIVO" id="esTAzMkpyBqRlJ7canDb">
+    <mxGraphModel dx="4168" dy="2292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="120" width="3239" x="28" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="3239" x="28" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Flujograma:&amp;nbsp;&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="326.56" x="382" y="211" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;SOLICITUD DE EXONERACIÓN DE CONTRIBUCIÓN INMOBILIARIA&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;(1era VEZ o RETROACTIVO)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="1672" x="819" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-5" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="927.1300000000006" y="410.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-6" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿En qué &lt;b style=&quot;&quot;&gt;meses&lt;/b&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;se puede&lt;/b&gt; &lt;b style=&quot;&quot;&gt;solicitar&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="310" x="754" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-108" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2320" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;1) Ser sujeto&lt;b style=&quot;&quot;&gt; pasivo del impuesto&lt;/b&gt; y tener la &lt;b style=&quot;&quot;&gt;titularidad del inmueble&lt;/b&gt; (propietario, poseedor o promitente), &lt;b style=&quot;&quot;&gt;evaluando la participación&lt;/b&gt; que el solicitante presenta.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2)Este&lt;b&gt; debe ser su&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;casa habitación&lt;/b&gt; y &lt;b&gt;su&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;único inmueble&lt;/b&gt;, por lo menos desde el 1ero de enero del presente año.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;3)&lt;b&gt;Ingresos nominales&lt;/b&gt; del &lt;b&gt;núcleo familiar&lt;/b&gt; &lt;b&gt;no&lt;/b&gt; pueden &lt;b&gt;superar&lt;/b&gt;:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;5 BPC &lt;/b&gt;para casos &lt;b&gt;corrientes o retroactivos&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;7,5 BPC&lt;/b&gt; para casos de &lt;b&gt;invalidez o incapacidad total&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4)&lt;b&gt;Cumplir&lt;/b&gt; con un &lt;b&gt;determinado valor imponible&lt;/b&gt; de la propiedad &lt;b&gt;dispuesto por la Dirección Nacional de Catastro&lt;/b&gt; (varían según año y caso):&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;Casos corrientes:&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;NO SUPERA el 100%&lt;/b&gt; del valor catastral&amp;nbsp;&lt;b&gt;SE EXONERA el 100%&lt;/b&gt; de &lt;b&gt;SU PARTICIPACIÓN&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SUPERA HASTA el 150%&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;del LÍMITE ESTABLECIDO&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SE EXONERA el 50%&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; de &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SU PARTICIPACIÓN&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;u&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Casos pensión por invalidez o jubilación por incapacidad total:&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;NO SUPERA el 150% &lt;/b&gt;del valor catastral&amp;nbsp;&lt;b&gt;SE EXONERA el 100%&lt;/b&gt;&amp;nbsp; de &lt;b&gt;SU PARTICIPACIÓN&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;SUPERA HASTA EL 200%&lt;/b&gt; del &lt;b&gt;LÍMITE ESTABLECIDO&lt;/b&gt;&amp;nbsp;&lt;b&gt;SE EXONERA el 50%&lt;/b&gt; de &lt;b&gt;SU PARTICIPACIÓN&lt;/b&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;5) &lt;b&gt;El padrón no puede&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Tributar contribución inmobiliaria rural&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Ser baldío&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Tener actividad comercial o con más de una tasa general&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="917" width="907" x="2320" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-10" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1674" y="410.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;junio, julio y agosto&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="384" x="1220" y="390.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-12" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=-0.003;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" target="jZZ3yj90uL_3dCCTneKZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1532" y="396" as="sourcePoint" />
+            <mxPoint x="1642" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-13" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1841" y="729" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Ante que situación de solicitud estamos?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="346" x="1245" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-15" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;PRIMERA VEZ o RETROACTIVO&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="434.28" x="1199.08" y="687" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-17" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="129.5" width="50" x="1144.5" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Se entiende por primera vez:&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Nunca haber pedido la exoneración&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;No haber pedido la exoneración el año anterior&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="487" x="676" y="673.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-19" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Caso corriente&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60.5" width="251" x="248" y="989.62" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-21" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Caso retroactivos&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="250" x="1776.88" y="972" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-23" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Pensionistas por invalidez o jubilados por incapacidad total&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80.25" width="370" x="1232" y="982" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-25" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1901.86" y="857.29" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-26" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373.57" y="857.29" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-27" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jZZ3yj90uL_3dCCTneKZ-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1416.28" y="979.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Qué tipo de &lt;b style=&quot;&quot;&gt;casos&lt;/b&gt; existen?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="89" width="244.03" x="1293" y="812.75" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-29" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Qué &lt;b style=&quot;&quot;&gt;documentación&lt;/b&gt; deben presentar según cada caso?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="78" width="354.63" x="713" y="982" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-31" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Casos corrientes:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Cédula de identidad&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Documento de &lt;b&gt;acreditación de titularidad &lt;/b&gt;(título, promesa, certificados notariales o constancias del BHU , ANV o MVOTMA)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Recibo de ingresos del mes de enero&lt;/b&gt;: &lt;b&gt;pasividad del&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt; titular (recibo de BPS)&lt;/font&gt;&lt;/b&gt;&amp;nbsp;e &lt;b&gt;ingresos&lt;/b&gt; de todos los integrantes &lt;b&gt;del&lt;/b&gt; &lt;b&gt;núcleo familiar&lt;/b&gt; (originales y fotocopia)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Recibo pago de la contribución inmobiliaria &lt;/b&gt;(año anterior)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Timbre de caja profesional&lt;/b&gt; (se puede generar en el CCZ)&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Además para casos de &lt;b&gt;pensionistas por invalidez o jubilados por incapacidad:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Documento de acreditación&lt;/b&gt; de pensión por invalidez o jubilación por incapacidad total, &lt;b style=&quot;&quot;&gt;expedida por Organismo Previsional&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="417.5" width="943.44" x="418.6" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-33" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1206.5" y="1581.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Caso retroactivos:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Cédula de identidad&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Documento de &lt;b&gt;acreditación de titularidad&lt;/b&gt; (título, promesa, certificados notariales o constancias del BHU, ANV o MVOTMA)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&quot;Recibos históricos&quot; del BPS&lt;/b&gt; de ingresos de años anteriores: pasividad del &lt;b&gt;titular&lt;/b&gt; e ingresos de todos los&lt;b&gt; integrantes del núcleo familiar&lt;/b&gt; (originales y fotocopia)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&quot;Recibos históricos&quot; de la contribución inmobiliaria &lt;/b&gt;de años anteriores&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Timbre de caja profesional &lt;/b&gt;(se puede generar en el CCZ)&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Además para casos de&lt;b&gt; pensionistas por invalidez o jubilados por incapacidad&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Documento de acreditación&lt;/b&gt; de pensión por invalidez o jubilación por incapacidad total,&lt;b style=&quot;&quot;&gt; expedida por Organismo Previsional&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="554" width="749.43" x="1527.16" y="1166" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-35" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jZZ3yj90uL_3dCCTneKZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1911.9999999999998" y="3333.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-36" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;" value="&lt;font style=&quot;font-size: 20px; color: rgb(255, 51, 51);&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3996" y="-1" as="geometry">
+            <mxPoint x="71" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-37" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jZZ3yj90uL_3dCCTneKZ-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1911.9999999999998" y="3413.25" as="sourcePoint" />
+            <mxPoint x="2139.84" y="3242.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-38" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;fontStyle=1" value="&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.024" y="1" as="geometry">
+            <mxPoint x="63" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-39" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿&lt;b style=&quot;&quot;&gt;Cumple los requisitos&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="95.25" width="227" x="1457" y="3250.13" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-40" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Informarle al vecino&lt;/b&gt; que esto sucede por:&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;El padrón supera tope de valor imponible&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Los ingresos del núcleo familiar superan lo dispuesto&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="176.5" width="500" x="2213.03" y="3080.25" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-42" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jZZ3yj90uL_3dCCTneKZ-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2212.2599999999998" y="4005.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;El solicitante&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;no podrá ser exonerado&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="332" x="1757" y="3123" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-44" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="jZZ3yj90uL_3dCCTneKZ-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="237" y="2178.75" />
+              <mxPoint x="237" y="2314" />
+            </Array>
+            <mxPoint x="2145" y="2146" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2) &lt;b&gt;Acceder al ítem &quot;inmobiliario&quot;&lt;/b&gt; - &lt;b&gt;&quot;solicitud de exoneración/subsidios jubilados&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(cliquear &quot;linterna&quot;):&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Ingresar&lt;/b&gt; el &lt;b&gt;número de cuenta corriente &lt;/b&gt;del impuesto (cliquear &quot;linterna&quot;)&lt;/li&gt;&lt;li&gt;Buscar el n&lt;b&gt;ombre del solicitante&lt;/b&gt;&amp;nbsp;&lt;b&gt;cliqueando&amp;nbsp;&lt;/b&gt;en el &lt;b&gt;símbolo de flechita azul &quot;persona física&quot; e ingresamos la cédula&lt;/b&gt; correspondiente&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cliquear &lt;b&gt;si corresponde &quot;Art10 Dcto 36852 Invalidez o Jubil. incapacidad TOTAL&quot;&lt;/b&gt; (varían los márgenes)&lt;/li&gt;&lt;li&gt;&amp;nbsp;Si el &lt;b&gt;sistema permite continuar&lt;/b&gt; (el valor imponible esta dentro de los márgenes dispuestos). &lt;b&gt;Cliquear &quot;datos exoneración&quot;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="471" width="620" x="2596" y="2061" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-46" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" target="jZZ3yj90uL_3dCCTneKZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1)&lt;b&gt; Acceder a &quot;consultas generales&quot; - &quot;contribución inmobiliaria&quot; - &quot;cuentas por unidad catastral&quot;:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;(cliquear &quot;linterna&quot;) Ingresar el &lt;b&gt;número de padrón&lt;/b&gt; correspondiente&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Validar&lt;/b&gt; que el solicitante &lt;b&gt;no&lt;/b&gt; &lt;b&gt;tenga&lt;/b&gt; &lt;b&gt;más de un tributo domiciliario&lt;/b&gt;, &lt;b&gt;que no sea baldío&lt;/b&gt;, &lt;b&gt;que no cuente con&lt;/b&gt; &lt;b&gt;contribución rural&lt;/b&gt; &lt;b&gt;ni&lt;/b&gt; con &lt;b&gt;actividad comercial&lt;/b&gt;.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="244" width="774.76" x="553" y="1883" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-48" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;En el ítem &quot;Datos exoneración&quot;&lt;/b&gt; :&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;1)&lt;b&gt; Des-cliquear si no trae timbre profesional&lt;/b&gt; (se genera uno en el mismo CCZ y se le cobrará en el mes de noviembre del presente año)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;2) &lt;b&gt;Ingresar datos&lt;/b&gt; como:&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Cantidad de titulares y porcentaje del bien&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Fecha de adquisición&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Número sem.&lt;/b&gt; (expediente)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Unidad de ingreso (3310) y cliquear &quot;Tab.&quot;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Ingresos del beneficiario, conyugue y el resto del núcleo familiar. Luego cliquear &quot;suma total&quot;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;(el sistema indicará el porcentaje de exoneración aplicable a la participación del solicitante)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 3) &lt;b&gt;Aclarar observaciones y cliquear &quot;volver&quot;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(el sistema evalúa si cumple los requisitos)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="515.5" width="780" x="566" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-50" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Accede a la &lt;b&gt;exoneración&lt;/b&gt; que le corresponda&lt;b&gt; (100% o 50%) en su participación,&lt;/b&gt; sobre&lt;b style=&quot;&quot;&gt; el concepto de &quot;contribución inmobiliaria&quot;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="347" x="1742" y="3418" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-52" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-53" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;¿Qué &lt;b&gt;documentación&lt;/b&gt; deben presentar según cada caso?&lt;/span&gt;" vertex="1">
+          <mxGeometry height="78" width="272.63" x="1765.56" y="1056.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-54" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2212.09" y="2884.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Casos corrientes&lt;/b&gt;:&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;En &quot;asunto&quot; poner: &quot;Padrón N°... solicitud exoneración de contribución inmobiliaria (año) jubilados/pensionista por primera vez&quot;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Para casos de &lt;b&gt;pensionistas por invalidez o jubilados por incapacidad&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;En &quot;asunto&quot; poner: &quot;Padrón N°... solicitud exoneración de contribución inmobiliaria (año) por primera vez, al amparo del art.10 del Decreto 36.852&quot;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="329" width="720.12" x="1852" y="2491.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-56" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Casos de &lt;b&gt;solicitud retroactiva&lt;/b&gt; (única declaración jurada):&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;En &quot;asunto&quot; poner: &quot;Padrón N°... solicitud de exoneración Contribución Inmobiliaria 20xx, 20xx y 20xx retroactiva&quot;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Además en casos de &lt;b&gt;pensionistas por invalidez o jubilados por incapacidad&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;En &quot;asunto&quot; poner: &quot;Padrón N°... solicitud de exoneración Contibución Inmobiliaria 20xx, 20xx y 20xx al amparo del art. 10 del Decreto 36.852 y retroactiva&quot;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="292" width="848" x="227" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-58" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="jZZ3yj90uL_3dCCTneKZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;En&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&quot;carátula&quot; - &quot;editar actuación&quot;,&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;informar:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Datos del solicitante&lt;/b&gt; como: nombre, C.I y padrón.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Escanear y adjuntar toda la documentación&lt;/b&gt; que se requiere (en retroactivos escanear todos los recibos históricos)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="686.04" x="543" y="3868" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-60" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;En el &lt;b style=&quot;&quot;&gt;ítem &quot;requisitos&quot;&lt;/b&gt; marcar todos los documentos que presentó el solicitante}&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Cliquear &quot;Grabar&quot;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="270" x="2200" y="3413" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-62" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jZZ3yj90uL_3dCCTneKZ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;span&gt;Cliquear: &lt;b&gt;&quot;guardar&quot; y &quot;firmar y dar pase&quot;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;a &quot;despacho a decretar -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;7651&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&quot;Motivo&quot;&lt;/b&gt;: &quot;diligencias y actuaciones&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="98" width="500" x="1483.5" y="3897" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="140" x="2206" y="3879" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-65" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;1) &lt;b style=&quot;&quot;&gt;Imprimir dos copias&lt;/b&gt; de la &quot;declaración jurada&quot;, sellar y firmar (funcionario y solicitante) ambas (una copia se le entrega al solicitante)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;2) &lt;b&gt;Fotocopiar&lt;/b&gt;:&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Cédula&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Títulos de propiedad&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Recibos de ingresos&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Recibo de contribución inmobiliaria&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;3)&lt;b style=&quot;&quot;&gt;Archivar&lt;/b&gt; en carpeta: declaración jurada y fotocopias&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="620" x="2642" y="3333" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-67" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-68" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;GIC&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="359" x="59.6" y="3128" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-69" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-70" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;SEE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78" width="349.03" x="59.6" y="3825" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-71" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-72" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;fontStyle=1" value="&lt;font style=&quot;font-size: 22px; color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2951" y="-5" as="geometry">
+            <mxPoint x="-19" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-73" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2523.03" y="2061" />
+              <mxPoint x="2523.03" y="2061" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-74" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontStyle=1" value="&lt;font style=&quot;font-size: 22px; color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.605" y="3" as="geometry">
+            <mxPoint x="38" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-75" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿&lt;b style=&quot;&quot;&gt;Exonera&lt;/b&gt; contribuciones &lt;b style=&quot;&quot;&gt;previas al 2019&lt;/b&gt;?&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;(retroactivas)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="115" width="341.9" x="1479" y="1946" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-76" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-77" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;GIC&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="359" x="59.6" y="1966" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="136" x="2822" y="3123" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-79" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;dashed=1;dashPattern=8 8;strokeColor=#000000;fontSize=25;" value="" vertex="1">
+          <mxGeometry height="50" width="428" x="1513" y="3996" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;dashed=1;dashPattern=8 8;fontSize=25;" value="&lt;font&gt;El servicio de Ingresos Inmobiliarios controla y evalúa la aprobación.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Sí corresponde el expediente vuelve al CCZ y se archiva&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="148" width="393" x="1537" y="4031" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-81" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Verificar que la documentación&lt;/b&gt; corresponda al padrón y al solicitante, que sea legible y completa.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Validar que cumpla los requisitos correspondientes&lt;/b&gt;, viendo detalles del recibo y accediendo al sistema GIC.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="153" width="634" x="731" y="1634" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-83" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-84" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;SEE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="354.63" x="54" y="2314" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-85" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Ingresar a &quot;bandeja&quot;:&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Desde &quot;oficina&quot;: CCZ9 - 3310&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&quot;Crear nuevo expediente&quot;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="122" width="421" x="576" y="2288" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-87" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1537.5" y="2490.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;En &quot;carátula&quot;&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Seleccionar el &lt;b&gt;&quot;tipo&quot;&lt;/b&gt; de expediente: &lt;b&gt;&quot;solicitud exoneración contribución y/o TGM web&quot;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;El ítem de &lt;b&gt;&quot;categoría&quot; se autocompleta&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Seleccionar &lt;b&gt;&quot;clasificación de información&quot; del tipo pública&lt;/b&gt; y &lt;b&gt;dar la solicitud de acceso&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Completar el &lt;b style=&quot;&quot;&gt;&quot;asunto&quot;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="228" width="774.76" x="1125" y="2235" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-89" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-90" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-91" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Qué &lt;b style=&quot;&quot;&gt;&quot;asunto&quot;&lt;/b&gt; debemos poner &lt;b style=&quot;&quot;&gt;según el tipo de solicitud&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="111" width="309.5" x="1357.63" y="2601" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-92" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="2982.4" />
+              <mxPoint x="239.2" y="2982.4" />
+            </Array>
+            <mxPoint x="1523.5" y="3153" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Cliquear: &lt;b style=&quot;&quot;&gt;&quot;Guardar&quot; (copiar número de exp.)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="612" x="1154" y="2869" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-94" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-95" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;" value="&lt;font style=&quot;font-size: 22px; color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.133" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-96" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-97" connectable="0" parent="jZZ3yj90uL_3dCCTneKZ-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontStyle=1" value="&lt;font style=&quot;font-size: 22px; color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0127" y="2" as="geometry">
+            <mxPoint x="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-98" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Es un&lt;b style=&quot;&quot;&gt; caso de invalidez o de incapacidad&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="91" width="304.19" x="1967" y="1816" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-99" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Generar &lt;b style=&quot;&quot;&gt;DOS DECLARACIONES JURADAS&lt;/b&gt;:&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Por el período &lt;b&gt;HASTA el 2019&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;El resto del período &lt;b style=&quot;&quot;&gt;DESPUÉS del 2019&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="132" width="569" x="2410" y="1727" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-101" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="jZZ3yj90uL_3dCCTneKZ-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Generar una sola declaración jurada&lt;/b&gt; con el último recibo y &lt;b style=&quot;&quot;&gt;un solo expediente&lt;/b&gt; con todos los recibos históricos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="122" width="560" x="2406" y="1894" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-103" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="453.32" y="354.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-104" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;¿Qué &lt;b style=&quot;&quot;&gt;requisitos&lt;/b&gt; debe cumplir el ciudadano?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="1788" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jZZ3yj90uL_3dCCTneKZ-110" edge="1" parent="1" source="jZZ3yj90uL_3dCCTneKZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jZZ3yj90uL_3dCCTneKZ-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
