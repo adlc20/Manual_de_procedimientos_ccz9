@@ -80,11 +80,11 @@
         <mxCell id="BISG02GM0cw04cHSo1pY-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;En &quot;carátula&quot;&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;&quot;Tipo&quot; de expediente&lt;/b&gt;: buscar &quot;tipo&quot; que se adecue al problema denunciado.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;El ítem&amp;nbsp;&lt;b&gt;&quot;categoría&quot; se autocompleta&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Seleccionar &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;clasificación de información&quot;:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;tipo &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;pública&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; y &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dar la solicitud de acceso&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;En &lt;b&gt;&quot;asunto&quot;&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;describir de forma acotada y simple el &lt;b&gt;tema por el cuál se inician las actuaciones&lt;/b&gt; &lt;b&gt;además&lt;/b&gt; de&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(dirección exacta tal cual figura en el SIG, con calle, número de puerta y esquina) y N° de padrón.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;En caso&lt;/b&gt; de que el &lt;b&gt;número de puerta&lt;/b&gt; del ciudadano&lt;b&gt; no coincida&lt;/b&gt; &lt;b&gt;con el del SIG&lt;/b&gt;, escriturar el aportado&lt;b&gt; &quot;(&quot;In situ xxxx&quot;)&quot; junto con el del SIG&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;En denuncias por presunta falta de habilitaciones se deberá indicar el rubro del local comercial.&lt;/span&gt;&lt;span&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="556" width="935" x="-1870" y="2124" as="geometry" />
         </mxCell>
-        <mxCell id="BISG02GM0cw04cHSo1pY-74" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="BISG02GM0cw04cHSo1pY-26">
+        <mxCell id="BISG02GM0cw04cHSo1pY-74" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BISG02GM0cw04cHSo1pY-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-490.43" y="2768.71" />
-              <mxPoint x="-2572.14" y="2768.71" />
+              <mxPoint x="-2634.43" y="2768.71" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;font&gt;En&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;&quot;carátula&quot; - &quot;editar actuación&quot;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Escanear y adjuntar:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Formulario&lt;/b&gt; &quot;editable dos vías&quot;, &lt;b&gt;SOLO la carilla de descripción de la denuncia (vía 2)&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Material fotográfico&lt;/b&gt; si lo presenta&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;PDF de la&lt;b&gt; ubicación exacta del SIG&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="264" width="697.04" x="-2905" y="2854" as="geometry" />
+          <mxGeometry height="264" width="697.04" x="-2983" y="2836" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-27" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="BISG02GM0cw04cHSo1pY-63">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;span&gt;Cliquear: &lt;b&gt;&quot;guardar&quot; y &quot;firmar y dar pase&quot;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;a&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sector inspectivo – Órdenes de trabajo - Unidad 0640.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;Motivo&quot;: &quot;diligencias y actuaciones&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="607" x="-2000" y="2916" as="geometry" />
+          <mxGeometry height="140" width="607" x="-2078" y="2898" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-32" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="BISG02GM0cw04cHSo1pY-38">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry height="374" width="897" x="-1063" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="98" width="173" x="-411" y="2935.75" as="geometry" />
+          <mxGeometry height="98" width="173" x="-489" y="2917.75" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-49" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" target="BISG02GM0cw04cHSo1pY-5">
           <mxGeometry relative="1" as="geometry">
@@ -212,10 +212,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-58" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;dashPattern=8 8;direction=south;fontSize=25;" value="" vertex="1">
-          <mxGeometry height="70" width="381" x="-1899" y="3056" as="geometry" />
+          <mxGeometry height="70" width="381" x="-1977" y="3038" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="&lt;font&gt;Se sugiere que el funcionario guarde la documentación en papel o en PDF a modo de respaldo&lt;/font&gt;" vertex="1">
-          <mxGeometry height="160" width="360" x="-1888.5" y="3081" as="geometry" />
+          <mxGeometry height="160" width="360" x="-1966.5" y="3063" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-60" edge="1" parent="1" source="BISG02GM0cw04cHSo1pY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="BISG02GM0cw04cHSo1pY-28">
           <mxGeometry relative="1" as="geometry">
@@ -240,10 +240,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=25;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Guardar la vía 1&lt;/b&gt; con los datos del denunciante&lt;b&gt; en bibliorato&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;(ubicado en despacho).&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Ordenarlo&lt;/b&gt; correlativamente&amp;nbsp;&lt;b&gt;según número de expediente&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="148.5" width="657" x="-1217" y="2910.5" as="geometry" />
+          <mxGeometry height="148.5" width="657" x="-1295" y="2892.5" as="geometry" />
         </mxCell>
         <mxCell id="BISG02GM0cw04cHSo1pY-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="-3152" y="374" as="geometry" />
+          <mxGeometry height="133" width="133" x="-3175" y="363" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
