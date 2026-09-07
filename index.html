@@ -598,7 +598,7 @@
     <div>
 	<nav class="navbar">
 	  <ul class="menu">
-	    <li><a href="#">Inicio</a></li>
+	    <li><a id="id-btn-start" href="#">Inicio</a></li>
 	    <li class="dropdown">
 	      <a href="#">Sub Zonas ▾</a>
 	      <ul class="submenu">
@@ -769,10 +769,6 @@
         descripcion: "",
         requisitos: [
 		"",
-		"",
-		"",
-		"",
-		""
         ],
         observaciones: "",
 	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Facturas%20por%20testimonio.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_por_testimonio%2FFacturas%2520por%2520testimonio.drawio",
@@ -1211,6 +1207,7 @@
         const card = document.createElement("article");
         card.className = "card";
 	let display_btn_diagram = (tramite.drawiosrc===undefined)?'none':'block';
+	let display_btn_detalles = ( tramite.requisitos[0] )?'block':'none';
         
         const reqListHtml = tramite.requisitos.map(r => `<li>${r}</li>`).join("");
         const linkHtml = tramite.link 
@@ -1229,7 +1226,7 @@
             <p>${tramite.descripcion}</p>
           </div>
           <div class="card-footer">
-            <button class="btn-toggle" onclick="toggleDetails('${tramite.id}')">
+            <button style="display:${display_btn_detalles};" class="btn-toggle" onclick="toggleDetails('${tramite.id}')">
               <i class="fa-solid fa-circle-info"></i> Ver Detalles
             </button>
 	    <button id="${tramite.id}" class="btn-diagram" data-drawio="${tramite.drawiosrc}" onclick="clickOpenDiagram('${tramite.id}')" style="display:${display_btn_diagram};">
@@ -1349,7 +1346,15 @@
 	  e.preventDefault(); 
 	  modal.style.display = 'none';
 	});
-
+	//Click boton inicio.
+	const btnStart = document.getElementById('id-btn-start');
+	btnStart.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  const search = document.getElementById('searchInput');
+		search.value = ''
+		searchQuery = ''
+		renderTramites();
+	});
 	
 function clickOpenDiagram(idBTN){
 	const btnDiagram   = document.getElementById(idBTN);
