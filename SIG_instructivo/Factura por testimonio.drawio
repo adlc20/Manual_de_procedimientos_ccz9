@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Facturas por testimonio" id="3_PSmo9UVm4WLF3zL0k4">
+    <mxGraphModel dx="2969" dy="1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KxGjCrJl0zBSXslANeCq-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="140" width="3220" x="86" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;strokeColor=default;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="91" width="3220" x="86" y="243" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma&lt;/i&gt;&lt;/font&gt;:&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="360" x="409" y="273.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;GENERACIÓN DE FACTURAS Y CONFIRMACIÓN DE PAGOS PARA LAS SOLICITUDES DE TESTIMONIOS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="1060" x="1150" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-5" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="KxGjCrJl0zBSXslANeCq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="166.75" width="166.75" x="524" y="464.62" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-7" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="KxGjCrJl0zBSXslANeCq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INGRESAR AL SISTEMA:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;GIC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="97.75" width="416" x="813" y="496.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-9" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="KxGjCrJl0zBSXslANeCq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;&lt;b&gt;Ingresar&lt;/b&gt; a:&lt;/font&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;b&gt;&quot;Facturación&quot; - &quot;Cobro de trámites&quot; (cliquear &quot;linterna&quot;)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="97.75" width="585" x="1399" y="499.12" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-11" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KxGjCrJl0zBSXslANeCq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2539.14" y="754.23" />
+              <mxPoint x="899.14" y="754.23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Completar&lt;/b&gt; los siguientes ítems:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;CCZ&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Número de expediente &lt;/b&gt;(sin guiones)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;En el campo&lt;/span&gt;&lt;font&gt;&amp;nbsp;&lt;b&gt;&quot;Rubro&quot;&lt;/b&gt;, cliquear en la flecha azul &lt;b&gt;&quot;Solicitud de testimonios escritos&quot;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Cliquear &lt;b&gt;&quot;generar debito&quot; e imprimir&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;El ciudadano debe abonar la factura para continuar con el trámite&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="287.5" width="784" x="2147" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-13" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="KxGjCrJl0zBSXslANeCq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=25;" value="&lt;span&gt;Ya con el denunciante en el CCZ&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="444" x="677" y="933.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-15" edge="1" parent="1" source="KxGjCrJl0zBSXslANeCq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="KxGjCrJl0zBSXslANeCq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Ingresar&lt;/b&gt; en:&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;N° de doc. y de emisión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;N° de sucursal, trámite, fecha de pago, importe&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir dos constancias de pago&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;, &lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;una será para el denunciante&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="346" width="759" x="1269" y="813.37" as="geometry" />
+        </mxCell>
+        <mxCell id="KxGjCrJl0zBSXslANeCq-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;FIN&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="203" x="2198" y="946.37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
