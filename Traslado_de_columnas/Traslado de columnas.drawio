@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Traslado de columnas" id="u0lRQxhnO2YmE_CaBJce">
-    <mxGraphModel dx="11795" dy="7546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="8678" dy="5827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3xSF_YukRb_UQwIP9crJ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="155" width="155" x="-1728" y="72" as="geometry" />
+          <mxGeometry height="143" width="143" x="-1722" y="90" as="geometry" />
         </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-6" edge="1" parent="1" source="3xSF_YukRb_UQwIP9crJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="2GTFDNebQID-7RMIM1pW-6">
           <mxGeometry relative="1" as="geometry" />
@@ -142,14 +142,28 @@
             <mxGeometry height="175" width="339" x="-2371" y="752" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="q_rBmRA3KhAI7YuNqsNY-3" edge="1" parent="1" source="ML0GNpTNrcuvH8oJ2MGs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="ML0GNpTNrcuvH8oJ2MGs-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-365" y="1771.5" />
+              <mxPoint x="-2767.75" y="1771.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Formulario:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;&quot;Solicitud de traslado de columnas&quot;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="146" width="485" x="-607.6300000000001" y="1472" as="geometry" />
         </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;FIN&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="85" width="181.63" x="-2955.07" y="1622" as="geometry" />
         </mxCell>
+        <mxCell id="q_rBmRA3KhAI7YuNqsNY-2" edge="1" parent="1" source="ML0GNpTNrcuvH8oJ2MGs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="q_rBmRA3KhAI7YuNqsNY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-11" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;INGRESAR AL SISTEMA:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;SEE&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="77" width="528" x="-3031.75" y="1953" as="geometry" />
+        </mxCell>
+        <mxCell id="q_rBmRA3KhAI7YuNqsNY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Ingresar a SEE, ingresar: nuevo ingreso&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Tipo:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Asunto:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Contacto: nombre, teléfono y mail&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="249" width="521" x="-2360" y="1867" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
