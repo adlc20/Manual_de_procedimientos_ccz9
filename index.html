@@ -218,6 +218,7 @@
             border-bottom: 2px solid #3b82f6;
             display: flex;
             align-items: center;
+	    cursor:pointer;
         }
 
         .section-title:first-child {
@@ -639,6 +640,26 @@
 			<button id="btn-quit-modal" class="btn-quit">Cerrar</button>
 		</div>
 			<div class="content">
+            		<!-- Externos -->
+			<div class="subContent">
+			    <div id="externo-head" class="section-title">Externos</div>
+			    <table id="externo-table" class="directory-table">
+				<thead>
+				    <tr>
+				        <th class="phone-col">Interno / Teléfono</th>
+				        <th class="name-col">Nombre / Referencia</th>
+					<th class="name-col">E-Mail</th>
+				    </tr>
+				</thead>
+				<tbody>
+				    <tr><td><span class="phone-number">4330</span></td><td class="name-col">Ingresos Inmobiliarios</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">4335</span></td><td class="name-col">Ingresos Inmobiliarios</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">9980</span></td><td class="name-col">Administracion de Saneamiento</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">3850</span></td><td class="name-col">Registro Civil</td><td class="name-col"></td></tr>
+				   <tr><td><span class="phone-number">092558445</span></td><td class="name-col">Arbolado</td><td class="name-col"></td></tr>
+				</tbody>
+			    </table>
+			</div>
 			    <!-- SECTOR GENERAL -->
 			<div class="subContent">
 			    <div id="ccz-head" class="section-title">Centro Comunal Zonal 9</div>
@@ -1340,6 +1361,15 @@
 	btnBase.addEventListener('click', (e) => {
 	  e.preventDefault(); 
 	  tableBase.style.display = (tableBase.style.display === 'table') ? 'none' : 'table';
+	});
+	//Sub buton table externos
+
+	const btnExterno    = document.getElementById('externo-head');
+	const tableExterno  = document.getElementById('externo-table');
+	
+	btnExterno.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  tableExterno.style.display = (tableExterno.style.display === 'table') ? 'none' : 'table';
 	});
 
 	btnModal.addEventListener('click', (e) => {
