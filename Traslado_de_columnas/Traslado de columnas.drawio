@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Traslado de columnas" id="u0lRQxhnO2YmE_CaBJce">
-    <mxGraphModel dx="6763" dy="6591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="11795" dy="7546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2GTFDNebQID-7RMIM1pW-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma:&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="58" width="254" x="174" y="188" as="geometry" />
+          <mxGeometry height="58" width="254" x="-3493" y="-179" as="geometry" />
         </mxCell>
         <mxCell id="2GTFDNebQID-7RMIM1pW-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Traslado de columnas de alumbrado público&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="77" width="854" x="684" y="87" as="geometry" />
+          <mxGeometry height="77" width="854" x="-2983" y="-280" as="geometry" />
         </mxCell>
         <mxCell id="2GTFDNebQID-7RMIM1pW-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Se inicia el expediente&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Nos comunicamos con alumbrado para especificar el caso&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Va para la utam (estudia el caso)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;vuelve al ccz9 y notificamos al ciudadano&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;La persona abona la factura correspondiente&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Se va a hacer el trabajo (lo hace la utam)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="424" width="613" x="2119.5" y="-8" as="geometry" />
+          <mxGeometry height="424" width="613" x="-1547.5" y="-375" as="geometry" />
         </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-1" edge="1" parent="1" source="2GTFDNebQID-7RMIM1pW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="3xSF_YukRb_UQwIP9crJ-25">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry height="146" width="399.25" x="-2193" y="1311" as="geometry" />
         </mxCell>
         <mxCell id="2GTFDNebQID-7RMIM1pW-14" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Unidad Técnica de Alumbrado Público (UTAP)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="769.75" x="2672" y="164" as="geometry" />
+          <mxGeometry height="36" width="769.75" x="-995" y="-203" as="geometry" />
         </mxCell>
         <mxCell id="3xSF_YukRb_UQwIP9crJ-4" edge="1" parent="1" source="2GTFDNebQID-7RMIM1pW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="3xSF_YukRb_UQwIP9crJ-2">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="3xSF_YukRb_UQwIP9crJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Objetivo: Solicitud de cambio de ubicación de columna de alumbrado público&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="77" width="1115" x="708" y="188" as="geometry" />
+          <mxGeometry height="77" width="1115" x="-2959" y="-179" as="geometry" />
         </mxCell>
         <mxCell id="ML0GNpTNrcuvH8oJ2MGs-3" edge="1" parent="1" source="3xSF_YukRb_UQwIP9crJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="ML0GNpTNrcuvH8oJ2MGs-2">
           <mxGeometry relative="1" as="geometry" />
