@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EMISIÓN contribución" id="E2xqrbzGc_72ezpHwyOb">
-    <mxGraphModel dx="4440" dy="2510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="2969" dy="1637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,7 +749,7 @@
         </mxCell>
         <UserObject label="&lt;font&gt;Si el ciudadano no sabe si tiene una deuda en procuración, revisar en &quot;Informe de deuda&quot;&lt;/font&gt;&lt;div&gt;&lt;font&gt;(ver procedimiento)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" link="data:page/id,6gLwhdiaRhsPBz0WuXpS" id="kHSQq_GWG5OIYDjqQ1Pb-49">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=#bac8d3;strokeColor=#23445d;fontSize=25;" vertex="1">
-            <mxGeometry height="215" width="310" x="1489" y="1919" as="geometry" />
+            <mxGeometry height="215" width="310" x="1463" y="1922" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="kHSQq_GWG5OIYDjqQ1Pb-50" edge="1" parent="1" source="kHSQq_GWG5OIYDjqQ1Pb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="kHSQq_GWG5OIYDjqQ1Pb-57">
