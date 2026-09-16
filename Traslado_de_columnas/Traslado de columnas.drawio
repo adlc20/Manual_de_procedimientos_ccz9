@@ -209,8 +209,8 @@
         <mxCell id="2DhfB7JEHoELQdo0EO_t-7" edge="1" parent="1" source="i6OstTYg822-yZF2I4ho-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="i6OstTYg822-yZF2I4ho-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i6OstTYg822-yZF2I4ho-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=25;verticalAlign=top;" value="&lt;b&gt;Notificar al solicitante la resolución para que regrese al CCZ y continuar con el trámite&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="148" width="364.09" x="-1063.24" y="2508" as="geometry" />
+        <mxCell id="i6OstTYg822-yZF2I4ho-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=25;verticalAlign=bottom;" value="&lt;b&gt;Notificar al solicitante la resolución para que regrese al CCZ y continuar con el trámite&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="148" width="477.85" x="-1120.12" y="2516" as="geometry" />
         </mxCell>
         <mxCell id="i6OstTYg822-yZF2I4ho-11" edge="1" parent="1" source="i6OstTYg822-yZF2I4ho-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="i6OstTYg822-yZF2I4ho-7">
           <mxGeometry relative="1" as="geometry">
