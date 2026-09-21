@@ -165,6 +165,7 @@
           <li class="dropdown">
             <a href="#">Talonera Inteligente ▾</a>
             <ul class="submenu">
+			  <li><a href="#" onclick="cargarHTML('./component/Barometrica.html')">Barométrica</a></li>
               <li><a href="#">Barométrica</a></li>
               <li><a href="#">Sub Zona 02</a></li>
               <li><a href="#">Sub Zona 03</a></li>
@@ -298,6 +299,34 @@ function imprimirDiv(idDiv) {
     ventanaImpresion.print();
     ventanaImpresion.close();
   };
+}
+	/**
+ * Carga un archivo HTML en un contenedor específico
+ * @param {string} rutaArchivo - Ej: 'secciones/subzona01.html'
+ * @param {string} idContenedor - Ej: 'mi-contenedor'
+ */
+async function cargarHTML(rutaArchivo, idContenedor) {
+  const contenedor = document.getElementById(idContenedor);
+
+  if (!contenedor) {
+    console.error(`No se encontró el contenedor con ID '${idContenedor}'`);
+    return;
+  }
+
+  try {
+    const respuesta = await fetch(rutaArchivo);
+    
+    if (!respuesta.ok) {
+      throw new Error(`Error ${respuesta.status}: No se pudo cargar el archivo.`);
+    }
+
+    const html = await respuesta.text();
+    contenedor.innerHTML = html;
+
+  } catch (error) {
+    console.error('Error al cargar el HTML:', error);
+    contenedor.innerHTML = `<p style="color: red;">Error al cargar el contenido.</p>`;
+  }
 }
 </script>
 </body>
