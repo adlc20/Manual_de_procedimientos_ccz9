@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)file:///home/im4170505/Escritorio/design.html -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Talonera Inteligente</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background-color: #f2f4f7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    /* Ticket Container */
+    .ticket {
+      display: flex;
+    width: 800px;
+    height: 250px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #e1e8ed;
+    background-image: radial-gradient(#d3eceb 1px, transparent 1px);
+    background-size: 16px 16px;
+    background-color: #eaf6f6;
+    }
+
+    /* Muescas laterales estilo ticket */
+    .ticket::before, .ticket::after {
+      
+    }
+
+    .ticket::before {
+     
+    }
+
+    .ticket::after {
+     
+    }
+
+    /* Sección Izquierda */
+    .ticket-left {
+      flex: 1.6;
+      padding: 2px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      justify-content: flex-start;
+    }
+
+    .header-branding {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 4px;
+      border-radius: 3px;
+      margin: 6px;
+      background: linear-gradient(135deg, #2b6cb0, #1d4ed8);
+    }
+    .header-branding > img{
+    	padding : 3px;
+	width: 100px;
+     }
+     .header-branding > h2{
+	color: white;
+     }
+
+    .icon-logo {
+      width: 38px;
+      height: 38px;
+      color: #1e5288;
+    }
+
+    .title-group {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .main-title {
+      font-size: 1.25rem;
+      font-weight: 900;
+      color: #0d2847;
+      letter-spacing: 0.5px;
+      line-height: 1.1;
+    }
+
+    .subtitle-top {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: #0d2847;
+      letter-spacing: 0.8px;
+      margin-top: 3px;
+      margin-bottom: 3px;
+    }
+    .subtitle-top > p {
+	padding: 0px 3px 3px 3px;
+    }
+
+    /* Banner del trámite */
+    .banner-tramite {
+      background: linear-gradient(135deg, #2b6cb0, #1d4ed8);
+      color: #ffffff;
+      padding: 2px 4px;
+      border-radius: 3px;
+      margin:3px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 6px rgba(29, 78, 216, 0.2);
+    }
+
+    .icon-card {
+      width: 28px;
+      height: 28px;
+      flex-shrink: 0;
+    }
+
+    .tramite-text {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .tramite-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      opacity: 0.9;
+    }
+
+    .tramite-val {
+      font-size: 1.05rem;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+    }
+
+    /* Información */
+    .info-section {
+      font-size: 0.82rem;
+      color: #1f2937;
+      line-height: 1.35;
+    }
+
+.info-section > p {
+white-space: nowrap
+}
+
+    
+
+    .steps-list {
+      list-style: none;
+      margin-top: 4px;
+    }
+
+    .steps-list li {
+      font-size: 0.82rem;
+      color: #1f2937;
+      margin-bottom: 2px;
+    }
+
+    /* Línea de troquelado/perforación */
+    .divider {
+      width: 1px;
+      border-left: 2px dashed #a0aec0;
+      margin: 12px 0;
+    }
+
+    /* Sección Derecha */
+    .ticket-right {
+    /* flex: 1; */
+    padding: 20px;
+    background-color: rgb(0 71 255 / 42%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0 12px 12px 0;
+    width: 220px;
+
+    }
+
+    .qr-card {
+      border-radius: 12px;
+      width: 200px;
+      background: #1f53d3;
+      padding: 0px 17px;
+      border-radius: 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    .qr-title {
+      font-size: 0.75rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 3px;
+    line-height: 1.2;
+    letter-spacing: 0.3px;
+    padding: 3px;
+    }
+
+    .qr-box {
+      background: #ffffff;
+      padding: 2px;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      margin-bottom: 12px;
+    }
+
+    .qr-box img {
+      width: 175px;
+      height: 175px;
+      display: block;
+    }
+
+    .web-info {
+      font-size: 0.68rem;
+      font-weight: 800;
+      color: #0a2540;
+      line-height: 1.2;
+    }
+
+    .web-url {
+      font-weight: 600;
+      font-size: 0.65rem;
+      color: #1a365d;
+      margin-top: 2px;
+      word-break: break-all;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="ticket">
+    <!-- Sección Izquierda -->
+    <div class="ticket-left">
+      <div>
+        <div class="header-branding">
+ <!-- Icono tipo documento/mano -->
+          <img src="../asset/img/logo_im.png" />
+          <h2 class="tramite-val">Salubridad Pública</h2>
+        </div>
+        <div class="subtitle-top">
+		<p>Dirección: Eduardo Víctor Haedo 2046 esquina Martín C Martínez</p>
+		<p>Horario: Lunes a viernes de 10.15 a 15.45 horas</p>
+		<p>Correo electrónico: salubridad.publica@imm.gub.uy</p>
+	</div>
+
+        <!-- Banner del trámite -->
+        <div class="banner-tramite">
+          <div class="tramite-text">
+            <span class="tramite-val">INSTRUCCIONES</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Texto descriptivo y pasos -->
+      <div class="info-section">
+        <p>- Control de vectores y vigilancia epidemiológica con énfasis </p>
+	<p>- en el Aedes aegypti y roedores.</p>
+	<p>- Acciones inspectivas y de control de las condiciones higiénico-sanitarias</p>
+	<p> de establecimientos</p>
+	<p>comerciales, industriales, centros educativos, fincas particulares, espacios públicos, etc.</p>
+	<p>- Registro y control de plaguicidas, aguas cloradas y empresas controladoras de plagas</p>
+	<p><b>: Telefonos 24083284 - 1950 7151 - 1950 7135 </b></p>
+
+
+      </div>
+    </div>
+
+    <!-- Divisor Perforado -->
+    <div class="divider"></div>
+
+    <!-- Sección Derecha / QR -->
+    <div class="ticket-right">
+      <div class="qr-card">
+        <div class="qr-title">
+          ESCANEA PARA<br>COMENZAR EL TRÁMITE
+        </div>
+        <div class="qr-box">
+          <!-- Generador automático de código QR en base a la URL -->
+          <img src="../asset/img/stetic/qr-salubridad-publica.png" alt="Código QR">
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+
+</body></html>
