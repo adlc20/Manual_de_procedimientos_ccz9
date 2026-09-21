@@ -165,10 +165,9 @@
           <li class="dropdown">
             <a href="#">Talonera Inteligente ▾</a>
             <ul class="submenu">
-			  <li><a href="#" onclick="cargarHTML('./component/Barometrica.html')">Barométrica</a></li>
-              <li><a href="#">Barométrica</a></li>
-              <li><a href="#">Sub Zona 02</a></li>
-              <li><a href="#">Sub Zona 03</a></li>
+              <li><a href="#" onclick="cargarHTML('./component/Barometrica.html','tiket-loco')">Barométrica</a></li>
+              <li><a href="#" onclick="cargarHTML('./component/RegistroCivil.html','tiket-loco')">Registro Civil</a></li>
+              <li><a href="#" onclick="cargarHTML('./component/Convenios.html','tiket-loco')">Convenios</a></li>
               <li><a href="#">Sub Zona 04</a></li>
               <li><a href="#">Sub Zona 05</a></li>
               <li><a href="#">Sub Zona 06</a></li>
@@ -181,49 +180,16 @@
   </header>
 
   <!-- Contenedor Principal -->
-  <main class="container">
+<main class="container">
 <!-- Botón para imprimir -->
   <button onclick="imprimirDiv('tiket-loco')" style="padding: 8px 16px; margin-bottom: 15px; cursor: pointer;">
     <i class="fa-solid fa-print"></i> Imprimir Contenido
   </button>
-<div id="tiket-loco" >
-    <div class="ticket">
-    <!-- Sección Izquierda -->
-    <div class="ticket-left">
-      <div>
-        <div class="header-branding">
- <!-- Icono tipo documento/mano -->
-          <img src="./asset/img/logo_im.png" />
-          <h2 class="tramite-val">Solicitud de Barométrica para zonas no saneadas</h2>
-        </div>
-        <div class="subtitle-top">
-		<p>- Este trámite permite a las personas residentes de áreas que no cuentan con red de saneamiento solicitar el servicio de barométrica para la extracción y transporte de aguas residuales desde pozos sépticos, cámaras u otros depósitos de almacenamiento.</p>
-	</div>
 
-
-        <!-- Banner del trámite -->
-        <div class="banner-tramite">
-          <div class="tramite-text">
-            <span class="tramite-val">INSTRUCCIONES</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Texto descriptivo y pasos -->
-      <div class="info-section">
-        
-<p>- Fotocopia de cedula de todo el núcleo familiar.</p>
-<p>- Fotocopia de todos los recibos de ingreso o negativo BPS</p>
-<p>- Recibo de ingreso ejem : UTE, OSE, ANTEL, Impuestos Municipales,</p> 
-<p>Alquiler, Salud, Educacion,Transporte.</p>
-
-      </div>
-    </div>
+  <div id="tiket-loco">
   </div>
- 
-    
-  </div>
-  </main>
+  
+</main>
 
   <!-- Pie de página -->
   <footer class="pie-pagina">
@@ -300,7 +266,7 @@ function imprimirDiv(idDiv) {
     ventanaImpresion.close();
   };
 }
-	/**
+/**
  * Carga un archivo HTML en un contenedor específico
  * @param {string} rutaArchivo - Ej: 'secciones/subzona01.html'
  * @param {string} idContenedor - Ej: 'mi-contenedor'
