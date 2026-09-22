@@ -8,14 +8,13 @@
   <!-- FontAwesome para iconos -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   
-  <link rel="stylesheet" href="./asset/css/talonera.css"  >
-
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-  <!-- CSS -->
+
+<!-- CCS -->
   <style>
     :root {
       --primary: #0047FF;
@@ -39,13 +38,25 @@
     }
 
     body {
-      display: grid;
+      display:grid;
       background-color: var(--bg-color);
       color: var(--text-main);
-      overflow: hidden;
+      overflow:hidden;
       grid-template-rows: 106px auto 45px;
-      height: 100dvh;
+      height:100dvh;
     }
+.btn-quit{
+    position: absolute;
+    right: 6px;
+    top: 7px;
+    padding: 5px 9px;
+    border-radius: 7px;
+    border: solid 1px;
+    cursor: pointer;
+    background-color: #ff1a1a;
+    color: wheat;
+    font-weight: bold;
+}
 
     /* Header & Branding */
     header {
@@ -66,6 +77,229 @@
       padding: 9px 20px;
     }
 
+	/* Quitar puntos y márgenes por defecto */
+	.menu, .submenu {
+	  list-style: none;
+	  padding: 0;
+	  margin: 0;
+	}
+
+	/* Menú principal horizontal */
+	.menu {
+	  display: flex;
+	  background-color: #e9e9e9;
+	}
+
+	.menu a {
+	  display: block;
+	  padding: 9px 12px;
+	  color: #5b5b5b;
+	  text-decoration: none;
+	}
+
+	.menu a:hover {
+	  background-color: #c1c1c1;
+	}
+
+	/* Posicionamiento del submenú */
+	.dropdown {
+	  position: relative; /* Referencia para el submenú */
+	}
+
+	.submenu {
+	  display: none; /* Oculto por defecto */
+	  position: absolute;
+	  top: 100%;
+	  left: 0;
+	  background-color: #e9e9e9;
+	  min-width: 160px;
+	  box-shadow: 0px 8px 16px rgba(0,0,0,0.3);
+	  z-index:2;
+	}
+
+	/* Mostrar submenú al pasar el cursor */
+	.dropdown:hover .submenu {
+	  display: block;
+	}
+	/* Mostramos un modal con el iframe dinamico */
+.container-modal-drawio{
+    display : none;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    right: 30px;
+    bottom: 30px;
+    z-index: 2;
+}
+.modal-iframe-drawio{
+	width:100%;
+	height:100%;
+}
+.modal-iframe-pdf{
+	width:100%;
+	height:100%;
+}
+
+
+	/* Mostramos el modal*/
+	 .container-modal {
+	    flex-direction: column;
+	    display:none;
+	    background-color: #ffffff;
+	    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+	    overflow: hidden;
+	    border: 1px solid #e2e8f0;
+	    border-radius: 12px;
+	    position: fixed;
+	    top: 50px;
+	    left: 20dvw;
+	    z-index: 2;
+	    right: 20dvw;
+	    bottom: 30px;
+	    border: 2px solid #1f3e90;
+        }
+	.container-modal-pdf {
+	    flex-direction: column;
+	    display:none;
+	    background-color: #ffffff;
+	    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+	    overflow: hidden;
+	    border: 1px solid #e2e8f0;
+	    border-radius: 12px;
+	    position: fixed;
+	    top: 50px;
+	    z-index: 2;
+	    left: 5dvw;
+	    right: 5dvw;
+	    bottom: 30px;
+	    border: 2px solid #1f3e90;
+        }
+
+        /* Encabezado */
+        .header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: #ffffff;
+    	    padding: 6px 12px;
+    	    text-align: center;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+        }
+
+        .content {
+	    padding: 24px;
+	    overflow-y: auto;
+	    scrollbar-width: thin;
+	    scrollbar-color: #3b82f6 #f1f5f9;
+	    display: flex;
+	    flex-direction: row;
+	    flex-wrap: wrap;
+        }
+.subContent{
+	width: 100%;
+}
+        /* Estilos de Sección */
+        .section-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #1e3a8a;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin: 24px 0 12px 0;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3b82f6;
+            display: flex;
+            align-items: center;
+	    cursor:pointer;
+        }
+
+        .section-title:first-child {
+            margin-top: 0;
+        }
+
+        /* Tabla */
+        .directory-table {
+	    display:none;
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        .directory-table th, 
+        .directory-table td {
+            padding: 10px 16px;
+            text-align: left;
+        }
+
+        .directory-table th {
+            background-color: #f1f5f9;
+            color: #475569;
+            font-weight: 600;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px solid #cbd5e1;
+        }
+
+        .directory-table tbody tr {
+            border-bottom: 1px solid #f1f5f9;
+        }
+
+        .directory-table tbody tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+
+        .directory-table tbody tr:hover {
+            background-color: #eff6ff;
+        }
+
+        /* Columna de Internos */
+        .phone-col {
+            width: 35%;
+        }
+
+        .phone-number {
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-weight: 700;
+            color: #2563eb;
+            background-color: #eff6ff;
+            padding: 4px 8px;
+            border-radius: 6px;
+            border: 1px solid #bfdbfe;
+            display: inline-block;
+        }
+
+        .name-col {
+            width: 65%;
+            font-weight: 500;
+            color: #334155;
+        }
+
+        /* Responsivo en Pantallas Chicas */
+        @media (max-width: 640px) {
+            body {
+                padding: 10px;
+            }
+            .content {
+                padding: 16px;
+            }
+            .header {
+                padding: 18px 16px;
+            }
+            .header h1 {
+                font-size: 20px;
+            }
+        }
+
     .brand h1 {
       font-size: 1.5rem;
       font-weight: 700;
@@ -78,76 +312,280 @@
       margin-top: 2px;
     }
 
-    /* Navigation */
-    .menu, .submenu {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    .menu {
-      display: flex;
-      background-color: #e9e9e9;
-    }
-
-    .menu a {
-      display: block;
-      padding: 9px 12px;
-      color: #5b5b5b;
-      text-decoration: none;
-    }
-
-    .menu a:hover {
-      background-color: #c1c1c1;
-    }
-
-    .dropdown {
-      position: relative;
-    }
-
-    .submenu {
-      display: none;
-      position: absolute;
-      top: 100%;
-      left: 0;
-      background-color: #e9e9e9;
-      min-width: 160px;
-      box-shadow: 0px 8px 16px rgba(0,0,0,0.3);
-      z-index: 2;
-    }
-
-    .dropdown:hover .submenu {
-      display: block;
-    }
-
     /* Contenedor Principal */
     .container {
-      grid-row: 2/2;
-      width: 100vw;
-      margin: 6px auto;
-      padding: 0 20px;
-      overflow: auto;
-      scrollbar-width: thin;
-      scrollbar-color: #3b82f6 #f1f5f9;
+	grid-row: 2/2;
+    	width: 100vw;
+    	margin: 6px auto;
+    	padding: 0 20px;
+    	overflow: auto;
+    	scrollbar-width: thin;
+    	scrollbar-color: #3b82f6 #f1f5f9;
     }
 
-    /* Pie de página */
-    .pie-pagina {
-      grid-row: 3/3;
+    /* Sección de Búsqueda y Filtros */
+    .controls-section {
+      background: var(--card-bg);
+      padding: 20px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 25px;
+    }
+
+    .search-box {
+      position: relative;
+      margin-bottom: 15px;
+    }
+
+    .search-box i {
+      position: absolute;
+      left: 15px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 1.1rem;
+    }
+
+    .search-box input {
       width: 100%;
-      text-align: center;
-      padding: 14px 0;
-      background-color: #333333;
+      padding: 12px 15px 12px 45px;
+      font-size: 1rem;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      outline: none;
+      transition: all 0.2s ease;
+    }
+
+    .search-box input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(0, 86, 145, 0.15);
+    }
+
+    /* Badges de Categoría (Filtros) */
+    .categories-filter {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .btn-filter {
+      background: #edf2f7;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: var(--text-main);
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .btn-filter:hover {
+      background: #e2e8f0;
+    }
+
+    .btn-filter.active {
+      background: var(--primary);
       color: #ffffff;
-      font-family: Arial, sans-serif;
+    }
+
+    /* Rejilla de Trámites */
+    .tramites-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+      align-items: start;
+    }
+
+    /* Tarjeta de Trámite */
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border-color);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      min-height: 235px;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    }
+
+    .card-header {
+      padding: 18px 20px 12px;
+    }
+
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .tag-category {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--primary);
+      background: #ebf8ff;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    .tag-via {
+      font-size: 0.72rem;
+      font-weight: 600;
+      background: #f7fafc;
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text-main);
+      line-height: 1.3;
+    }
+
+    .card-body {
+      padding: 0 20px 15px;
       font-size: 0.9rem;
-      bottom: 0px;
+      color: var(--text-muted);
+      flex-grow: 1;
+    }
+
+    .card-footer {
+      padding: 12px 20px;
+      background: #fafafa;
+      border-top: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .btn-toggle {
+      background: none;
+      border: none;
+      color: var(--primary);
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    
+    .btn-diagram {
+      background: none;
+      border: none;
+      color: var(--secundary);
+      font-weight: 600;
+      font-size: 0.85rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+     }
+
+    .btn-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .btn-link:hover {
+      text-decoration: underline;
+    }
+
+    /* Detalles Desplegables */
+    .card-details {
+      display: none;
+      padding: 15px 20px;
+      background: #f8fafc;
+      border-top: 1px dashed var(--border-color);
+      font-size: 0.88rem;
+    }
+
+    .card-details.open {
+      display: block;
+    }
+
+    .card-details h4 {
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      margin-top: 10px;
+    }
+
+    .card-details h4:first-child {
+      margin-top: 0;
+    }
+
+    .card-details ul {
+      list-style-type: disc;
+      padding-left: 18px;
+      margin-bottom: 8px;
+    }
+
+    .card-details li {
+      margin-bottom: 4px;
+    }
+
+    .alert-note {
+      background: #fffaf0;
+      border-left: 3px solid #dd6b20;
+      padding: 8px 12px;
+      font-size: 0.82rem;
+      color: #9c4221;
+      border-radius: 4px;
+      margin-top: 8px;
+    }
+
+    /* Sin Resultados */
+    .no-results {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-muted);
+      grid-column: 1 / -1;
+      display: none;
+    }
+
+    .no-results i {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      opacity: 0.5;
+    }
+    
+    .pie-pagina {
+	grid-row: 3/3;
+	width: 100%;
+	text-align: center;
+	padding: 14px 0;
+	background-color: #333333;
+	color: #ffffff;
+	font-family: Arial, sans-serif;
+	font-size: 0.9rem;
+	bottom: 0px;
     }
 
     .pie-pagina p {
       margin: 0;
     }
+    
   </style>
+
 </head>
 <body>  
   <!-- Cabecera -->
@@ -159,141 +597,839 @@
       </div>
     </div>
     <div>
-      <nav class="navbar">
-        <ul class="menu">
-          <li><a id="id-btn-start" href="#">Inicio</a></li>
-          <li class="dropdown">
-            <a href="#">Talonera Inteligente ▾</a>
-            <ul class="submenu">
-              <li><a href="#" onclick="cargarHTML('./component/Barometrica.html','tiket-loco')">Barométrica</a></li>
-              <li><a href="#" onclick="cargarHTML('./component/RegistroCivil.html','tiket-loco')">Registro Civil</a></li>
-              <li><a href="#" onclick="cargarHTML('./component/Convenios.html','tiket-loco')">Convenios</a></li>
-              <li><a href="#">Sub Zona 04</a></li>
-              <li><a href="#">Sub Zona 05</a></li>
-              <li><a href="#">Sub Zona 06</a></li>
-              <li><a href="#"> TMF 2017 </a></li>
-            </ul>
-          </li>
-        </ul>
-      </nav>
+	<nav class="navbar">
+	  <ul class="menu">
+	    <li><a id="id-btn-start" href="#">Inicio</a></li>
+	    <li class="dropdown">
+	      <a href="#">Sub Zonas ▾</a>
+	      <ul class="submenu">
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-1.pdf&embedded=true')">Sub Zona 01</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-2.pdf&embedded=true')">Sub Zona 02</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-3.pdf&embedded=true')">Sub Zona 03</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-4.pdf&embedded=true')">Sub Zona 04</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-5.pdf&embedded=true')">Sub Zona 05</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/sub-zona-6.pdf&embedded=true')">Sub Zona 06</a></li>
+		<li><a href="#" onclick="btnSubMenu('https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adlc20/Manual_de_procedimientos_ccz9/main/SubZone/TMF2017.pdf&embedded=true')"> TMF 2017 </a></li>
+	      </ul>
+	    </li>
+	    
+	<li class="dropdown">
+	<a href="#">Herramientas ▾</a>
+		<ul class="submenu">
+			<li><a id="btn-phone" href="#">Teléfonos</a></li>
+			<li><a href="https://drive.google.com/drive/folders/1j3euEBnh2ndzaDGrTm_-KkSPaRB10Rwj" target="_blank" rel="noopener noreferrer">Formularios</a></li>
+		</ul>
+	</li>
+	  </ul>
+	</nav>
     </div>
   </header>
 
+	<div id="modal-drawio" class="container-modal-drawio">
+		<button id="btn-quit-modal-drawio" class="btn-quit" >Cerrar</button>
+		<iframe id="iframeDrawIo" class="modal-iframe-drawio"></iframe>
+
+	</div>
+
+<div id="modal-pdf" class="container-modal-pdf">
+		<div class="header">
+			<h1>Zonas y Municipios </h1>
+			<button id="btn-quit-modal-pdf" class="btn-quit">Cerrar</button>
+		</div>
+
+		<iframe id="iframePdf" class="modal-iframe-pdf"></iframe>
+
+</div>
+
+	<div id="modal" class="container-modal">
+		<div class="header">
+			<h1>DIRECTORIO TELEFÓNICO INTERNO</h1>
+			<button id="btn-quit-modal" class="btn-quit">Cerrar</button>
+		</div>
+			<div class="content">
+            		<!-- Externos -->
+			<div class="subContent">
+			    <div id="externo-head" class="section-title">Externos</div>
+			    <table id="externo-table" class="directory-table">
+				<thead>
+				    <tr>
+				        <th class="phone-col">Interno / Teléfono</th>
+				        <th class="name-col">Nombre / Referencia</th>
+					<th class="name-col">E-Mail</th>
+				    </tr>
+				</thead>
+				<tbody>
+				    <tr><td><span class="phone-number">4330</span></td><td class="name-col">Ingresos Inmobiliarios</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">4335</span></td><td class="name-col">Ingresos Inmobiliarios</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">9980</span></td><td class="name-col">Administracion de Saneamiento</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">3850</span></td><td class="name-col">Registro Civil</td><td class="name-col"></td></tr>
+				</tbody>
+			    </table>
+			</div>
+			    <!-- SECTOR GENERAL -->
+			<div class="subContent">
+			    <div id="ccz-head" class="section-title">Centro Comunal Zonal 9</div>
+			    <table id="ccz-table" class="directory-table">
+				<thead>
+				    <tr>
+				        <th class="phone-col">Interno / Teléfono</th>
+				        <th class="name-col">Nombre / Referencia</th>
+					<th class="name-col">E-Mail</th>
+				    </tr>
+				</thead>
+				<tbody>
+				    <tr><td><span class="phone-number">7354</span></td><td class="name-col">Giovi Berta Garcia</td><td class="name-col">berta.garcia@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7355</span></td><td class="name-col">Pablo Damacena</td><td class="name-col">jose.damacena@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7356</span></td><td class="name-col">Carlos Ramos</td><td class="name-col">carlos.ramos@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7358</span></td><td class="name-col">Agustina Demicheri</td><td class="name-col">agustina.demicheri@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7359</span></td><td class="name-col">Diego Chans</td><td class="name-col">diego.chans@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7360</span></td><td class="name-col">Leonardo Fernandez</td><td class="name-col">leonardo.fernandez@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7361</span></td><td class="name-col">Alvaro Fernandez</td><td class="name-col">alvaro.fernandez.vignoli@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7362</span></td><td class="name-col">Veronica Villalba</td><td class="name-col">veronica.villalba@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7363</span></td><td class="name-col">Vivian Sosa</td><td class="name-col">vivian.sosa@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7364</span></td><td class="name-col">Analia Acosta</td><td class="name-col">analia.acosta@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7368</span></td><td class="name-col">Rosalía Rodriguez</td><td class="name-col">rosalia.rodriguez@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7369</span></td><td class="name-col">Silvina Benzo</td><td class="name-col">silvina.benzo@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7370</span></td><td class="name-col">Francisco Garcia</td><td class="name-col">francisco.p.garcia@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7378</span></td><td class="name-col">Jessica Justillo</td><td class="name-col">jessica.justillo@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7373</span></td><td class="name-col">A. Social</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">7375</span></td><td class="name-col">Sandra / Vero</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">092558445</span></td><td class="name-col">Arbolado</td><td class="name-col"></td></tr>
+				</tbody>
+			    </table>
+			</div>
+			    <!-- SECTOR MUNICIPIO -->
+			<div class="subContent">
+			    <div id="municipio-head" class="section-title">Municipio</div>
+			    <table id="municipio-table" class="directory-table">
+				<thead>
+				    <tr>
+				        <th class="phone-col">Interno / Teléfono</th>
+				        <th class="name-col">Nombre / Referencia</th>
+					<th class="name-col">E-Mail</th>
+				    </tr>
+				</thead>
+				<tbody>
+				    <tr><td><span class="phone-number">7374</span></td><td class="name-col">Teresa Barattini</td><td class="name-col">maria.barattini@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7376</span></td><td class="name-col">Fabiana Cespedes</td><td class="name-col">maria.cespedes@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7380</span></td><td class="name-col">Silvio Raimondo</td><td class="name-col">im1859930@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7382</span></td><td class="name-col">Matilde Palermo</td><td class="name-col">matilde.palermo@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7383</span></td><td class="name-col">Tatiana Silveira</td><td class="name-col">rocio.silveira@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7383</span></td><td class="name-col">Paula Gonzalez</td><td class="name-col">paula.gonzalez@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7384</span></td><td class="name-col">Comunicaciones</td><td class="name-col">comunicacionmunicipiof@gmail.com</td></tr>
+				    <tr><td><span class="phone-number">7385</span></td><td class="name-col">Daniel Pelossi</td><td class="name-col">atilio.pelossi@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7385</span></td><td class="name-col">Rafael Piriz</td><td class="name-col">rafael.piriz@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7387</span></td><td class="name-col">Gonzalo Hernández (RRHH)</td><td class="name-col">gonzalo.j.hernandez@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7388</span></td><td class="name-col">Valentina / Santiago</td><td class="name-col">valentina.martinez.sabaj@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7388</span></td><td class="name-col">Santiago Maidana</td><td class="name-col">santiago.maidana@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7389</span></td><td class="name-col">Daniel Costa / Máximo</td><td class="name-col">daniel.costa@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7389</span></td><td class="name-col">Máximo Blardoni</td><td class="name-col">maximo.blardoni@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7390</span></td><td class="name-col">Gastón Grosso</td><td class="name-col">gaston.grosso@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7391</span></td><td class="name-col">Mauri Davila</td><td class="name-col">mauricio.davila@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7392</span></td><td class="name-col">Javier</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">7394</span></td><td class="name-col">Roberto Robayna</td><td class="name-col">amilcar.robayna@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7395</span></td><td class="name-col">Valeria Criz</td><td class="name-col">valeria.criz@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7397</span></td><td class="name-col">Carlos Schneider</td><td class="name-col">henry.schneider@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">9075</span></td><td class="name-col"> Sala Lazaroff </td><td class="name-col"></td></tr>
+				</tbody>
+			    </table>
+			</div>
+			    <!-- SECTOR BASE OPERATIVA -->
+			<div class="subContent">
+			    <div id="base-head" class="section-title">Base Operativa</div>
+			    <table id="base-table" class="directory-table">
+				<thead>
+				    <tr>
+				        <th class="phone-col">Interno / Teléfono</th>
+				        <th class="name-col">Nombre / Referencia</th>
+					<th class="name-col">E-Mail</th>
+				    </tr>
+				</thead>
+				<tbody>
+				    <tr><td><span class="phone-number">25095719</span></td><td class="name-col">Línea Base Operativa</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">7366</span></td><td class="name-col">Javier Diaz</td><td class="name-col"></td></tr>
+				    <tr><td><span class="phone-number">7690</span></td><td class="name-col">Carla Modernell</td><td class="name-col">carla.modernell@imm.gub.uy</td></tr>
+				    <tr><td><span class="phone-number">7692</span></td><td class="name-col">Sandra Martinez</td><td class="name-col">sandra.martinez@imm.gub.uy</td></tr>
+				</tbody>
+			    </table>
+			</div>
+			</div>
+	</div>
+
   <!-- Contenedor Principal -->
-<main class="container">
-<!-- Botón para imprimir -->
-  <button onclick="imprimirDiv('tiket-loco')" style="padding: 8px 16px; margin-bottom: 15px; cursor: pointer;">
-    <i class="fa-solid fa-print"></i> Imprimir Contenido
-  </button>
+  <main class="container">
+    
+    <!-- Sección Controles: Búsqueda y Filtros -->
+    <section class="controls-section">
+      <div class="search-box">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" id="searchInput" placeholder="Buscar por trámite, requisito, canal de ingreso (SUR, GIC, EE)...">
+      </div>
+      <div class="categories-filter" id="categoryFilters">
+        <button class="btn-filter active" data-category="todos">Todos</button>
+        <button class="btn-filter" data-category="Reclamos">Reclamos</button>
+        <button class="btn-filter" data-category="Facturación">Facturación</button>
+        <button class="btn-filter" data-category="Denuncias">Denuncias</button>
+        <button class="btn-filter" data-category="Solicitudes">Solicitudes</button>
+        <button class="btn-filter" data-category="Permisos">Permisos</button>
+        <button class="btn-filter" data-category="Eventos">Eventos</button>
+      </div>
+    </section>
 
-  <div id="tiket-loco">
-  </div>
-  
-</main>
+    <!-- Listado de Trámites -->
+    <section class="tramites-grid" id="tramitesGrid">
+      <!-- Generado dinámicamente con JavaScript -->
+    </section>
 
-  <!-- Pie de página -->
+    <!-- Estado de búsqueda vacía -->
+    <div class="no-results" id="noResults">
+      <i class="fa-solid fa-folder-open"></i>
+      <p>No se encontraron resultados que coincidan con la búsqueda.</p>
+    </div>
+
+  </main>
+
+  <script>
+
+    // Base de datos de trámites
+    const tramitesData = [
+	{
+        id: "TRASLADO-DE-COLUMNAS",
+        titulo: "TRASLADO DE COLUMNAS DE ALUMBRADO PÚBLICO",
+        categoria: "Solicitudes",
+        via: "Buzón Ciudadano / EE",
+        descripcion: "Solicitud de cambio de ubicación de columna de alumbrado público.",
+        requisitos: [   "- Cédula de identidad",
+			"- Títulos de propiedad del padrón",
+			"- Recibo de Contribución Inmobiliaria",
+			"- Nota de solicitud, explicando el problema",
+	],
+        observaciones: "Siempre que no tengan correo electrónico, se deberá ingresar por expediente.",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Traslado%20de%20columnas.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FTraslado_de_columnas%2FTraslado%2520de%2520columnas.drawio#%7B%22pageId%22%3A%22Kd6n_6Gd7Ow1bQ6V8fjZ%22%7D",
+      },
+	{
+        id: "gestión-de-facturas-por-testimonio",
+        titulo: "Gestión de facturas por testimonio",
+        categoria: "Facturación",
+        via: "Sistema GIC",
+        descripcion: "",
+        requisitos: [
+		"",
+        ],
+        observaciones: "",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Facturas%20por%20testimonio.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_por_testimonio%2FFactura%2520por%2520testimonio.drawio",
+      },
+	{
+        id: "generacion-factura-habilitacion-comercial",
+        titulo: "Gestión de facturas para habilitaciones comerciales",
+        categoria: "Facturación",
+        via: "GIC",
+        descripcion: "",
+        requisitos: [
+	""
+        ],
+        observaciones: "",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Factura%20habilitaciones%20comerciales.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_habilitaciones%2FFactura%2520habilitaciones%2520comerciales.drawio#%7B%22pageId%22%3A%22B3ESOyS-u-SEI-_DCkS-%22%7D",
+      },
+	{
+        id: "generacion-factura-plazo",
+        titulo: "Gestión de facturas para plazos",
+        categoria: "Facturación",
+        via: "GIC",
+        descripcion: "Siempre que se solicite un plazo y el mismo lo requiera se debe de adjuntar una factura para que se otorgue.",
+        requisitos: [
+	""
+        ],
+        observaciones: "Antes de emitir cualquier factura bajo concepto de plazo el mismo debe de estar previa mente autorizado.",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Factura%20por%20plazos.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_por_plazo%2FFactura%2520por%2520plazos.drawio",
+      },
+	{
+        id: "factura-partidas",
+        titulo: "Generación de facturas para partidas.",
+        categoria: "Facturación",
+        via: "GIC",
+        descripcion: "Se deben emitir facturas para el pago de partidas.",
+        requisitos: [
+		""	
+	],
+        observaciones: "",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Factura%20para%20partidas.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_partidas%2FFactura%2520para%2520partidas.drawio#%7B%22pageId%22%3A%22bqgq6kgW1a_Xik1S1ciR%22%7D",
+      },
+	{
+        id: "generacion-factura-barometrica",
+        titulo: "Generación de facturas para barométrica",
+        categoria: "Facturación",
+        via: "GIC",
+        descripcion: "Se deben emitir facturas para los servicios de barométrica categoría B o C",
+        requisitos: [
+		"Después del pago de la factura se tarda hasta 72hs en efectuarse el pago",
+		"Luego de dicho plazo se puede realizar solicitud de barómetro. ",
+        ],
+        observaciones: "",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Factura%20de%20barom%C3%A9trica.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFacturas_barom%25C3%25A9trica%2FFactura%2520de%2520barom%25C3%25A9trica.drawio#%7B%22pageId%22%3A%22nRzck_OWp86uSs1Rtgbp%22%7D",
+      },
+      {
+        id: "varias-solicitudes",
+        titulo: "Solictudes Varias",
+        categoria: "Solicitudes",
+        via: "Sistema SEE",
+        descripcion: "Se inicia solicitudes variase cuando no corresponde iniciarla por otra plataforma.",
+        requisitos: [
+		"Cédula de identidad",
+		"Nota de la descripción de la solicitud",
+		"Documentación complementaria:",
+		"Material fotográfico",
+		"Firma de vecinos"
+        ],
+        observaciones: "Se inician solicitudes que no están contempladas en bajo la orbita de la administración del servicio.",
+        link: "https://drive.google.com/file/d/10Tg9UkQZYJPJ2B1P84xNw_szAdOQrbcU/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Solicitudes%20por%20expedienete.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FSolicitudes_por_expediente%2FSolicitudes%2520por%2520expedienete.drawio",
+      },
+      {
+        id: "rec-sur",
+        titulo: "Reclamos SUR",
+        categoria: "Reclamos",
+        via: "Sistema SUR",
+        descripcion: "Ingreso de reclamos de Arbolado (árboles, podas, picudo), Alumbrado Público, Cursos de Agua, vialidad.",
+        requisitos: [
+          "Verificar que la dirección ingresada en SUR sea exactamente donde está el problema (usar dirección del SIG)",
+          "En caso de palmera seca por plaga (picudo), avisar de inmediato al referente de Arbolado o Ingeniero Agrónomo"
+        ],
+        observaciones: "Ver procedimiento notificado desde la Dirección del Servicio.",
+        link: "https://drive.google.com/file/d/1to2FDSFV_LGr1cxYziAeqVyVC1Txs-L8/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SUR.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FSUR%2FSUR.drawio",
+      },
+      {
+        id: "rec-saneamiento",
+        titulo: "Reclamos relacionados a Tarifa de Saneamiento",
+        categoria: "Reclamos",
+        via: "Buzón Ciudadano / EE",
+        descripcion: "Gestión de reclamos relacionadas a la Tarifa de Saneamiento.",
+        requisitos: [
+          "Cédula de Identidad del ciudadano",
+          "Tributo Domiciliario con constancia de pago original, o comprobante electrónico (PDF del banco)",
+          "Recibo de OSE",
+          "Cuenta de Correo electrónico"
+        ],
+        observaciones: "Siempre que no tengan correo electrónico, se deberá ingresar por expediente.",
+        link: "https://tramites.montevideo.gub.uy/categoria-tramite/tributos",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SANEAMIENTO.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FSANEAMIENTO%2FSANEAMIENTO.drawio",
+      },
+      {
+        id: "fact-gestion",
+        titulo: "Gestión de Facturas",
+        categoria: "Facturación",
+        via: "Sistema GIC",
+        descripcion: "Duplicados de factura, informes de deuda, estados de cuenta y reserva de agenda para convenios.",
+        requisitos: [
+          "Tributos Domiciliarios, Tarifa Saneamiento y Convenios: Presentar factura anterior (papel, foto o PDF)",
+          "Contribución Inmobiliaria (últimos 12 meses): Presentar factura anterior",
+          "Contribución Inmobiliaria (> 12 meses o total): Título de propiedad, promesa inscripta, certificado notarial o constancia BHU/ANV/MVOTMA actualizados"
+        ],
+        observaciones: "En caso de requerir el número de cuenta corriente, pueden presentarse con agenda previa en el Servicio de Ingresos Inmobiliarios con su cédula vigente, un timbre profesional, y firmar una Declaración Jurada (la misma se firma en calidad de propietario u ocupante)",
+        link: "https://www.montevideo.gub.uy/sae/agendarReserva/Paso1.xhtml?agenda=INMOB&recurso=atencionalpublico&pagina_retorno=http://www.montevideo.gub.uy&solo_cuerpo=false",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=GIC.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FGIC%2FGIC.drawio",
+      },
+      {
+        id: "den-2vias",
+        titulo: "Denuncias (Formulario dos Vías)",
+        categoria: "Denuncias",
+        via: "EE pase a Unidad 0640",
+        descripcion: "Denuncias por: terrenos baldíos sin cerco, obstrucción de cunetas, vertimiento de aguas servidas, terrenos con falta de higiene y/o mantenimiento, ocupación de vereda, Local comercial sin habilitaciones, etc.",
+        requisitos: [
+          "Formulario DENUNCIA DOS VIAS completo",
+          "Búsqueda previa en SEE para descartar expediente en curso por el mismo tema",
+          "Verificar y utilizar dirección del SIG y adjuntar mapa de ubicación del problema denunciado"
+        ],
+        observaciones: "NO incluir datos personales ni nada que identifique al denunciante en VÍA 1 (motivo). VÍA 2 (datos del denunciante) NUNCA se digitaliza (se guarda en bibliorato físico de despacho). No se reciben denuncias en asentamientos salvo locales comerciales que vendan alimentos.",
+        link: "https://drive.google.com/file/d/1tWI_26ujcoWWxxVDdJpAlRyysN3QGfLa/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DENUNCIAS_corrientes.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FDENUNCIAS_corrientes%2FDENUNCIAS_corrientes.drawio",
+      },
+      {
+        id: "den-obra",
+        titulo: "Denuncia de Obra sin permiso",
+        categoria: "Denuncias",
+        via: "EE pase URGENTE a unidad Arquitectura y Urbanismo - 8723",
+        descripcion: "Denuncias de construcciones o modificaciones edilicias en ejecución sin el correspondiente permiso.",
+        requisitos: [
+          "Agenda previa con Arquitectura",
+          "Formulario 'Denuncia de obra sin permiso'",
+          "Factura paga de Tasa de Ingreso de Inspección Técnica (emitida en GIC)",
+          "Adjuntar mapa con ubicación del problema"
+        ],
+        observaciones: "Antes de escanear,doblar o cortar el formulario por la línea punteada para separar la denuncia de los datos personales y así garantizar el anonimato. El formulario deberá ser guardado en bibliorato de denuncias.",
+        link: "https://drive.google.com/file/d/16jlhMVOt1OEQJ2x88V0GPZwuyUrFjaIA/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Obras%20sin%20permiso.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FDenuncias_obras%2FObras%2520sin%2520permiso.drawio",
+      },
+      {
+        id: "den-molestias",
+        titulo: "Denuncia de molestias por ruidos, humo y olores",
+        categoria: "Denuncias",
+        via: "Formulario Web IM",
+        descripcion: "Si constatás ruidos molestos, humo u olores provenientes de locales comerciales o industriales que te afectan, podés realizar este trámite para que se tomen medidas.",
+        requisitos: [
+          "Calle y número del local comercial o industrial denunciado.",
+          "Motivo de la denuncia.",
+          "Dirección y teléfono del denunciante.",
+        ],
+        observaciones: "Aplica para actividades comerciales o industriales sujetas a contralor departamental.",
+        link: "https://tramites.montevideo.gub.uy/tramites-y-tributos/denuncia/molestias-ruidos-molestos-humo-y-olores",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Denuncias_ROH.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FDenuncias_ROH%2FDenuncias_ROH.drawio",
+      },
+      {
+        id: "den-ruidos-finca",
+        titulo: "Denuncia de ruidos molestos provenientes de una finca particular",
+        categoria: "Denuncias",
+        via: "Trámite Externo",
+        descripcion: "Atención y derivación de denuncias por ruidos entre vecinos en viviendas particulares.",
+        requisitos: [
+          "No es competencia de la Intendencia de Montevideo"
+        ],
+        observaciones: "Acciones recomendadas al vecino: 1) Radicar denuncia civil en Seccional Policial. 2) Asesorarse en Defensoría del Vecino (0800 1616). 3) Concurrir a un Centro de Mediación Vecinal.",
+        link: null
+      },
+      {
+        id: "sol-barometrica",
+        titulo: "Servicio de Barométrica",
+        categoria: "Solicitudes",
+        via: "App SUR",
+        descripcion: "Solicitud de desagote de pozos en viviendas ubicadas en zonas NO saneadas.",
+        requisitos: [
+          "Chequear obligatoriamente en SIG que NO pase colector frente al padrón",
+          "Cédula de Identidad de todos los integrantes del núcleo familiar",
+          "Recibos de ingresos o negativo de BPS de mayores de edad",
+          "Recibos de egresos (OSE, UTE, ANTEL, tributos, gastos en salud)"
+        ],
+        observaciones: "Siempre se deberá chequear la planilla SERVICIO DE BAROMETRICA - CASOS PARTICULARES por si la solicitud tiene alguna particularidad",
+        link: "https://docs.google.com/spreadsheets/d/1dcbPeWMh6aH6fJy_LsbwlvrzO-N3IbhfpQohZjeK6Pk/edit",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=barometrica.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FBAROMETRICA%2Fbarometrica.drawio"
+      },
+      {
+        id: "sol-fondo-saneamiento",
+        titulo: "Fondo de Saneamiento",
+        categoria: "Solicitudes",
+        via: "Expediente Electrónico - Unidad 2061",
+        descripcion: "Solicitud de Fondo de Saneamiento para la realización de obras sanitarias intradomiciliarias",
+        requisitos: [
+          "Formulario Fondo de Saneamiento completo",
+          "Cédula del solicitante y números de cédula de todo el núcleo familiar",
+          "Recibos de ingreso de todos los integrantes o negativo BPS",
+          "Facturas de Impuestos (TGM, Contribución, Saneamiento - aunque no estén al día)",
+          "Recibo de OSE y declarar si se comparte medidor"
+        ],
+        observaciones: "Se inicia por EE en el CCZ, se eleva a Municipio F y se remite a División Saneamiento.",
+        link: "https://drive.google.com/file/d/154RfXEgntT8FbBkab4nUoEnGvYF3gNeO/view",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=SANEAMIENTO.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FSANEAMIENTO%2FSANEAMIENTO.drawio#%7B%22pageId%22%3A%22qlc953NAofMKyTNfyRjc%22%7D"
+      },
+      {
+        id: "sol-inspeccion",
+        titulo: "Solicitud de Inspección Técnica",
+        categoria: "Solicitudes",
+        via: "EE pase a Arquitectura y Urbanismo - 8723",
+        descripcion: "Comprende las denuncias formuladas en los casos de daños o perjuicios ocasionados a propiedades por problemas de humedades, sanitarios, estructurales o similares.",
+        requisitos: [
+          "Previa agenda con Arquitectura para asesoramiento",
+          "Formulario de Inspección Técnica",
+          "Pago de tasa de ingreso de inspección técnica",
+          "Recibos de Contribución Inmobiliaria (si es propietario) y Tributos Domiciliarios al día",
+          "Adjuntar mapa con ubicación obtenido de SIG"
+        ],
+        observaciones: "Si la inspección es de OFICIO requiere autorización del Director y presentación del Formulario de Inspección de Oficio con datos detallados de ingresos/egresos del hogar.",
+        link: "https://tramites.montevideo.gub.uy/tramites-y-tributos/solicitud/inspeccion-tecnica-por-problemas-de-humedades-sanitarios-estructurales",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Inspecciones_tecnicas.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FInspecciones_tecnicas%2FInspecciones_tecnicas.drawio"      
+	},
+      {
+        id: "sol-exoneracion-contribucion",
+        titulo: "Exoneración de Contribución Inmobiliaria a Jubilados y Pensionistas",
+        categoria: "Solicitudes",
+        via: "GIC",
+        descripcion: "Exoneración del impuesto Contribución Inmobiliaria para jubilados y pensionistas.",
+        requisitos: [
+          "Se realiza durante los meses de JUNIO, JULIO Y AGOSTO",
+          "Cédulas de Identidad de todo el núcleo familiar",
+          "Recibos de ingresos de todo el núcleo familiar (emisión ENERO del año corriente)",
+          "Recibo de BPS (emisión ENERO del año corriente)",
+          "factura de Contribución Inmobiliaria",
+          "Títulos de propiedad (si es por primera vez)",
+          "Timbre profesional (puede traer sticker o lo abona en la cuota de noviembre de la Cont. Inmobiliaria)"
+        ],
+        observaciones: "Se exonera solo el concepto Contribución Inmobiliaria. VER INSTRUCTIVO",
+        link: "https://drive.google.com/file/d/1VOcX0_SIMYSWogudqf00AXXItT-sy-MF/view?usp=sharing",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=CONTRIBUCI%C3%93N_1era_o_retroactiva.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FCONTRIBUCI%25C3%2593N%2FCONTRIBUCI%25C3%2593N_1era_o_retroactiva.drawio",
+      },
+      {
+        id: "sol-plazo-habilitaciones",
+        titulo: "Solicitud de Plazo por Control de Habilitaciones",
+        categoria: "Solicitudes",
+        via: "EE pase a Despacho Plazos - 1256",
+        descripcion: "Prórroga para la regularización de trámites bajo el área de Control de Habilitaciones.",
+        requisitos: [
+          "Formulario de solicitud de plazo completo",
+          "Factura paga de 'PAPEL TIMBRADO CCZ'",
+          "Nota de fundamentación presentada por ciudadano/a",
+          "Aval de la Dirección o Jefatura"
+        ],
+        observaciones: "Consultar previamente con Dirección o Jefatura si corresponde otorgar plazo antes de generar la factura.",
+        link: "https://drive.google.com/file/d/1H7Z_pEDfuEM4_hliM24BCnMe2NlHGIN8/view",
+	drawiosrc:"https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Habilitaciones%20comerciales.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FHabilitaciones%2520_comerciales%2FHabilitaciones%2520comerciales.drawio"
+      },
+      {
+        id: "sol-plazo-otros",
+        titulo: "Solicitud de Plazo - por intimaciones en general",
+        categoria: "Solicitudes",
+        via: "EE pase a Despacho Plazos - 1256",
+        descripcion: "Solicitud de prórrogas generales para procedimientos administrativos.",
+        requisitos: [
+          "Formulario Solicitud de Plazo completo",
+          "Nota explicativa firmada por el vecino/a solicitante",
+          "Aval de la Dirección o Jefatura"
+        ],
+        observaciones: "Aplica a expedientes generales no encuadrados en habilitaciones comerciales.",
+        link: "https://drive.google.com/file/d/1zXcze-CKtpMatFNwFTSaHB63Py5_B9s0/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Plazo%20por%20motivos%20varios.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FPLAZOS_motivos_varios%2FPlazo%2520por%2520motivos%2520varios.drawio"
+      },
+      {
+        id: "sol-partidas",
+        titulo: "Solicitud de Testimonio de Partidas",
+        categoria: "Solicitudes",
+        via: "Aplicación de Registro Civil",
+        descripcion: "Emisión de Testimonio de partidas de Nacimiento, Matrimonio o Defunción.",
+        requisitos: [
+          "Contar con información de la partida a solicitar: nombre, apellido, fecha, tipo de partida, etc.",
+          "Tiene costo, imprimir factura en GIC"
+        ],
+        observaciones: "En la IM se podrá solicitar partidas de nacimiento o defunción de personas nacidas o fallecidas en Montevideo entre 1914 y 2012 y partidas de matrimonio entre 1914 y 2014. Para partidas digitales se podrá ingresar a la web del MEC dgrec.gub.uy.",
+        link: "https://www.gub.uy/tramites/solicitud-partidas",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=partidas.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FPartidas%2Fpartidas.drawio"
+      },
+      {
+        id: "sol-testimonio-expediente",
+        titulo: "Solicitud de Testimonio de expediente",
+        categoria: "Solicitudes",
+        via: "Expediente Electrónico",
+        descripcion: "Solicitud de copia de actuaciones de un expediente.",
+        requisitos: [
+          "Formulario 'Solicitud de Testimonio' completo",
+          "Factura paga de 'Solicitud de testimonio / escritos'",
+          "En caso de Inspecciones Técnicas, quien inició el expediente tiene acceso a un testimonio gratuito al finalizar el procedimiento administrativo"
+        ],
+        observaciones: "Al entregar: fotocopiar la primera hoja del testimonio y pedir firma, aclaración, C.I. y fecha al receptor. En expedientes de denuncia guardar el formulario junto a la vía 1 física.",
+        link: "https://drive.google.com/file/d/1e7REp1fOnINrBNW-Q3RmKJFOL-kOu1dS/view?usp=sharing",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Solicitud%20de%20testimonio%20de%20expediente.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FTestimonio_expediente%2FSolicitud%2520de%2520testimonio%2520de%2520expediente.drawio"
+      },
+      {
+        id: "sol-acceso-informacion",
+        titulo: "Solicitud de Acceso a la información pública",
+        categoria: "Solicitudes",
+        via: "Formulario Web / Presencial / Mail",
+        descripcion: "Petición de acceso a la información amparada por la Ley de Acceso a la Información Pública.",
+        requisitos: [
+          "Web: Formulario oficial en línea",
+          "Presencial: Unidad de Acceso a la Información (Piso 2, Sector Ejido, Puerta 2084 - IM)",
+          "Mail: Enviar solicitud a derechoalainformacion@imm.gub.uy indicando nombre, documento, domicilio y teléfono"
+        ],
+        observaciones: "Garantiza la transparencia administrativa de acuerdo a la normativa vigente.",
+        link: "https://montevideo.gub.uy/transparencia/derecho-a-la-informacion"
+      },
+      {
+        id: "sol-fumigacion",
+        titulo: "Solicitud de Fumigación (Usuarios ASSE)",
+        categoria: "Solicitudes",
+        via: "Expediente Electrónico",
+        descripcion: "Este trámite se realiza para solicitar la intervención de desratizaciones (ratas y ratones), desinsectacion por cucarachas.",
+        requisitos: [
+          "Formulario de Solicitud completo",
+          "Constancia de Salud Pública acreditando afiliación gratuita (padrón ASSE)",
+          "Constancia de domicilio (factura UTE, OSE, ANTEL, etc. a nombre del solicitante)",
+          "Cédula de Identidad"
+        ],
+        observaciones: "Exclusivo para beneficiarios de salud pública con afiliación gratuita. Mas información en https://tramites.montevideo.gub.uy/tramites-y-tributos/solicitud/intervencion-para-el-control-de-vectores",
+        link: "https://drive.google.com/file/d/1buaZrk7UzZgKqZ71RdHusDTlaYdNL7qq/view",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Fumigaci%C3%B3n.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FFUMIGACI%25C3%2593N%2FFumigaci%25C3%25B3n.drawio"
+      },
+      {
+        id: "sol-bolardos",
+        titulo: "Solicitud de colocación de Bolardos",
+        categoria: "Solicitudes",
+        via: "Expediente Electrónico",
+        descripcion: "Solicitud de colocación de mojones en la vía pública.",
+        requisitos: [
+          "Asesoramiento previo obligatorio con Ayudante Tecnológico",
+          "Formulario de Bolardos completo con croquis del lugar"
+        ],
+        observaciones: "Ingeniería de Tránsito evaluará la solicitud e informará si requiere modificaciones según la normativa.",
+        link: "https://drive.google.com/file/d/17fcGS7xGuu4B1kVSLDS8nKXBS2tXxhWG/view?usp=drive_link",
+	drawiosrc : "https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Colocaci%C3%B3n%20de%20bolardos.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9%2Fmain%2FColocaci%25C3%25B3n_bolardos%2FColocaci%25C3%25B3n%2520de%2520bolardos.drawio"
+      },
+
+      {
+        id: "perm-demolicion",
+        titulo: "Permiso de Demolición",
+        categoria: "Permisos",
+        via: "Sistema GIP",
+        descripcion: "Autorización para obras de demolición total o parcial de edificaciones.",
+        requisitos: [
+          "Agenda previa con Arquitectura",
+          "Recibos de Contribución y los Tributos Domiciliarios al día del inmueble en el cual se realizarán las obras de demolición.",
+          "Constancia Notarial.",
+          "Cédula Catastral (Se debe adjuntar el original de este documento, que se obtiene en la Dirección Nacional de Catastro).",
+          "Planos (original y copia). Archivo digital PDF.",
+          "Fotografía (10 X 15 cm.) por lo menos de cada fachada abarcando parte de los linderos. Presentar también archivo digital JPG.",
+          "Solicitud y Memoria. La persona que suscriba este documento, deberá ser la misma que en la Constancia Notarial, aparece como propietario del padrón o que ejerza la representación legal en ella. Originales firmados y archivo en PDF.",
+          "Declaración de Responsabilidad.",
+          "Registro de la obra ante la Dirección Nacional de Catastro.",
+          "Registro en el Ministerio de Trabajo y Seguridad Social.",
+          "Certificado de la Unidad para la Conservación del Patrimonio o de la Comisión especial Permanente según corresponda.",
+          "Si corresponde, constancia de haber iniciado la Fase B o Intimación de Demolición."
+        ],
+        observaciones: "La presentación de la solicitud NO autoriza el inicio anticipado de obras.",
+        link: "https://drive.google.com/file/d/1wwF5MW5X6LQSjPgw_U3nufwtv1_A_bjl/view"
+      },
+
+      {
+        id: "perm-vereda",
+        titulo: "Permiso de Construcción y/o reconstrucción total o parcial de vereda",
+        categoria: "Permisos",
+        via: "Expediente Electrónico",
+        descripcion: "Autorización para obras o reparación de veredas en la vía pública.",
+        requisitos: [
+          "Asesoramiento previo con Ayudante Tecnológico",
+          "Formulario de solicitud de permiso de veredas y formulario de contacto",
+          "Firma de la autorización correspondiente en el momento de la solicitud",
+          "Si surge de una denuncia previa, vincular el EE del permiso al EE de la denuncia"
+        ],
+        observaciones: "Las obras deben comenzar dentro de los 45 días de otorgado el permiso cumpliendo con la normativa departamental.",
+        link: "https://drive.google.com/file/d/1cjXNB-ykweph7nclIfQOZqu2TfYM3O2P/view"
+      },
+      {
+        id: "ev-apoyo",
+        titulo: "Solicitud de apoyo a Eventos",
+        categoria: "Eventos",
+        via: "Formulario Web",
+        descripcion: "Solicitud de apoyo logístico y equipamiento para actividades vecinales o culturales.",
+        requisitos: [
+          "Completar el formulario de Google oficial de eventos del Municipio F",
+          "El evento debe ser estricta y exclusivamente sin fines de lucro",
+          "No debe estar relacionado con fines políticos ni religiosos"
+        ],
+        observaciones: "Consultar el reglamento de préstamo dentro del mismo formulario web.",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdDqsyiH-2PQs0oon-V0Kw2NR-FT9-8v2mDWqWoVQGS3md9OA/viewform"
+      }
+    ];
+
+    // Variables de Estado
+    let currentCategory = "todos";
+    let searchQuery = "";
+
+    // Elementos DOM
+    const gridContainer = document.getElementById("tramitesGrid");
+    const searchInput = document.getElementById("searchInput");
+    const filterButtons = document.querySelectorAll(".btn-filter");
+    const noResultsEl = document.getElementById("noResults");
+
+    // Renderizar Tarjetas
+    function renderTramites() {
+      gridContainer.innerHTML = "";
+      
+      const filtered = tramitesData.filter(tramite => {
+        const matchesCategory = currentCategory === "todos" || tramite.categoria === currentCategory;
+        const matchesSearch = 
+          tramite.titulo.toLowerCase().includes(searchQuery) ||
+          tramite.descripcion.toLowerCase().includes(searchQuery) ||
+          tramite.via.toLowerCase().includes(searchQuery) ||
+          tramite.requisitos.some(r => r.toLowerCase().includes(searchQuery));
+        
+        return matchesCategory && matchesSearch;
+      });
+
+      if (filtered.length === 0) {
+        noResultsEl.style.display = "block";
+        return;
+      }
+
+      noResultsEl.style.display = "none";
+
+      filtered.forEach(tramite => {
+        const card = document.createElement("article");
+        card.className = "card";
+	let display_btn_diagram = (tramite.drawiosrc===undefined)?'none':'block';
+	let display_btn_detalles = ( tramite.requisitos[0] )?'block':'none';
+        
+        const reqListHtml = tramite.requisitos.map(r => `<li>${r}</li>`).join("");
+        const linkHtml = tramite.link 
+          ? `<a href="${tramite.link}" target="_blank" class="btn-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Abrir Enlace</a>`
+          : `<span></span>`;
+
+        card.innerHTML = `
+          <div class="card-header">
+            <div class="card-meta">
+              <span class="tag-category">${tramite.categoria}</span>
+              <span class="tag-via"><i class="fa-solid fa-diagram-project"></i> ${tramite.via}</span>
+            </div>
+            <h3 class="card-title">${tramite.titulo}</h3>
+          </div>
+          <div class="card-body">
+            <p>${tramite.descripcion}</p>
+          </div>
+          <div class="card-footer">
+            <button style="display:${display_btn_detalles};" class="btn-toggle" onclick="toggleDetails('${tramite.id}')">
+              <i class="fa-solid fa-circle-info"></i> Ver Detalles
+            </button>
+	    <button id="${tramite.id}" class="btn-diagram" data-drawio="${tramite.drawiosrc}" onclick="clickOpenDiagram('${tramite.id}')" style="display:${display_btn_diagram};">
+	    	<i class="fa-solid fa-diagram-predecessor"></i>
+	    	Diagrama
+            </button>
+            ${linkHtml}
+          </div>
+          <div class="card-details" id="details-${tramite.id}">
+            <h4>Requisitos y Documentación:</h4>
+            <ul>${reqListHtml}</ul>
+            ${tramite.observaciones ? `<div class="alert-note"><strong>Nota de procedimiento:</strong> ${tramite.observaciones}</div>` : ''}
+          </div>
+        `;
+
+        gridContainer.appendChild(card);
+      });
+    }
+
+    // Toggle de Acordión de Detalles
+    function toggleDetails(id) {
+      const detailsEl = document.getElementById(`details-${id}`);
+      if (detailsEl) {
+        detailsEl.classList.toggle("open");
+      }
+    }
+
+    // Event Listener - Buscador en Tiempo Real
+    searchInput.addEventListener("input", (e) => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      renderTramites();
+    });
+
+    // Event Listener - Filtro de Categorías
+    filterButtons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        filterButtons.forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        currentCategory = btn.getAttribute("data-category");
+        renderTramites();
+      });
+    });
+
+    // Render Inicial
+    renderTramites();
+  </script>
+
+
+
+
+ <!--
+ 
+<iframe frameborder="0" style="width: 80%; height: 2000px; display: block; margin: 0 auto;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=gitHub%20_%20Flujos%20de%20trabajo%20ME.drawio&dark=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fadlc20%2FManual_de_procedimientos_ccz9_repositorio%2Fmain%2FgitHub%2520_%2520Flujos%2520de%2520trabajo%2520ME.drawio"></iframe>
+
+
+-->
+
+<!-- Pie de página -->
   <footer class="pie-pagina">
       <p> 2026 - Centro Comunal Zonal N.º9 </p>
   </footer>
+<!--Sistema reactivo de modales.-->
 <script>
-function imprimirDiv(idDiv) {
-  const contenido = document.getElementById(idDiv);
+	//Boton telefono
+	const btnModal 		= document.getElementById('btn-phone');
+	const modal 		= document.getElementById('modal');
+	const btnModalQuitPhone = document.getElementById('btn-quit-modal');
+	
+	//Sub buttons table CCZ
+	const btnCCZ    = document.getElementById('ccz-head');
+	const tableCCZ  = document.getElementById('ccz-table');
+	
+	function btnSubMenu ( src ){
+		const modalPdf = document.getElementById('modal-pdf');
+		      modalPdf.style.display = (modalPdf.style.display === 'flex') ? 'none' : 'flex';
 
-  if (!contenido) {
-    console.error(`El elemento con ID '${idDiv}' no existe.`);
-    return;
-  }
+		const iFramePdf = document.getElementById('iframePdf');
+		      iFramePdf.src = src;
+	
+		const btnQuitModalPdf = document.getElementById('btn-quit-modal-pdf');
+		
+		btnQuitModalPdf.addEventListener('click', (e) => {
+		  e.preventDefault(); 
+		  modalPdf.style.display = 'none';
+		});
+	}
+	
+	
+	btnCCZ.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  tableCCZ.style.display = (tableCCZ.style.display === 'table') ? 'none' : 'table';
+	});
+	
+	//Sub buttons table Municipio
+	const btnMunicipio    = document.getElementById('municipio-head');
+	const tableMunicipio  = document.getElementById('municipio-table');
+	
+	btnMunicipio.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  tableMunicipio.style.display = (tableMunicipio.style.display === 'table') ? 'none' : 'table';
+	});
 
-  const ventanaImpresion = window.open('', '', 'height=600,width=800');
+	//Sub buttons table Base
+	const btnBase    = document.getElementById('base-head');
+	const tableBase  = document.getElementById('base-table');
+	
+	btnBase.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  tableBase.style.display = (tableBase.style.display === 'table') ? 'none' : 'table';
+	});
+	//Sub buton table externos
 
-  ventanaImpresion.document.write('<html><head><title>Imprimir</title>');
+	const btnExterno    = document.getElementById('externo-head');
+	const tableExterno  = document.getElementById('externo-table');
+	
+	btnExterno.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  tableExterno.style.display = (tableExterno.style.display === 'table') ? 'none' : 'table';
+	});
 
-  // Copiar hojas de estilo existentes
-  const estilos = document.querySelectorAll('link[rel="stylesheet"], style');
-  estilos.forEach(estilo => {
-    ventanaImpresion.document.write(estilo.outerHTML);
-  });
+	btnModal.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  modal.style.display = (modal.style.display === 'flex') ? 'none' : 'flex';
+	});
+	btnModalQuitPhone.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  modal.style.display = 'none';
+	});
+	//Click boton inicio.
+	const btnStart = document.getElementById('id-btn-start');
+	btnStart.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  const search = document.getElementById('searchInput');
+		search.value = ''
+		searchQuery = ''
+		renderTramites();
+	});
+	
+function clickOpenDiagram(idBTN){
+	const btnDiagram   = document.getElementById(idBTN);
+	const modalDrawIo  = document.getElementById('modal-drawio');
+	const iFrameDrawIo = document.getElementById('iframeDrawIo');
 
-  // Sobrescribir los estilos globales para evitar recortes y desplazamientos
-  ventanaImpresion.document.write(`
-    <style>
-      html, body {
-        display: block !important;
-        height: auto !important;
-        min-height: auto !important;
-        overflow: visible !important;
-        background-color: #ffffff !important;
-        margin: 0 !important;
-        padding: 20px !important;
-      }
-      
-      .container, #${idDiv} {
-        overflow: visible !important;
-        height: auto !important;
-        width: 100% !important;
-        margin: 0 !important;
-        padding: 0 !important;
-      }
-
-      /* Separador opcional entre cada repetición */
-      .bloque-repetido {
-        margin-bottom: 20px;
-        page-break-inside: avoid; /* Evita que una copia se corte entre dos páginas */
-      }
-
-      @media print {
-        body {
-          padding: 0 !important;
-        }
-      }
-    </style>
-  `);
-
-  ventanaImpresion.document.write('</head><body>');
-
-  // Repetir el contenido 5 veces
-  for (let i = 0; i < 4; i++) {
-    ventanaImpresion.document.write(`<div class="bloque-repetido">${contenido.innerHTML}</div>`);
-  }
-
-  ventanaImpresion.document.write('</body></html>');
-
-  ventanaImpresion.document.close();
-  ventanaImpresion.focus();
-
-  ventanaImpresion.onload = function() {
-    //ventanaImpresion.print();
-    //ventanaImpresion.close();
-  };
+	console.log(btnDiagram.dataset.drawio);	
+	iFrameDrawIo.src = btnDiagram.dataset.drawio;
+	modalDrawIo.style.display = (modal.style.display === 'grid') ? 'none' : 'grid';
+	
+	btnModalQuit = document.getElementById('btn-quit-modal-drawio');
+	btnModalQuit.addEventListener('click', (e) => {
+	  e.preventDefault(); 
+	  modalDrawIo.style.display = 'none';
+	});
 }
-/**
- * Carga un archivo HTML en un contenedor específico
- * @param {string} rutaArchivo - Ej: 'secciones/subzona01.html'
- * @param {string} idContenedor - Ej: 'mi-contenedor'
- */
-async function cargarHTML(rutaArchivo, idContenedor) {
-  const contenedor = document.getElementById(idContenedor);
+	
 
-  if (!contenedor) {
-    console.error(`No se encontró el contenedor con ID '${idContenedor}'`);
-    return;
-  }
 
-  try {
-    const respuesta = await fetch(rutaArchivo);
-    
-    if (!respuesta.ok) {
-      throw new Error(`Error ${respuesta.status}: No se pudo cargar el archivo.`);
-    }
-
-    const html = await respuesta.text();
-    contenedor.innerHTML = html;
-
-  } catch (error) {
-    console.error('Error al cargar el HTML:', error);
-    contenedor.innerHTML = `<p style="color: red;">Error al cargar el contenido.</p>`;
-  }
-}
 </script>
 </body>
+
 </html>
