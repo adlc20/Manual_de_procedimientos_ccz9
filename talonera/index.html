@@ -239,6 +239,7 @@ function imprimirDiv(idDiv) {
       .bloque-repetido {
         margin-bottom: 0px;
         page-break-inside: avoid; /* Evita que una copia se corte entre dos páginas */
+	border-bottom: 1px solid #2a6bb1;
       }
 
       @media print {
@@ -262,8 +263,8 @@ function imprimirDiv(idDiv) {
   ventanaImpresion.focus();
 
   ventanaImpresion.onload = function() {
-    //ventanaImpresion.print();
-    //ventanaImpresion.close();
+    ventanaImpresion.print();
+    ventanaImpresion.close();
   };
 }
 /**
