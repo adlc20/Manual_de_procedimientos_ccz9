@@ -218,7 +218,7 @@ function imprimirDiv(idDiv) {
   ventanaImpresion.document.write(`
     <style>
       html, body {
-       display: grid !important;
+        display: block !important;
         height: auto !important;
         min-height: auto !important;
         overflow: visible !important;
@@ -262,8 +262,8 @@ function imprimirDiv(idDiv) {
   ventanaImpresion.focus();
 
   ventanaImpresion.onload = function() {
-    ventanaImpresion.print();
-    ventanaImpresion.close();
+    //ventanaImpresion.print();
+    //ventanaImpresion.close();
   };
 }
 /**
