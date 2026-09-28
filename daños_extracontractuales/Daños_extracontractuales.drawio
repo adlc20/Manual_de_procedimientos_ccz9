@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="oOXVYPjuN1-TdmGFLq2X">
-    <mxGraphModel dx="1732" dy="955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             <mxPoint x="-519" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZbjd_W7tS36HpIy894N-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" value="&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;¿&lt;b&gt;El ciudadano que se presenta actúa de representante del dagnificado&lt;/b&gt;?&lt;/span&gt;" vertex="1">
+        <mxCell id="rZbjd_W7tS36HpIy894N-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;" value="&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;¿&lt;b&gt;El ciudadano representa al damnificado&lt;/b&gt;?&lt;/span&gt;" vertex="1">
           <mxGeometry height="133" width="370.5" x="625" y="779" as="geometry" />
         </mxCell>
         <mxCell id="rZbjd_W7tS36HpIy894N-40" edge="1" parent="1" source="rZbjd_W7tS36HpIy894N-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rZbjd_W7tS36HpIy894N-19">
