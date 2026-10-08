@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="EMISIÓN DE FACTURAS" id="mkhAd3yqZ2F1wr0fHvME">
-    <mxGraphModel dx="3171" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -861,34 +861,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-112" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;" value="&lt;font&gt;&lt;b&gt;¿Está vencida la factura?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="71" width="228.25" x="2399.87" y="3138.5" as="geometry" />
+          <mxGeometry height="71" width="228.25" x="2397.87" y="3138.5" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-113" edge="1" parent="1" source="sFSbM4rsYH4-m8yQwS2y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;curved=0;" target="sFSbM4rsYH4-m8yQwS2y-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-114" parent="1" style="whiteSpace=wrap;html=1;fontSize=25;" value="&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;b&gt;&quot;Imprimir duplicado&quot;&lt;/b&gt; para que el ciudadano abone la factura.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="116.5" width="282" x="1895" y="3123.5" as="geometry" />
+          <mxGeometry height="116.5" width="282" x="1893" y="3123.5" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-115" edge="1" parent="1" source="sFSbM4rsYH4-m8yQwS2y-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="sFSbM4rsYH4-m8yQwS2y-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-116" parent="1" style="whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;&amp;nbsp;Borrar la factura:&lt;/font&gt;&lt;div&gt;&lt;font&gt;cliquear &lt;b&gt;&quot;anular documento&quot;&lt;/b&gt; y luego &lt;b&gt;&quot;generar&quot;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="122.5" width="319.5" x="2354.24" y="3346" as="geometry" />
+          <mxGeometry height="122.5" width="319.5" x="2352.24" y="3346" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-117" edge="1" parent="1" source="sFSbM4rsYH4-m8yQwS2y-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="sFSbM4rsYH4-m8yQwS2y-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-118" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;Acceder&lt;/b&gt; por &lt;b&gt;número de convenio&lt;/b&gt; (cliquear &quot;linterna&quot; ), escribirlo (cliquear &quot;linterna&quot; )&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&amp;nbsp; Agregar &lt;b&gt;&quot;cuota&quot;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Cliquear &lt;b&gt;&quot;ver documento&quot;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="207.5" width="453.82" x="2285.8999999999996" y="3523" as="geometry" />
+          <mxGeometry height="207.5" width="453.82" x="2283.8999999999996" y="3523" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-119" edge="1" parent="1" source="sFSbM4rsYH4-m8yQwS2y-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="sFSbM4rsYH4-m8yQwS2y-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-120" parent="1" style="whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Si la factura se presenta correcta, cliquear &lt;b&gt;&quot;emitir documento&quot;&lt;/b&gt; y &lt;b&gt;entregar la factura&lt;/b&gt; correspondiente&lt;/font&gt;" vertex="1">
-          <mxGeometry height="130" width="369" x="2328.5099999999998" y="3786" as="geometry" />
+          <mxGeometry height="130" width="369" x="2326.5099999999998" y="3786" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-121" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="2443.62" y="3975.5" as="geometry" />
+          <mxGeometry height="80" width="140" x="2441.62" y="3975.5" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-122" edge="1" parent="1" source="sFSbM4rsYH4-m8yQwS2y-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="sFSbM4rsYH4-m8yQwS2y-88">
           <mxGeometry relative="1" as="geometry">
@@ -933,7 +933,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-134" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;¿El nombre coincide con el ciudadano solicitante?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="108" width="298.62" x="2361.5" y="2420" as="geometry" />
+          <mxGeometry height="108" width="298.62" x="2362.5" y="2420" as="geometry" />
         </mxCell>
         <mxCell id="sFSbM4rsYH4-m8yQwS2y-135" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="2061" y="2435" as="geometry" />
