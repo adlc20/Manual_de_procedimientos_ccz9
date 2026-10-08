@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Informe de deuda " id="Jj157HR4f8nEO3sQjWSZ">
-    <mxGraphModel dx="3861" dy="2183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3171" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,22 +293,61 @@
             <mxGeometry height="287.13" width="328" x="1553" y="2197" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="mzgksUbMcXxQNZxm9mlP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma:&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="305" x="631" y="196" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="HPQU7dXkxmYxgehMTUo1" name="EMISIÓN DE FACTURAS ">
-    <mxGraphModel dx="888" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3171" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_Ey5bzLzBSdUPTPSl0r2-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="140" width="4611" x="35" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ey5bzLzBSdUPTPSl0r2-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="4611" x="35" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="rDqaZulPze_e7_42ahLQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma:&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="305" x="603" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-3" edge="1" parent="1" source="kAkO4eFQmW7iEO8l6nxG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="kAkO4eFQmW7iEO8l6nxG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="145" width="145" x="2277" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-5" edge="1" parent="1" source="kAkO4eFQmW7iEO8l6nxG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="kAkO4eFQmW7iEO8l6nxG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INGRESAR AL SISTEMA:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;GIC&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84" width="394" x="2152.5" y="574" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;¿El ciudadano &lt;b&gt;presenta un convenio&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="117" width="314" x="2192.5" y="756" as="geometry" />
+        </mxCell>
+        <mxCell id="kAkO4eFQmW7iEO8l6nxG-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;EMISIÓN DE FACTURAS - CONTRIBUCIÓN INMOBILIARIA -&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="1007.13" x="1850" y="192" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NutpzsVPazY2_aI1airJ" name="Cambio de dirección ">
-    <mxGraphModel dx="888" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3861" dy="2183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AIrmRA5ctK0M6KKH_C2P-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="140" width="4611" x="35" y="36" as="geometry" />
+        </mxCell>
+        <mxCell id="AIrmRA5ctK0M6KKH_C2P-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="4611" x="35" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="PlAKACC2mZXtdYeCww4w-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;Flujograma:&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="305" x="617" y="194" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
