@@ -467,6 +467,12 @@
         <mxCell id="dSho-DnTBKhRkA62EfPK-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="3998.09" y="3022" as="geometry" />
         </mxCell>
+        <mxCell id="dSho-DnTBKhRkA62EfPK-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Se realiza la facturación si el solicitante &lt;b&gt;tiene &lt;u&gt;vinculación jurídica&lt;/u&gt; &lt;/b&gt;con el padrón:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el&amp;nbsp;título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="256" width="530.01" x="760.44" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="dSho-DnTBKhRkA62EfPK-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;El ciudadano debe &lt;b&gt;presentar una factura&amp;nbsp; de &lt;u&gt;tres o menos períodos&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;o&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;En &lt;b&gt;caso de que no tenga&lt;/b&gt; una factura o esta sea más antigua al plazo requerido, &lt;b&gt;se solicitará&lt;/b&gt; la&lt;b&gt; &lt;u&gt;vinculación jurídica &lt;/u&gt;con el padrón:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="256" width="564.87" x="1487.44" y="1040" as="geometry" />
+        </mxCell>
         <mxCell id="scwjA-wQifOsPdQ6kOxM-7" edge="1" parent="1" source="dSho-DnTBKhRkA62EfPK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="scwjA-wQifOsPdQ6kOxM-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -475,9 +481,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSho-DnTBKhRkA62EfPK-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Se realiza la facturación si el solicitante &lt;b&gt;tiene &lt;u&gt;vinculación jurídica&lt;/u&gt; &lt;/b&gt;con el padrón:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el&amp;nbsp;título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="256" width="530.01" x="760.44" y="1050" as="geometry" />
-        </mxCell>
         <mxCell id="scwjA-wQifOsPdQ6kOxM-8" edge="1" parent="1" source="dSho-DnTBKhRkA62EfPK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="scwjA-wQifOsPdQ6kOxM-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -485,9 +488,6 @@
               <mxPoint x="1385.3" y="1343.6" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dSho-DnTBKhRkA62EfPK-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;El ciudadano debe &lt;b&gt;presentar una factura&amp;nbsp; de &lt;u&gt;tres o menos períodos&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;o&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;En &lt;b&gt;caso de que no tenga&lt;/b&gt; una factura o esta sea más antigua al plazo requerido, &lt;b&gt;se solicitará&lt;/b&gt; la&lt;b&gt; &lt;u&gt;vinculación jurídica &lt;/u&gt;con el padrón:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="256" width="564.87" x="1487.44" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="scwjA-wQifOsPdQ6kOxM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="&lt;font&gt;&lt;b&gt;Padrón con deuda en procuración&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="12.44" width="336.37" x="1059" y="886" as="geometry" />
