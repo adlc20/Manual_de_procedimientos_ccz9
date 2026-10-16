@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Inspecciones técnicas " id="zupMUSVsrt4hkREEDFi5">
-    <mxGraphModel dx="3171" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="Inspecciones técnicas " id="QpvMIR6pzU6yqN2wH-T2">
+    <mxGraphModel dx="2220" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="ng0xQKqm-qxX8ces7pX8-5" edge="1" parent="1" source="ng0xQKqm-qxX8ces7pX8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;dashPattern=8 8;strokeWidth=2;fontSize=25;" target="ng0xQKqm-qxX8ces7pX8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span&gt;¿Cómo sacar fecha y hora para un área en especial?&lt;/span&gt;&lt;div&gt;&lt;span&gt;(ver procedimiento)&lt;/span&gt;&lt;/div&gt;" link="data:page/id,_kHX6c1lmhNgV87ksriv" id="ng0xQKqm-qxX8ces7pX8-6">
+        <UserObject label="&lt;span&gt;¿Cómo sacar fecha y hora para un área en especial?&lt;/span&gt;&lt;div&gt;&lt;span&gt;(ver procedimiento)&lt;/span&gt;&lt;/div&gt;" link="data:page/id,xeLdaEfYsCbvPxY2wKoF" id="ng0xQKqm-qxX8ces7pX8-6">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;dashed=1;dashPattern=8 8;fontSize=25;" vertex="1">
             <mxGeometry height="133" width="331.5" x="1946.25" y="571" as="geometry" />
           </mxCell>
@@ -114,15 +114,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ng0xQKqm-qxX8ces7pX8-32" edge="1" parent="1" source="ng0xQKqm-qxX8ces7pX8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;fontSize=25;curved=0;" target="ng0xQKqm-qxX8ces7pX8-48">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="-0.0735" as="geometry">
             <Array as="points">
-              <mxPoint x="2757.67" y="2345" />
-              <mxPoint x="491.33" y="2345" />
+              <mxPoint x="2666.8" y="2345" />
+              <mxPoint x="491.3" y="2345" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ng0xQKqm-qxX8ces7pX8-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Ingresar en:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt; (cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;N° de doc. y de emisión.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;N° de sucursal, fecha de pago&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir la constancias del pago&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="325" width="812.5" x="2351.5" y="1889" as="geometry" />
+        <mxCell id="ng0xQKqm-qxX8ces7pX8-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Ingresar en:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&amp;nbsp;&quot;Facturación&quot; - &quot;Confirmación de pagos&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Completar datos&lt;/b&gt; (moverse con Tab.):&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;N° de doc. y de emisión.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;N° de sucursal, fecha de pago&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Imprimir la constancias del pago&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="325" width="630.5" x="2351.5" y="1889" as="geometry" />
         </mxCell>
         <mxCell id="ng0xQKqm-qxX8ces7pX8-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=25;" value="&lt;font&gt;Ya con el solicitante en CCZ&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;¿Cómo confirmamos el pago de la factura?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="387" x="1801" y="1996.5" as="geometry" />
@@ -370,8 +370,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Agenda electrónica " id="_kHX6c1lmhNgV87ksriv">
-    <mxGraphModel dx="2691" dy="1521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+  <diagram name="Agenda electrónica " id="xeLdaEfYsCbvPxY2wKoF">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,7 +593,7 @@
         <mxCell id="pnQylaS44LglfhLV4P7H-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Flujograma:&lt;/font&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="247" x="255" y="207.5" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 20px; white-space: normal;&quot;&gt;INSPECCIONES&amp;nbsp; TÉCNICAS&amp;nbsp;&lt;/span&gt;" link="data:page/id,zupMUSVsrt4hkREEDFi5" id="pnQylaS44LglfhLV4P7H-60">
+        <UserObject label="&lt;span style=&quot;font-size: 20px; white-space: normal;&quot;&gt;INSPECCIONES&amp;nbsp; TÉCNICAS&amp;nbsp;&lt;/span&gt;" link="data:page/id,QpvMIR6pzU6yqN2wH-T2" id="pnQylaS44LglfhLV4P7H-60">
           <mxCell parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=24;sketch=1;curveFitting=1;jiggle=2;shadow=1;flipH=1;legacyAnchorPoints=0;fillColor=#bac8d3;strokeColor=#23445d;direction=east;gradientColor=#BAC8D3;" vertex="1">
             <mxGeometry height="60" width="180" x="2027" y="62" as="geometry" />
           </mxCell>
