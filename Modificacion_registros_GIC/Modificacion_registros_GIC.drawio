@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="Modificación de registros en GIC" id="gxLg88aNZQ1YVRMsF370">
-    <mxGraphModel dx="2220" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,40 +302,80 @@
           <mxGeometry height="44" width="305" x="407" y="205" as="geometry" />
         </mxCell>
         <mxCell id="rei1FZbKtzt12X8fWJgY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;MODIFICACIÓN DE DATOS DE CONTACTO&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;(celular, teléfono, correo, entre otros)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="74" width="1052.13" x="1835" y="190" as="geometry" />
+          <mxGeometry height="74" width="1052.13" x="1771" y="196" as="geometry" />
         </mxCell>
-        <mxCell id="3k5eMLGs_hdGue86psB8-1" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3k5eMLGs_hdGue86psB8-4">
+        <mxCell id="3k5eMLGs_hdGue86psB8-1" edge="1" parent="1" source="B9Gp3FujwPU02-vRnhg1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3k5eMLGs_hdGue86psB8-4">
           <mxGeometry relative="1" x="0.1029" as="geometry" />
         </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-2" connectable="0" parent="3k5eMLGs_hdGue86psB8-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px; color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0123" y="-7" as="geometry">
+            <mxPoint x="-14" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-7" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="B9Gp3FujwPU02-vRnhg1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="140" x="891" y="534.5" as="geometry" />
+          <mxGeometry height="140" width="140" x="534.35" y="512.5" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-3" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="3k5eMLGs_hdGue86psB8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=25;fontStyle=1" value="&lt;font&gt;&lt;span&gt;ACCEDER AL SISTEMA:&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span&gt;&amp;nbsp;GIC&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="84" width="394" x="1171" y="562.5" as="geometry" />
+          <mxGeometry height="84" width="394" x="1359.35" y="541.5" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-5" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="3k5eMLGs_hdGue86psB8-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Acceder a:&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;&quot;Mantenimiento envíos&quot; - &quot;Mantenimiento de personas físicas&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="143" width="549.25" x="1705" y="532.5" as="geometry" />
+          <mxGeometry height="143" width="549.25" x="1893.35" y="511.5" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-7" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="3k5eMLGs_hdGue86psB8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;En el ítem&lt;b&gt; &quot;Números para comunicación&quot;&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;1) En el campo&lt;b&gt; &quot;Tipo&quot;&lt;/b&gt; cliquear la &lt;b&gt;&quot;flechita azul&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;2&lt;b&gt;) Elegir el termino&lt;/b&gt; a modificar&lt;b&gt; (cédula, mail-internet, teléfono)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;3) &lt;b&gt;Escribimos el nuevo dato&lt;/b&gt; a modificar&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;4) Salimos (&lt;b&gt;cliquear &quot;atrás&quot;&lt;/b&gt;)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;5) Del cartel de verificación,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cliquear &lt;b&gt;&quot;guardar&quot;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 25px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="376" width="549.25" x="3098" y="416" as="geometry" />
+          <mxGeometry height="376" width="549.25" x="3286.35" y="395" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="188.44" x="3811.000000000001" y="564.5" as="geometry" />
+          <mxGeometry height="80" width="188.44" x="3999.350000000001" y="543.5" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-10" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="3k5eMLGs_hdGue86psB8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;En &lt;b&gt;&quot;Búsqueda de personas&quot;&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;1) En el ítem &lt;b&gt;&quot;Tipo de doc.&quot;&lt;/b&gt; cliquear la &lt;b&gt;&quot;flecha azul&quot;&lt;/b&gt; y &lt;b&gt;elegir el documento&lt;/b&gt; que el ciudadano presenta&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;2) En el &lt;b&gt;ítem &quot;Número&quot;&lt;/b&gt;: &lt;b&gt;escribir&amp;nbsp;el número del documento&lt;/b&gt;&amp;nbsp;(si es una C.I no agregar el último dígito)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;3) Cliquear &lt;b style=&quot;&quot;&gt;&quot;Buscar&quot;&lt;/b&gt; (debe aparecer el nombre del ciudadano correspondiente)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;4) Cliquear &lt;b&gt;&quot;Modificar&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="376" width="549.25" x="2384.88" y="416" as="geometry" />
+          <mxGeometry height="376" width="549.25" x="2573.23" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-6" edge="1" parent="1" source="u3yECcs2auLVOe2-RFTP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="B9Gp3FujwPU02-vRnhg1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u3yECcs2auLVOe2-RFTP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;div&gt;&lt;b&gt;El ciudadano se debe comunicar al:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;099 019 500&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;A través de Mi contribución y seguir los pasos correspondientes&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="158.43" width="446.89" x="2525.35" y="877.5699999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-3" edge="1" parent="1" source="B9Gp3FujwPU02-vRnhg1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;fillColor=#e51400;strokeColor=#B20000;strokeWidth=4;" target="tnD4LpfcwvIg4O8enDQa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-4" connectable="0" parent="B9Gp3FujwPU02-vRnhg1-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b style=&quot;color: rgb(255, 0, 0);&quot;&gt;NO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5593" y="-3" as="geometry">
+            <mxPoint x="3" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=3;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano desea realizar el trámite en el CCZ?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="117" width="314" x="855.35" y="524.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="188.44" x="3122.48" y="916.78" as="geometry" />
+        </mxCell>
+        <mxCell id="tnD4LpfcwvIg4O8enDQa-3" edge="1" parent="1" source="tnD4LpfcwvIg4O8enDQa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="tnD4LpfcwvIg4O8enDQa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnD4LpfcwvIg4O8enDQa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;b&gt;El ciudadano debe contar con Whatsapp para gestionar el cambio y acceder a que las facturas le lleguen por esta vía&lt;/b&gt;" vertex="1">
+          <mxGeometry height="135" width="438" x="1453.35" y="889.29" as="geometry" />
+        </mxCell>
+        <mxCell id="tnD4LpfcwvIg4O8enDQa-4" edge="1" parent="1" source="tnD4LpfcwvIg4O8enDQa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="u3yECcs2auLVOe2-RFTP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnD4LpfcwvIg4O8enDQa-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=3;" value="&lt;font&gt;&lt;b&gt;¿Con qué número se deben comunicar?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="117" width="314" x="2042.35" y="898.29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
