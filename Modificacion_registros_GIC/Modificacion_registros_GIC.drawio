@@ -312,9 +312,6 @@
             <mxPoint x="-14" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Gp3FujwPU02-vRnhg1-7" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="B9Gp3FujwPU02-vRnhg1-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="140" x="534.35" y="512.5" as="geometry" />
         </mxCell>
@@ -344,6 +341,9 @@
         </mxCell>
         <mxCell id="3k5eMLGs_hdGue86psB8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;En &lt;b&gt;&quot;Búsqueda de personas&quot;&lt;/b&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;1) En el ítem &lt;b&gt;&quot;Tipo de doc.&quot;&lt;/b&gt; cliquear la &lt;b&gt;&quot;flecha azul&quot;&lt;/b&gt; y &lt;b&gt;elegir el documento&lt;/b&gt; que el ciudadano presenta&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;2) En el &lt;b&gt;ítem &quot;Número&quot;&lt;/b&gt;: &lt;b&gt;escribir&amp;nbsp;el número del documento&lt;/b&gt;&amp;nbsp;(si es una C.I no agregar el último dígito)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;3) Cliquear &lt;b style=&quot;&quot;&gt;&quot;Buscar&quot;&lt;/b&gt; (debe aparecer el nombre del ciudadano correspondiente)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;4) Cliquear &lt;b&gt;&quot;Modificar&quot;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="376" width="549.25" x="2573.23" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Gp3FujwPU02-vRnhg1-7" edge="1" parent="1" source="3k5eMLGs_hdGue86psB8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="B9Gp3FujwPU02-vRnhg1-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Gp3FujwPU02-vRnhg1-6" edge="1" parent="1" source="u3yECcs2auLVOe2-RFTP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=4;" target="B9Gp3FujwPU02-vRnhg1-5">
           <mxGeometry relative="1" as="geometry" />
