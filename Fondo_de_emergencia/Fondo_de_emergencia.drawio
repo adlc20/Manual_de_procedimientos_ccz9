@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Fondo Habitacional " id="-xqwP4H1QHHu0_ToO2ao">
-    <mxGraphModel dx="7372" dy="1521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="6531" dy="1046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,12 +310,8 @@
         <mxCell id="vHhy-P7LOfVyqkyysQcr-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shadow=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Se manda a plazo por 5 días, tiempo para que la barraca entregue los materiales (Plazos 5044)&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="122.5" width="634.5" x="6915" y="1371.5" as="geometry" />
         </mxCell>
-        <mxCell id="vHhy-P7LOfVyqkyysQcr-96" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;strokeWidth=4;shape=taperedArrow;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vHhy-P7LOfVyqkyysQcr-95">
+        <mxCell id="vHhy-P7LOfVyqkyysQcr-96" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;strokeWidth=4;shape=taperedArrow;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vHhy-P7LOfVyqkyysQcr-95">
           <mxGeometry relative="1" x="-0.0462" as="geometry">
-            <Array as="points">
-              <mxPoint x="7861" y="1341.5" />
-              <mxPoint x="8147" y="1341.5" />
-            </Array>
             <mxPoint x="8051" y="1526.0031996941043" as="sourcePoint" />
             <mxPoint x="8877.999999999998" y="1596.63" as="targetPoint" />
           </mxGeometry>
@@ -325,11 +321,8 @@
             <mxPoint x="7" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHhy-P7LOfVyqkyysQcr-99" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#e51400;strokeColor=#B20000;shape=taperedArrow;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vHhy-P7LOfVyqkyysQcr-98">
+        <mxCell id="vHhy-P7LOfVyqkyysQcr-99" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#e51400;strokeColor=#B20000;shape=taperedArrow;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vHhy-P7LOfVyqkyysQcr-98">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7861" y="1519.3" />
-            </Array>
             <mxPoint x="7833.33" y="1624.83" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -405,19 +398,24 @@
         <mxCell id="vHhy-P7LOfVyqkyysQcr-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;roundedPerimeter=1;shadow=1;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Se pasa al área de arquitectura, bandeja común (arquitectura y urbanismo) y se verifica la utilización de los materiales&lt;/span&gt;" vertex="1">
           <mxGeometry height="170.75" width="658" x="8234.5" y="1857" as="geometry" />
         </mxCell>
-        <mxCell id="vHhy-P7LOfVyqkyysQcr-122" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="vHhy-P7LOfVyqkyysQcr-118">
+        <mxCell id="vHhy-P7LOfVyqkyysQcr-122" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;shape=taperedArrow;strokeWidth=4;fillColor=#60a917;strokeColor=#2D7600;" target="vHhy-P7LOfVyqkyysQcr-118">
           <mxGeometry relative="1" x="-0.1374" as="geometry" />
         </mxCell>
-        <mxCell id="vHhy-P7LOfVyqkyysQcr-123" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="vHhy-P7LOfVyqkyysQcr-119">
+        <mxCell id="fn_MqqjGW0UVaADb33X--1" connectable="0" parent="vHhy-P7LOfVyqkyysQcr-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=#67AB9F;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;SI&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2321" y="-1" as="geometry">
+            <mxPoint x="6" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHhy-P7LOfVyqkyysQcr-123" edge="1" parent="1" source="vHhy-P7LOfVyqkyysQcr-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;strokeWidth=4;fillColor=#e51400;strokeColor=#B20000;shape=taperedArrow;" target="vHhy-P7LOfVyqkyysQcr-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vHhy-P7LOfVyqkyysQcr-117" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="¿La obra fue ejecutada?" vertex="1">
           <mxGeometry height="125" width="352" x="8387.5" y="2214.13" as="geometry" />
         </mxCell>
         <mxCell id="vHhy-P7LOfVyqkyysQcr-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;roundedPerimeter=1;shadow=1;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Se describe en expediente lo observado en obra y se finaliza el expediente.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Se archiva&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170.75" width="658" x="8578" y="2478" as="geometry" />
+          <mxGeometry height="170.75" width="658" x="8593" y="2488" as="geometry" />
         </mxCell>
-        <mxCell id="vHhy-P7LOfVyqkyysQcr-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;roundedPerimeter=1;shadow=1;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Se describe en expediente lo observado en obra&amp;nbsp;&lt;/span&gt;" vertex="1">
+        <mxCell id="vHhy-P7LOfVyqkyysQcr-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;roundedPerimeter=1;shadow=1;" value="" vertex="1">
           <mxGeometry height="170.75" width="658" x="7814" y="2478" as="geometry" />
         </mxCell>
       </root>
