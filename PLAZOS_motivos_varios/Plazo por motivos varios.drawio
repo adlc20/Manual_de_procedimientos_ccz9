@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Plazos (motivos varios)" id="g_9xtQYbxDEuWp3m3Ig0">
-    <mxGraphModel dx="3171" dy="1793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="3289" dy="1859" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
             <mxGeometry height="60.5" width="352.5" x="2076.25" y="746" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rELAPkctuwPaxWQCNFnj-14" edge="1" parent="1" source="rELAPkctuwPaxWQCNFnj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" target="rELAPkctuwPaxWQCNFnj-36">
+        <mxCell id="rELAPkctuwPaxWQCNFnj-14" edge="1" parent="1" source="rELAPkctuwPaxWQCNFnj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;shape=taperedArrow;" target="rELAPkctuwPaxWQCNFnj-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2824" y="474" as="targetPoint" />
           </mxGeometry>
