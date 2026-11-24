@@ -306,7 +306,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="INFORME contribución" id="lH-M9x1_DmbrwO6ooRz5">
-    <mxGraphModel dx="3861" dy="2183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,13 +345,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;¿El solicitante&lt;b&gt; tiene la documentación&lt;/b&gt; ?&amp;nbsp;&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;¿El solicitante&lt;b&gt; tiene la documentación&lt;/b&gt; ?&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="394" x="2061.88" y="968" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-17" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=25;" value="&lt;div&gt;&lt;font&gt;Si &lt;b&gt;el ciudadano desea demostrar su calidad de propietario u ocupante&lt;/b&gt;, agendar al ciudadano en &lt;u&gt;&lt;b&gt;Servicios de Ingresos Inmobiliarios&lt;/b&gt;&lt;/u&gt; para que realice una d&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eclaración jurada&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=25;roundedPerimeter=1;shadow=1;" value="&lt;div&gt;&lt;font&gt;Si &lt;b&gt;el ciudadano desea demostrar su calidad de propietario u ocupante&lt;/b&gt;, agendar al ciudadano en &lt;u&gt;&lt;b&gt;Servicios de Ingresos Inmobiliarios&lt;/b&gt;&lt;/u&gt; para que realice una d&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eclaración jurada&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="237" width="437" x="2623.5" y="1002" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-19" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-27">
@@ -363,26 +363,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-21" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;fontSize=25;curved=0;" target="7WZA-jevfyRtdrVCdCkw-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-22" connectable="0" parent="7WZA-jevfyRtdrVCdCkw-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontStyle=1" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0131" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry relative="1" x="-0.5906" as="geometry">
+            <Array as="points">
+              <mxPoint x="1877.7" y="1244" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;¿Contamos con el&lt;b&gt; número de cuenta corriente&lt;/b&gt;?&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-22" connectable="0" parent="7WZA-jevfyRtdrVCdCkw-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontStyle=1" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5698" as="geometry">
+            <mxPoint x="-77" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;¿Contamos con el&lt;b&gt; número de cuenta corriente&lt;/b&gt;?&lt;/font&gt;" vertex="1">
           <mxGeometry height="130" width="320" x="2098.88" y="1179" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-24" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;curved=0;" target="7WZA-jevfyRtdrVCdCkw-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-25" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;font&gt;&lt;b&gt;Buscar por el padrón&lt;/b&gt; de la propiedad en:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;b&gt;Consultas generales&quot;&lt;/b&gt; - &lt;b&gt;&quot;contribución inmobiliaria &quot;&lt;/b&gt; -&amp;nbsp; &lt;b&gt;&quot;cuentas corrientes por unidad catastral&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(cliquear &quot;linterna&quot;) escribimos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&quot;padrón&quot; y &quot;unidad&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&amp;nbsp;Se arrojan todas las cuentas del padrón y &lt;b&gt;se elige la solicitada&lt;/b&gt; para copiar el número de cuenta&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-25" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Buscar por el padrón&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt; de la propiedad en:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;b&gt;Consultas generales&quot;&lt;/b&gt; - &lt;b&gt;&quot;contribución inmobiliaria &quot;&lt;/b&gt; -&amp;nbsp; &lt;b&gt;&quot;cuentas corrientes por unidad catastral&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(cliquear &quot;linterna&quot;) escribimos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&quot;padrón&quot; y &quot;unidad&quot;&lt;/b&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(cliquear &quot;linterna&quot;)&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&amp;nbsp;Se arrojan todas las cuentas del padrón y &lt;b&gt;se elige la solicitada&lt;/b&gt; para copiar el número de cuenta&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="323" width="520.38" x="1617.5" y="1288.4300000000003" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-26" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-27" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;verticalAlign=top;" value="&lt;font&gt;&lt;b&gt;Ingresar &lt;/b&gt;a:&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;&quot;Consultas generales&quot;&lt;/b&gt;- &lt;b&gt;&quot;informe de deuda&quot;&lt;/b&gt;, (cliquear &quot;linterna&quot;) y acceder &lt;b&gt;por número de cuenta &lt;/b&gt;corriente, escribirlo (cliquear &quot;linterna&quot;).&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;Cliquear &quot;informe de deuda&quot;&lt;/b&gt; para acceder.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;Revisar&lt;/b&gt; &lt;b&gt;deuda anterior&lt;/b&gt;, deuda &lt;b&gt;actual,&lt;/b&gt; deuda&lt;b&gt; a vencer &lt;/b&gt;y &lt;b&gt;el total &lt;/b&gt;de la deuda.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-27" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;verticalAlign=top;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Ingresar &lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;a:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;&quot;Consultas generales&quot;&lt;/b&gt;- &lt;b&gt;&quot;informe de deuda&quot;&lt;/b&gt;, (cliquear &quot;linterna&quot;) y acceder &lt;b&gt;por número de cuenta &lt;/b&gt;corriente, escribirlo (cliquear &quot;linterna&quot;).&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;Cliquear &quot;informe de deuda&quot;&lt;/b&gt; para acceder.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;Revisar&lt;/b&gt; &lt;b&gt;deuda anterior&lt;/b&gt;, deuda &lt;b&gt;actual,&lt;/b&gt; deuda&lt;b&gt; a vencer &lt;/b&gt;y &lt;b&gt;el total &lt;/b&gt;de la deuda.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="383" width="454.26" x="2031.75" y="1676.25" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-28" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-72">
@@ -390,16 +394,16 @@
             <mxPoint x="2206" y="2231" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Por último&lt;b&gt; cliquear &quot;imprimir deuda&quot;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;Por último&lt;b&gt; cliquear &quot;imprimir deuda&quot;&lt;/b&gt;&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="454.26" x="2031.75" y="2109" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-30" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="7WZA-jevfyRtdrVCdCkw-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Esta información &lt;b&gt;se entrega si&lt;/b&gt; el solicitante &lt;b&gt;tiene &lt;u&gt;vinculación jurídica&lt;/u&gt;&lt;/b&gt; con el padrón.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el&amp;nbsp;título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;Esta información &lt;b&gt;se entrega si&lt;/b&gt; el solicitante &lt;b&gt;tiene &lt;u&gt;vinculación jurídica&lt;/u&gt;&lt;/b&gt; con el padrón.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Presentando su cédula y el&amp;nbsp;título de propiedad o certificado notarial original&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="255" width="378" x="2069.5" y="579" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-32" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-31">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-32" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2249.62" y="706.5" as="targetPoint" />
           </mxGeometry>
@@ -412,11 +416,11 @@
         <mxCell id="7WZA-jevfyRtdrVCdCkw-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano presenta un convenio?&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="127.62" width="289" x="1480" y="642.19" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-42" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-45">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-42" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-43" parent="1" style="whiteSpace=wrap;html=1;fontSize=25;verticalAlign=top;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;Ingresar&lt;/b&gt; a:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;&quot;Consultas generales&quot;&lt;/b&gt;- &lt;b&gt;&quot;informe de deuda&quot;&lt;/b&gt;, (cliquear &quot;linterna&quot;) y acceder por &lt;b&gt;número de cuenta corriente del convenio&lt;/b&gt;, escribirlo (cliquear &quot;linterna&quot;)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;b&gt;Cliquear &quot;informe de deuda&quot;&lt;/b&gt; para acceder.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;b&gt;Revisar&lt;/b&gt; la deuda&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="323" width="481.13" x="880" y="1854" as="geometry" />
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-43" parent="1" style="whiteSpace=wrap;html=1;fontSize=25;verticalAlign=top;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;Ingresar&lt;/b&gt; a:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;&quot;Consultas generales&quot;&lt;/b&gt;- &lt;b&gt;&quot;informe de deuda&quot;&lt;/b&gt;, (cliquear &quot;linterna&quot;) y acceder por &lt;b&gt;número de cuenta corriente del convenio&lt;/b&gt;, escribirlo (cliquear &quot;linterna&quot;)&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;b&gt;Cliquear &quot;informe de deuda&quot;&lt;/b&gt; para acceder.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font&gt;&lt;b&gt;Revisar&lt;/b&gt; la deuda&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323" width="481.13" x="882" y="1854" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-44" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-50">
           <mxGeometry relative="1" as="geometry">
@@ -425,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;Por último&lt;b&gt; cliquear &quot;imprimir deuda&quot;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="465.75" x="885.69" y="2217" as="geometry" />
+          <mxGeometry height="70" width="465.75" x="889.69" y="2248" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-46" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-51">
           <mxGeometry relative="1" as="geometry">
@@ -438,28 +442,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-48" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;curved=0;" target="7WZA-jevfyRtdrVCdCkw-68">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="-0.007" as="geometry">
             <Array as="points">
-              <mxPoint x="1347.75" y="2662.5" />
+              <mxPoint x="1350.8" y="2685.5" />
             </Array>
             <mxPoint x="1681.1999999999991" y="2120.625" as="sourcePoint" />
             <mxPoint x="1893.0000000000005" y="2143.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-49" connectable="0" parent="7WZA-jevfyRtdrVCdCkw-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontStyle=1;fontColor=#FF0000;" value="NO" vertex="1">
-          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+          <mxGeometry relative="1" x="0.1941" y="1" as="geometry">
             <mxPoint x="-498" y="-72" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano quiere generar una factura por la&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;deuda?&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="89.25" width="462" x="1001.2999999999997" y="2461" as="geometry" />
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-50" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano quiere generar una factura por la&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;deuda?&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="89.25" width="462" x="1006.2999999999997" y="2461" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font&gt;Continuar con los pasos de&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&quot;Emitir y pagar una factura&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;(ver procedimiento)&lt;/font&gt;&lt;/div&gt;" id="7WZA-jevfyRtdrVCdCkw-51">
           <mxCell parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;fontSize=25;" vertex="1">
-            <mxGeometry height="124" width="335.99" x="949.57" y="2666" as="geometry" />
+            <mxGeometry height="124" width="335.99" x="951.57" y="2666" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-56" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-43">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-56" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-57" connectable="0" parent="7WZA-jevfyRtdrVCdCkw-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;labelBackgroundColor=#d5e8d4;labelBorderColor=#82b366;fontStyle=1" value="&lt;font style=&quot;color: rgb(103, 171, 159);&quot;&gt;SI&lt;/font&gt;" vertex="1">
@@ -467,7 +471,7 @@
             <mxPoint x="8" y="-201" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-58" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7WZA-jevfyRtdrVCdCkw-81">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-58" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632.0600000000001" y="641.5" as="sourcePoint" />
           </mxGeometry>
@@ -488,7 +492,7 @@
             <mxGeometry height="40" width="280" x="2702.01" y="1176" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-66" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-60">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-66" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1365" y="706" as="sourcePoint" />
             <mxPoint x="1092.2198400000002" y="709.145" as="targetPoint" />
@@ -499,8 +503,8 @@
             <mxPoint x="-7" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="65" width="140" x="2198" y="2630" as="geometry" />
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;shadow=1;" value="&lt;font&gt;&lt;b&gt;FIN&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="79" width="200.12" x="2137.88" y="2646" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-69" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="7WZA-jevfyRtdrVCdCkw-73">
           <mxGeometry relative="1" as="geometry" />
@@ -513,10 +517,10 @@
         <mxCell id="7WZA-jevfyRtdrVCdCkw-71" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;curved=0;" target="7WZA-jevfyRtdrVCdCkw-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-72" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano desea realizar un convenio?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-72" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;&lt;b&gt;¿El ciudadano desea realizar un convenio?&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="289" x="2113.88" y="2318" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" value="&lt;font&gt;&lt;b&gt;Agendar&lt;/b&gt; al ciudadano en &lt;b&gt;Gestión Fiscal&lt;/b&gt;.&lt;/font&gt;&lt;div&gt;&lt;font&gt;Ingresar al&amp;nbsp; siguiente link:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;&lt;b&gt;Agendar&lt;/b&gt; al ciudadano en &lt;b&gt;Gestión Fiscal&lt;/b&gt;.&lt;/font&gt;&lt;div&gt;&lt;font&gt;Ingresar al&amp;nbsp; siguiente link:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="455.31" x="2442" y="2426" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-74" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-68">
@@ -529,13 +533,13 @@
             <mxGeometry height="30" width="360.35" x="2497" y="2563" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-76" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-34">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-76" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-77" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=25;shadow=1;rounded=1;roundedPerimeter=1;" value="&lt;font&gt;&lt;b&gt;INGRESAR ALSISTEMA:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;GIC&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="72" width="353.5" x="1447.25" y="494" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-78" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-77">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-78" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-77">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2143" y="476" as="sourcePoint" />
           </mxGeometry>
@@ -543,25 +547,25 @@
         <mxCell id="7WZA-jevfyRtdrVCdCkw-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D5E8D4;strokeColor=#82b366;strokeWidth=6;gradientColor=none;fontSize=25;shadow=1;" value="&lt;font&gt;&lt;b&gt;INICIO&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="110" x="1569" y="307" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-80" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-83">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-80" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-81" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Con el padrón de la propiedad, ingresar a:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&quot;Consultas generales&quot; - &quot;contribución inmobiliaria&quot; - &quot;cuentas corrientes por unidad catastral&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Escribimos &quot;padrón&quot; y &quot;unidad&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Con todas las cuentas del padrón,&lt;b&gt; se copia el&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;N° de cuenta corriente por el que se hizo el convenio&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-81" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;span&gt;&lt;b&gt;Con el padrón de la propiedad, ingresar a:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&quot;Consultas generales&quot; - &quot;contribución inmobiliaria&quot; - &quot;cuentas corrientes por unidad catastral&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Escribimos &quot;padrón&quot; y &quot;unidad&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Con todas las cuentas del padrón,&lt;b&gt; se copia el&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;N° de cuenta corriente por el que se hizo el convenio&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="344" width="510" x="117" y="767" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-82" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-85">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-82" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-83" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Ingresar a:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&quot;Consultas generales&quot; - &quot;informe de deuda&quot; - &quot;número de cuenta corriente&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Pegar el número de cuenta&lt;/b&gt;&amp;nbsp;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Clic en&lt;b&gt; &quot;informe de deuda&quot;.&lt;/b&gt; Del ítem &lt;b&gt;&quot;conceptos&quot; copiar el N° de Convenio&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-83" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Ingresar a:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;&quot;Consultas generales&quot; - &quot;informe de deuda&quot; - &quot;número de cuenta corriente&quot; &lt;/b&gt;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Pegar el número de cuenta&lt;/b&gt;&amp;nbsp;(clic &quot;linterna&quot;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Clic en&lt;b&gt; &quot;informe de deuda&quot;.&lt;/b&gt; Del ítem &lt;b&gt;&quot;conceptos&quot; copiar el N° de Convenio&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="309" width="510" x="117" y="1176" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-84" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-90">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-84" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-85" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;" value="&lt;span&gt;&lt;b&gt;Con el número de convenio:&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;En&lt;b&gt; &quot;facturación&quot; - &quot;mantenimiento de documentos&quot;, &quot;clave de cuenta&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;En&lt;b&gt; flecha azul &lt;/b&gt;elegir&lt;b&gt; opción &quot;Convenios tributos domiciliarios&quot; (clic &quot;linterna&quot;)&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Pegar N° de convenio (clic &quot;linterna&quot;) y clic en &quot;mantenimiento&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Elegir una&lt;b&gt; factura emitida, clic &quot;ver documento&quot; y &quot;Cabs. y Avisos&quot; revisar el nombre del ciudadano asociado al convenio&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-85" parent="1" style="whiteSpace=wrap;html=1;align=left;fontSize=25;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Con el número de convenio:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;En&lt;b&gt; &quot;facturación&quot; - &quot;mantenimiento de documentos&quot;, &quot;clave de cuenta&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;En&lt;b&gt; flecha azul &lt;/b&gt;elegir&lt;b&gt; opción &quot;Convenios tributos domiciliarios&quot; (clic &quot;linterna&quot;)&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;b&gt;Pegar N° de convenio (clic &quot;linterna&quot;) y clic en &quot;mantenimiento&quot;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Elegir una&lt;b&gt; factura emitida, clic &quot;ver documento&quot; y &quot;Cabs. y Avisos&quot; revisar el nombre del ciudadano asociado al convenio&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="420" width="510" x="117" y="1553" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-86" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-91">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-86" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7WZA-jevfyRtdrVCdCkw-87" connectable="0" parent="7WZA-jevfyRtdrVCdCkw-86" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;fontSize=25;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;b&gt;NO&lt;/b&gt;&lt;/font&gt;" vertex="1">
@@ -569,7 +573,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-88" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;" target="7WZA-jevfyRtdrVCdCkw-43">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-88" edge="1" parent="1" source="7WZA-jevfyRtdrVCdCkw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;fontSize=25;shape=taperedArrow;" target="7WZA-jevfyRtdrVCdCkw-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="844.0599999999994" y="1600.5" as="targetPoint" />
           </mxGeometry>
@@ -579,10 +583,10 @@
             <mxPoint x="-83" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-90" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;¿El nombre coincide con el ciudadano solicitante?&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-90" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=25;strokeWidth=2;rounded=1;roundedPerimeter=1;shadow=1;" value="&lt;font&gt;&lt;b&gt;¿El nombre coincide con el ciudadano solicitante?&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="127.62" width="289" x="227.5" y="2033" as="geometry" />
         </mxCell>
-        <mxCell id="7WZA-jevfyRtdrVCdCkw-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;" value="&lt;font&gt;FIN&lt;/font&gt;" vertex="1">
+        <mxCell id="7WZA-jevfyRtdrVCdCkw-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;fontSize=25;shadow=1;" value="&lt;font&gt;FIN&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="156.5" x="293.75" y="2278" as="geometry" />
         </mxCell>
       </root>
