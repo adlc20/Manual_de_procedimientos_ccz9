@@ -107,9 +107,11 @@
         <mxCell id="YaLXAKDGUNQ4cMJmnPIx-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;Servicio de mantenimiento vial con toda la documentación requerida.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="235" width="1850" x="1500" y="3094" as="geometry" />
         </mxCell>
-        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;Servicio de mantenimiento vial&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="235" width="1850" x="1500" y="3419" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 35px;&quot;&gt;Servicio de mantenimiento vial&amp;nbsp;&lt;/span&gt;" link="https://tramites.montevideo.gub.uy/tramites-y-tributos/solicitud/rebaje-de-cordon" id="YaLXAKDGUNQ4cMJmnPIx-46">
+          <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1">
+            <mxGeometry height="235" width="1850" x="1500" y="3419" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="YaLXAKDGUNQ4cMJmnPIx-48" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
