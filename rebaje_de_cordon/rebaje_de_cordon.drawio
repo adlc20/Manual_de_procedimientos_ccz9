@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="apuntes " id="RmZaTe72yQCA9F6vryv_">
+    <mxGraphModel dx="2220" dy="1255" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="light-dark(#F4F6F9,#121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.patternFillRect;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#EDF2F7;strokeWidth=0;dashed=1;dashPattern=1 4;rounded=1;align=center;fontFamily=Helvetica;fontSize=12;fontColor=#2D3748;" value="" vertex="1">
+          <mxGeometry height="130" width="4544" x="66" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=auto;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#E0E5EB;strokeWidth=0;opacity=50;fontColor=#ffffff;shadow=0;comic=0;align=center;fontFamily=Helvetica;fontSize=12;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="4544" x="66" y="211" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Comic Sans MS&quot;&gt;APUNTES REBAJE DE CORDÓN:&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="109" width="786" x="1886" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;MEDIANTE ESTE TRÁMITE SE SOLICITA EL PREMISO O LA REGULACIÓN DE OBRAS PARA EL REBAJE DE CORDÓN. LA OBRA LA DEBE REALIZAR LA PERSONA QUE SOLICITA EL PERMISO&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1518" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-14" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Cómo es el trámite?&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="425" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-18" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Es un trámite con costo ?&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="425" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Si&lt;/font&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;,&amp;nbsp;&lt;span style=&quot;font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Sellado: $ 329&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Ejecución: 2 UR&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Regularización: 7 UR (2 UR autorización + 5 UR multa)&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;font-family: Ciudadana, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; letter-spacing: 0.15008px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Nivelación: solo el sellado&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1507" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-23" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;En que casos se puede dar inicio al trámite?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="425" y="1302" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Tener el acceso vehicular al predio: no debe haber muro, reja ni otro impedimento.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Debe haber espacio suficiente para que el vehículo quede íntegramente estacionado dentro del predio sin ocupar la vereda&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="239" width="1857" x="1500" y="1327" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-25" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-33" connectable="0" parent="YaLXAKDGUNQ4cMJmnPIx-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;CON OBRA ACTUAL&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1599" y="-12" as="geometry">
+            <mxPoint x="31" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-30" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-32" connectable="0" parent="YaLXAKDGUNQ4cMJmnPIx-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;OBRA NUEVA&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4843" y="5" as="geometry">
+            <mxPoint x="-5" y="-100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-40" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-39">
+          <mxGeometry relative="1" x="-0.0187" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="2864.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-41" connectable="0" parent="YaLXAKDGUNQ4cMJmnPIx-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;LOCALES COMERCIALES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4469" y="-1" as="geometry">
+            <mxPoint x="21" y="231" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Qué debe presentar el ciudadano?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="425" y="1712" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-28" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Ser propietario, inquilino o gestor y presentar recibo de contribución inmobiliaria con la cuota vigente al día. En caso de estar exonerado del pago se debe presentar resolución que aclaré la exoneración&amp;nbsp;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1500" y="1738" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Qué formulario deben completar y presentar?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="3463" y="2065" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-37" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;En caso de ser propiedad horizontal deberán presentar constancia con el aval de la mayoría de los propietarios o copia del acta en caso de que se haya resulto por asamblea&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1500" y="2091" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-38" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="YaLXAKDGUNQ4cMJmnPIx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;En caso de ser una obra nueva se debe presentar copia del plano donde se proyectan los rebajes de cordón a solicitar.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;Sellado por arquitecto y por el Servicio de Contralor de la Edificación&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1500" y="2428" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-36" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;Presentar la solicitud de información I, gestionada previamente el Servicio de Regulación Territorial de las implantaciones&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1507" y="2747" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-45" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-43" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Dónde se da inicio este trámite?&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="347" y="3068" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;Servicio de mantenimiento vial con toda la documentación requerida.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1500" y="3094" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;Servicio de mantenimiento vial&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="235" width="1850" x="1500" y="3419" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-48" edge="1" parent="1" source="YaLXAKDGUNQ4cMJmnPIx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="YaLXAKDGUNQ4cMJmnPIx-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YaLXAKDGUNQ4cMJmnPIx-47" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Dónde se da inicio este trámite?&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="287" width="540" x="347" y="3393" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
