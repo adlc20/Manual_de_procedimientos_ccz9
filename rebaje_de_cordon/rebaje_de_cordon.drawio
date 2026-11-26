@@ -4,65 +4,62 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tv1MSZojHv9x9d1SzpLY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="2664" width="3440" x="6307" y="952" as="geometry" />
-        </mxCell>
-        <mxCell id="YDxX94qZT2wEFAuHOlKk-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;rotation=90;direction=south;" value="" vertex="1">
-          <mxGeometry height="998.23" width="467.37" x="1042.43" y="1245.57" as="geometry" />
+        <mxCell id="YDxX94qZT2wEFAuHOlKk-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;rotation=90;direction=south;imageBorder=default;" value="" vertex="1">
+          <mxGeometry height="998.23" width="467.37" x="1095.43" y="1267.57" as="geometry" />
         </mxCell>
         <mxCell id="tv1MSZojHv9x9d1SzpLY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Georgia; font-size: 85px;&quot;&gt;REBAJE DE CORDÓN&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="154" width="3297" x="692" y="155" as="geometry" />
+          <mxGeometry height="154" width="3297" x="745" y="177" as="geometry" />
         </mxCell>
         <mxCell id="yS_hiq7C13J4Ko_sqj---1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#f5f5f5;fillStyle=solid;fontColor=#333333;strokeColor=#666666;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;MEDIANTE ESTE TRÁMITE SE SOLICITA EL PERMISO O LA REGULACIÓN DE OBRAS PARA EL REBAJE DE CORDÓN&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;(la obra la realiza la persona que solicita el premiso)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="124" width="3297" x="692" y="309" as="geometry" />
+          <mxGeometry height="124" width="3297" x="745" y="331" as="geometry" />
         </mxCell>
         <mxCell id="6cMRmCnC5e06KHcOmiG7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;El acceso vehicular al predio no debe tener muro, reja ni otro impedimento.&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 35px; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Debe haber &lt;b&gt;espacio suficiente para que el vehículo quede íntegramente estacionado dentro del predio sin ocupar la vereda&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
-          <mxGeometry height="315" width="1224" x="692" y="1141" as="geometry" />
+          <mxGeometry height="315" width="1224" x="745" y="1163" as="geometry" />
         </mxCell>
         <mxCell id="NoZcHgD9BgBodgeLkjVR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;¿Qué condición debe cumplir el predio para que&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;se pueda iniciar este trámite?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="1224" x="692" y="1047" as="geometry" />
+          <mxGeometry height="94" width="1224" x="745" y="1069" as="geometry" />
         </mxCell>
         <mxCell id="I_1Nkb-RYfn_ibrowQ9U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;¿Qué requisito debe cumplir el ciudadano y qué debe presentar ante la IMM?&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="94" width="1960" x="2029" y="534" as="geometry" />
+          <mxGeometry height="94" width="1960" x="2082" y="556" as="geometry" />
         </mxCell>
         <mxCell id="I_1Nkb-RYfn_ibrowQ9U-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;" value="&lt;span style=&quot;font-size: 35px; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;b&gt;Ser propietario, inquilino o gestor.&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&amp;nbsp;&lt;b&gt;Presentar recibo de contribución inmobiliaria&lt;/b&gt; con la cuota vigente al día, en caso de estar exonerado del pago se debe presentar resolución que aclaré la exoneración&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="316.5" width="1960" x="2029" y="631.5" as="geometry" />
+          <mxGeometry height="316.5" width="1960" x="2082" y="653.5" as="geometry" />
         </mxCell>
         <mxCell id="ZkeYRbS_75K_l63M-HyE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;¿Dónde se genéra este trámite?&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="94" width="1233" x="692" y="534" as="geometry" />
+          <mxGeometry height="94" width="1233" x="745" y="556" as="geometry" />
         </mxCell>
         <mxCell id="jPSY39YtLXHeHG_CsGpR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;" value="&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;En &lt;b&gt;Servicio de Mantenimiento Vial&lt;/b&gt; (Av. 18 de Julio 1360, puerta 7001).&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Reservar día y hora &lt;/b&gt;llamando al 1950 4600 o 1950 4590&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 35px;&quot;&gt;(trámite con costo)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="318.25" width="1233" x="692" y="629.75" as="geometry" />
+          <mxGeometry height="318.25" width="1233" x="745" y="651.75" as="geometry" />
         </mxCell>
-        <mxCell id="c8KmTyo5OiP2GXddvs6M-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;- En &lt;b&gt;propiedades horizontales&lt;/b&gt; deberán presentar &lt;b&gt;constancia con el aval de la mayoría de los propietarios&lt;/b&gt; o copia del acta en caso de que se haya resuelto por asamblea.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;- En &lt;b&gt;obras nuevas&lt;/b&gt; presentar &lt;b&gt;copia del plano donde se proyectan los rebajes de cordón&lt;/b&gt; a solicitar, sellado por arquitecto y el Servicio de Contralor de la Edificación&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;- Para&lt;b&gt; estacionamientos frontales en retiros de locales&lt;/b&gt; comerciales gestionar previamente reserva &lt;b&gt;ante el Servicio de Regulación Territorial de las Implantaciones&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="378" width="1960" x="2029" y="1456" as="geometry" />
+        <mxCell id="c8KmTyo5OiP2GXddvs6M-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=center;verticalAlign=middle;fontColor=#333333;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;- En &lt;b&gt;propiedades horizontales&lt;/b&gt; deberán presentar &lt;b&gt;constancia con el aval de la mayoría de los propietarios&lt;/b&gt; o copia del acta en caso de que se haya resuelto por asamblea.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;- En &lt;b&gt;obras nuevas&lt;/b&gt; presentar &lt;b&gt;copia del plano donde se proyectan los rebajes de cordón&lt;/b&gt; a solicitar, sellado por arquitecto y el Servicio de Contralor de la Edificación&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;- Para&lt;b&gt; estacionamientos frontales en retiros de locales&lt;/b&gt; comerciales gestionar previamente reserva &lt;b&gt;ante el Servicio de Regulación Territorial de las Implantaciones&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="378" width="1960" x="2082" y="1478" as="geometry" />
         </mxCell>
         <mxCell id="1gKBBSjJKFMP3DRZVqwp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;¿Qué formulario debe completar y presentar el ciudadano?&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="94" width="1960" x="2029" y="1050.5" as="geometry" />
+          <mxGeometry height="94" width="1960" x="2082" y="1072.5" as="geometry" />
         </mxCell>
         <UserObject label="" id="1gKBBSjJKFMP3DRZVqwp-2">
           <mxCell parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;" vertex="1">
-            <mxGeometry height="143.5" width="1960" x="2029" y="1144.5" as="geometry" />
+            <mxGeometry height="143.5" width="1960" x="2082" y="1166.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://tramites.montevideo.gub.uy/sites/tramites.montevideo.gub.uy/files/tramites/documentos/Formulario%20de%20solicitud%20de%20rebaje%20de%20cordon.pdf" id="1gKBBSjJKFMP3DRZVqwp-3">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillStyle=cross-hatch;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1">
-            <mxGeometry height="60" width="802.5" x="2597" y="1187.75" as="geometry" />
+            <mxGeometry height="60" width="802.5" x="2650" y="1209.75" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 35px;&quot;&gt;&lt;u&gt;&lt;i&gt;&lt;b&gt;Formulario de solicitud de rebaje de cordón&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;&lt;/span&gt;" link="https://tramites.montevideo.gub.uy/sites/tramites.montevideo.gub.uy/files/tramites/documentos/Formulario%20de%20solicitud%20de%20rebaje%20de%20cordon.pdf" id="1gKBBSjJKFMP3DRZVqwp-4">
           <mxCell parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1">
-            <mxGeometry height="94" width="795.5" x="2604" y="1169.25" as="geometry" />
+            <mxGeometry height="94" width="795.5" x="2657" y="1191.25" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="c8KmTyo5OiP2GXddvs6M-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Además tener en cuenta:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="94" width="1960" x="2029" y="1362" as="geometry" />
+          <mxGeometry height="94" width="1960" x="2082" y="1384" as="geometry" />
         </mxCell>
-        <mxCell id="1gKBBSjJKFMP3DRZVqwp-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Más información en:&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="94" width="1960" x="2029" y="1905" as="geometry" />
+        <mxCell id="1gKBBSjJKFMP3DRZVqwp-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;Más información en:&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="94" width="1960" x="2082" y="1927" as="geometry" />
         </mxCell>
         <mxCell id="1gKBBSjJKFMP3DRZVqwp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;a href=&quot;https://tramites.montevideo.gub.uy/tramites-y-tributos/solicitud/rebaje-de-cordon&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Rebaje de cordón | Portal trámites&lt;/font&gt;&lt;/a&gt;" vertex="1">
-          <mxGeometry height="73" width="869" x="2581" y="1915.5" as="geometry" />
+          <mxGeometry height="73" width="869" x="2634" y="1937.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
